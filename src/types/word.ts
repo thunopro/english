@@ -59,7 +59,7 @@ export interface UserProgressData {
   [wordId: string]: SRSState;
 }
 
-export type ViewMode = 'bank' | 'flashcards' | 'quiz' | 'text-list';
+export type ViewMode = 'reading' | 'bank' | 'flashcards' | 'quiz' | 'text-list';
 
 export interface FilterOptions {
   search: string;

@@ -20,7 +20,10 @@ export function useWords() {
       setIsLoading(true);
       setError(null);
       try {
-        const res = await fetch('./words.json');
+        let res = await fetch('/words.json');
+        if (!res.ok) {
+          res = await fetch('./words.json');
+        }
         if (!res.ok) {
           throw new Error(`Failed to fetch words.json: HTTP ${res.status}`);
         }

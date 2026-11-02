@@ -19,6 +19,7 @@ import { filterAndSortWords, getAllTags } from './utils/searchFilter';
 import { getWordDeepLink } from './utils/exportUtils';
 
 import { Navbar } from './components/Navbar';
+import { ReadingView } from './components/ReadingView';
 import { WordCard } from './components/WordCard';
 import { WordDetailModal } from './components/WordDetailModal';
 import { AddWordModal } from './components/AddWordModal';
@@ -27,13 +28,14 @@ import { QuizView } from './components/QuizView';
 import { TextListView } from './components/TextListView';
 import { StatsModal } from './components/StatsModal';
 import { Toast, ToastMessage } from './components/Toast';
+import { GITHUB_REPO_URL, PEARLS_DOC_URL } from './data/pearlsReading';
 
 export const App: React.FC = () => {
   // Theme state
   const [isDarkMode, setIsDarkMode] = useLocalStorage<boolean>('vocab_dark_mode', false);
 
-  // Active View ('bank' | 'flashcards' | 'quiz' | 'text-list')
-  const [currentView, setCurrentView] = useState<ViewMode>('bank');
+  // Active View ('reading' | 'bank' | 'flashcards' | 'quiz' | 'text-list')
+  const [currentView, setCurrentView] = useState<ViewMode>('reading');
 
   // Selected word for detail modal
   const [selectedWord, setSelectedWord] = useState<WordEntry | null>(null);
@@ -111,6 +113,8 @@ export const App: React.FC = () => {
         if (matched) {
           setSelectedWord(matched);
         }
+      } else if (hash === '#reading') {
+        setCurrentView('reading');
       } else if (hash === '#flashcards') {
         setCurrentView('flashcards');
       } else if (hash === '#quiz') {
@@ -179,6 +183,18 @@ export const App: React.FC = () => {
 
       {/* Main Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        {/* VIEW 0: READING 01 (PEARLS & IELTS QUIZ) */}
+        {currentView === 'reading' && (
+          <ReadingView
+            words={words}
+            onSelectWord={handleOpenDetail}
+            onPlayWordAudio={play}
+            preferredAccent={preferredAccent}
+            onChangeAccent={setPreferredAccent}
+            onNavigateToBank={() => handleSelectView('bank')}
+          />
+        )}
+
         {/* VIEW 1: WORD BANK / EXPLORER */}
         {currentView === 'bank' && (
           <div className="space-y-6 animate-fade-in">
@@ -430,16 +446,25 @@ export const App: React.FC = () => {
 
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com"
+              href={PEARLS_DOC_URL}
               target="_blank"
               rel="noreferrer"
-              className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors flex items-center gap-1"
+              className="hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors flex items-center gap-1 font-medium"
             >
-              <GitBranch size={13} />
-              <span>GitHub Repo</span>
+              <span>📄 Tài liệu Docs Pearls</span>
             </a>
             <span>•</span>
-            <span>Tự động cập nhật qua GitHub Pages & Actions</span>
+            <a
+              href={GITHUB_REPO_URL}
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors flex items-center gap-1 font-medium"
+            >
+              <GitBranch size={13} />
+              <span>GitHub: thunopro/english</span>
+            </a>
+            <span>•</span>
+            <span>Vercel Live</span>
           </div>
         </div>
       </footer>

@@ -4,9 +4,9 @@
   "description": "An interactive, open-source English vocabulary learner with authentic native audio pronunciation, deep linking, Spaced Repetition (SRS), flashcards, and GitHub-backed gradual word notes.",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "test": "vitest run",
     "add": "node scripts/add_word.mjs",
     "validate": "node scripts/validate_words.mjs",
@@ -25,8 +25,10 @@
   "author": "luongminhthu",
   "license": "MIT",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
     "canvas-confetti": "^1.9.4",
     "lucide-react": "^1.66.0",
+    "next": "^16.4.4",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },

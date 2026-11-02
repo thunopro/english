@@ -1,956 +1,512 @@
 [
   {
-    "id": "mindset",
-    "word": "mindset",
-    "phonetic": "/mindset/",
-    "partOfSpeech": "noun",
-    "meaningVi": "tư duy.",
-    "meaningEn": "A way of thinking; an attitude or opinion, especially a habitual one.",
+    "id": "fond",
+    "word": "to be fond of sth",
+    "phonetic": "/fɒnd/",
+    "partOfSpeech": "phrase",
+    "meaningVi": "thích thú, yêu thích cái gì",
+    "meaningEn": "Having an affection or liking for someone or something.",
     "examples": [
       {
-        "en": "Earth Day is a way of propagating and celebrating the environmentalist mindset."
+        "en": "The ancient Egyptians were particularly fond of their pearls.",
+        "vi": "Người Ai Cập cổ đại đặc biệt yêu thích những viên ngọc trai của họ."
       }
     ],
-    "synonyms": [
-      "mentality"
-    ],
-    "collocations": [],
-    "tags": [
-      "TerminalBuffer",
-      "Daily"
-    ],
+    "synonyms": ["keen on", "attached to", "partial to"],
+    "collocations": ["be fond of doing something", "fond memories", "grow fond of"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Collocation"],
     "level": "B2",
-    "notes": "Thêm qua terminal word (Ctrl+G)",
-    "dateAdded": "2026-11-02"
+    "notes": "Trích Đoạn A bài đọc Pearls.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   },
   {
-    "id": "equilibrium",
-    "word": "equilibrium",
-    "phonetic": "/iːkwɪˈlɪbɹɪəm/",
+    "id": "treasure",
+    "word": "treasure",
+    "phonetic": "/ˈtreʒ.ər/",
     "partOfSpeech": "noun",
-    "meaningVi": "thăng bằng",
-    "meaningEn": "The condition of a system in which competing influences are balanced, resulting in no net change.",
+    "meaningVi": "kho báu (N); trân quý, coi như bảo vật (V)",
+    "meaningEn": "A quantity of precious metals, gems, or valuable objects; to cherish or prize highly.",
     "examples": [
       {
-        "en": "Example sentence with the word \"equilibrium\"."
+        "en": "Many Egyptian leaders treasured pearls so much that they were often buried along with their cherished pearl collection.",
+        "vi": "Nhiều thủ lĩnh Ai Cập trân quý ngọc trai đến mức họ thường được chôn cất cùng bộ sưu tập ngọc trai yêu quý."
       }
     ],
-    "synonyms": [
-      "balance",
-      "stability",
-      "sanity"
-    ],
-    "antonyms": [
-      "disequilibrium",
-      "imbalance",
-      "instability",
-      "disequilibrium"
-    ],
-    "collocations": [],
-    "tags": [
-      "TerminalBuffer",
-      "Daily"
-    ],
-    "level": "B2",
-    "notes": "Thêm qua terminal word (Ctrl+G)",
-    "dateAdded": "2026-11-02"
+    "synonyms": ["cherish", "prize", "value", "gem"],
+    "collocations": ["national treasure", "buried treasure", "treasure a memory"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "B1",
+    "notes": "Vừa là danh từ (kho báu), vừa là động từ (trân quý).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   },
   {
-    "id": "perseverance",
-    "word": "perseverance",
-    "phonetic": "/ˌpɜːsəˈvɪəɹəns/",
-    "partOfSpeech": "noun",
-    "meaningVi": "sự kiên trì, lòng kiên định không nản lòng trước gian khổ",
-    "meaningEn": "Continuing in a course of action without regard to discouragement, opposition or previous failure.",
-    "examples": [
-      {
-        "en": "This is an example sentence using the word \"perseverance\".",
-        "vi": ""
-      }
-    ],
-    "collocations": [],
-    "tags": [
-      "Learning"
-    ],
-    "level": "B2",
-    "notes": "",
-    "dateAdded": "2026-11-02"
-  },
-  {
-    "id": "serendipity",
-    "word": "serendipity",
-    "phonetic": "/ˌser.ənˈdɪp.ə.ti/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serendipity-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Sự tình cờ may mắn; khả năng tình cờ tìm thấy những điều thú vị hay có giá trị một cách bất ngờ.",
-    "meaningEn": "The occurrence and development of events by chance in a happy or beneficial way.",
-    "examples": [
-      {
-        "en": "Finding my dream job while browsing a random forum was pure serendipity.",
-        "vi": "Tìm thấy công việc mơ ước khi đang lướt một diễn đàn ngẫu nhiên hoàn toàn là một sự may mắn tình cờ."
-      },
-      {
-        "en": "A fortunate stroke of serendipity brought the two researchers together.",
-        "vi": "Một sự tình cờ may mắn đã kết nối hai nhà nghiên cứu lại với nhau."
-      }
-    ],
-    "synonyms": [
-      "fluke",
-      "happy accident",
-      "providence",
-      "stroke of luck"
-    ],
-    "antonyms": [
-      "misfortune",
-      "bad luck"
-    ],
-    "collocations": [
-      "pure serendipity",
-      "stroke of serendipity",
-      "happy serendipity"
-    ],
-    "tags": [
-      "IELTS",
-      "C2",
-      "Philosophy",
-      "Daily"
-    ],
-    "level": "C2",
-    "notes": "Xuất phát từ câu chuyện cổ tích Ba hoàng tử xứ Serendip của Horace Walpole.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "resilience",
-    "word": "resilience",
-    "phonetic": "/rɪˈzɪl.jəns/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resilience-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Khả năng phục hồi, sự kiên cường vượt qua nghịch cảnh và khó khăn.",
-    "meaningEn": "The capacity to withstand or to recover quickly from difficulties; toughness.",
-    "examples": [
-      {
-        "en": "The community showed remarkable resilience after the devastating flood.",
-        "vi": "Cộng đồng đã thể hiện sự kiên cường đáng nể sau trận lũ lụt tàn khốc."
-      },
-      {
-        "en": "Developing mental resilience is essential for long-term entrepreneurial success.",
-        "vi": "Xây dựng sự kiên cường về mặt tâm lý là điều tối quan trọng để thành công lâu dài khi khởi nghiệp."
-      }
-    ],
-    "synonyms": [
-      "toughness",
-      "fortitude",
-      "perseverance",
-      "elasticity"
-    ],
-    "antonyms": [
-      "vulnerability",
-      "fragility",
-      "weakness"
-    ],
-    "collocations": [
-      "remarkable resilience",
-      "build resilience",
-      "emotional resilience"
-    ],
-    "tags": [
-      "IELTS",
-      "B2",
-      "Psychology",
-      "Work"
-    ],
-    "level": "B2",
-    "notes": "Có thể dùng tính từ tương ứng là 'resilient'.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "eloquent",
-    "word": "eloquent",
-    "phonetic": "/ˈel.ə.kwənt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eloquent-us.mp3",
+    "id": "cherished",
+    "word": "cherished",
+    "phonetic": "/ˈtʃer.ɪʃt/",
     "partOfSpeech": "adjective",
-    "meaningVi": "Hùng biện, lưu loát, có tài ăn nói thuyết phục.",
-    "meaningEn": "Fluent or persuasive in speaking or writing; clearly expressing or indicating something.",
+    "meaningVi": "yêu quý, ấp ủ, được trân trọng",
+    "meaningEn": "Beloved, deeply valued, or held dear in someone's heart.",
     "examples": [
       {
-        "en": "She delivered an eloquent defense of human rights at the summit.",
-        "vi": "Cô ấy đã đưa ra lời bảo vệ nhân quyền rất hùng biện và thuyết phục tại hội nghị thượng đỉnh."
-      },
-      {
-        "en": "His silence was more eloquent than any speech could be.",
-        "vi": "Sự im lặng của anh ấy còn có sức biểu cảm hơn bất kỳ lời nói nào."
+        "en": "They were buried along with their cherished pearl collection.",
+        "vi": "Họ được chôn cất cùng bộ sưu tập ngọc trai được yêu quý hết mực."
       }
     ],
-    "synonyms": [
-      "articulate",
-      "persuasive",
-      "expressive",
-      "fluent"
+    "synonyms": ["beloved", "treasured", "prized", "precious"],
+    "collocations": ["cherished belief", "cherished memory", "cherished dream"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "B2",
+    "notes": "Xuất phát từ động từ 'cherish' (yêu thương, trân trọng).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "ample",
+    "word": "ample",
+    "phonetic": "/ˈæm.pəl/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "nhiều, thừa thãi, phong phú",
+    "meaningEn": "Enough or more than enough; plentiful and fully sufficient.",
+    "examples": [
+      {
+        "en": "China’s long recorded history also provides ample evidence of the importance of pearls.",
+        "vi": "Lịch sử lâu dài được ghi chép của Trung Quốc cũng cung cấp nhiều bằng chứng về tầm quan trọng của ngọc trai."
+      }
     ],
-    "antonyms": [
-      "inarticulate",
-      "hesitant",
-      "clumsy"
-    ],
-    "collocations": [
-      "eloquent speaker",
-      "eloquent speech",
-      "eloquent testimony"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Communication",
-      "Academic"
-    ],
+    "synonyms": ["plentiful", "abundant", "copious", "sufficient"],
+    "antonyms": ["scant", "meager", "insufficient"],
+    "collocations": ["ample evidence", "ample time", "ample opportunity"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
     "level": "C1",
-    "notes": "Danh từ là 'eloquence', trạng từ là 'eloquently'.",
-    "dateAdded": "2026-11-01"
+    "notes": "Từ học thuật thường dùng trong IELTS Writing & Reading (ample evidence/time).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   },
   {
-    "id": "ephemeral",
-    "word": "ephemeral",
-    "phonetic": "/ɪˈfem.ər.əl/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Phù du, chóng tàn, tồn tại trong một khoảng thời gian rất ngắn.",
-    "meaningEn": "Lasting for a very short time; fleeting or transient.",
-    "examples": [
-      {
-        "en": "Fame in the modern social media era is often ephemeral.",
-        "vi": "Sự nổi tiếng trong thời đại mạng xã hội ngày nay thường rất phù du, chóng tàn."
-      },
-      {
-        "en": "Cherry blossoms are loved for their ephemeral, delicate beauty.",
-        "vi": "Hoa anh đào được yêu mến bởi vẻ đẹp mong manh và ngắn ngủi của chúng."
-      }
-    ],
-    "synonyms": [
-      "transient",
-      "fleeting",
-      "short-lived",
-      "momentary"
-    ],
-    "antonyms": [
-      "permanent",
-      "eternal",
-      "everlasting",
-      "enduring"
-    ],
-    "collocations": [
-      "ephemeral nature",
-      "ephemeral pleasure",
-      "ephemeral beauty"
-    ],
-    "tags": [
-      "IELTS",
-      "C2",
-      "Literature",
-      "Art"
-    ],
-    "level": "C2",
-    "notes": "Bắt nguồn từ tiếng Hy Lạp 'ephēmeros' (tồn tại chỉ trong một ngày).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "ubiquitous",
-    "word": "ubiquitous",
-    "phonetic": "/juːˈbɪk.wə.təs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ubiquitous-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Phổ biến ở khắp mọi nơi; nhan nhản; đâu đâu cũng thấy.",
-    "meaningEn": "Present, appearing, or found everywhere at the same time.",
-    "examples": [
-      {
-        "en": "Smartphones have become ubiquitous across all generations.",
-        "vi": "Điện thoại thông minh đã trở nên hiện diện khắp mọi nơi ở mọi thế hệ."
-      },
-      {
-        "en": "Coffee shops are ubiquitous in this bustling metropolis.",
-        "vi": "Các quán cà phê mọc lên nhan nhản khắp đô thị sầm uất này."
-      }
-    ],
-    "synonyms": [
-      "omnipresent",
-      "pervasive",
-      "universal",
-      "everywhere"
-    ],
-    "antonyms": [
-      "rare",
-      "scarce",
-      "uncommon"
-    ],
-    "collocations": [
-      "ubiquitous presence",
-      "become ubiquitous",
-      "ubiquitous technology"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Academic",
-      "Technology"
-    ],
-    "level": "C1",
-    "notes": "Danh từ tương ứng là 'ubiquity'. Cực kỳ hữu ích trong IELTS Writing Task 2.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "meticulous",
-    "word": "meticulous",
-    "phonetic": "/məˈtɪk.jə.ləs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ.",
-    "meaningEn": "Showing great attention to detail; very careful and precise.",
-    "examples": [
-      {
-        "en": "He kept meticulous records of all project expenses and timelines.",
-        "vi": "Anh ấy đã ghi chép tỉ mỉ từng khoản chi tiêu và tiến độ của dự án."
-      },
-      {
-        "en": "The museum restoration required meticulous craftsmanship.",
-        "vi": "Công việc phục chế bảo tàng đòi hỏi tay nghề thủ công cực kỳ tỉ mỉ."
-      }
-    ],
-    "synonyms": [
-      "thorough",
-      "painstaking",
-      "scrupulous",
-      "diligent"
-    ],
-    "antonyms": [
-      "careless",
-      "sloppy",
-      "negligent"
-    ],
-    "collocations": [
-      "meticulous attention to detail",
-      "meticulous planning",
-      "meticulous research"
-    ],
-    "tags": [
-      "IELTS",
-      "B2",
-      "Work",
-      "Productivity"
-    ],
-    "level": "B2",
-    "notes": "Trạng từ là 'meticulously'. Rất thích hợp để miêu tả phong cách làm việc chuyên nghiệp.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "pragmatic",
-    "word": "pragmatic",
-    "phonetic": "/præɡˈmæt.ɪk/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Thực tế, thực dụng, dựa trên tính khả thi thay vì lý thuyết suông.",
-    "meaningEn": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
-    "examples": [
-      {
-        "en": "We need to take a pragmatic approach toward solving the budget deficit.",
-        "vi": "Chúng ta cần áp dụng một cách tiếp cận thực tế để giải quyết thâm hụt ngân sách."
-      },
-      {
-        "en": "She made a pragmatic decision to delay expansion until revenue stabilized.",
-        "vi": "Cô ấy đã đưa ra quyết định thực tế là hoãn mở rộng cho đến khi doanh thu ổn định."
-      }
-    ],
-    "synonyms": [
-      "practical",
-      "sensible",
-      "down-to-earth",
-      "utilitarian"
-    ],
-    "antonyms": [
-      "idealistic",
-      "impractical",
-      "unrealistic"
-    ],
-    "collocations": [
-      "pragmatic approach",
-      "pragmatic solution",
-      "pragmatic view"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Business",
-      "Decision-making"
-    ],
-    "level": "C1",
-    "notes": "Triết học: Thuyết thực dụng (Pragmatism).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "procrastinate",
-    "word": "procrastinate",
-    "phonetic": "/prəˈkræs.tə.neɪt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/procrastinate-us.mp3",
+    "id": "implant",
+    "word": "implant",
+    "phonetic": "/ɪmˈplɑːnt/",
     "partOfSpeech": "verb",
-    "meaningVi": "Trì hoãn, chần chừ, lần lữa làm việc gì đó.",
-    "meaningEn": "To delay or postpone action; put off doing something.",
+    "meaningVi": "cấy ghép, đưa vào bên trong cơ thể/vật thể",
+    "meaningEn": "To insert or fix firmly in a living tissue or structure; surgically place inside.",
     "examples": [
       {
-        "en": "Most students tend to procrastinate until the night before the final exam.",
-        "vi": "Phần lớn sinh viên có xu hướng trì hoãn cho đến tận đêm trước kỳ thi cuối kỳ."
-      },
-      {
-        "en": "Stop procrastinating and finish writing your report today.",
-        "vi": "Đừng chần chừ nữa và hãy hoàn thành bài báo cáo của bạn ngay hôm nay."
+        "en": "The irritant is a surgically implanted bead or piece of shell called Mother of Pearl.",
+        "vi": "Vật gây kích ứng là một hạt hoặc mảnh vỏ được cấy ghép phẫu thuật gọi là xà cừ."
       }
     ],
-    "synonyms": [
-      "delay",
-      "postpone",
-      "put off",
-      "dally"
-    ],
-    "antonyms": [
-      "expedite",
-      "hasten",
-      "act promptly"
-    ],
-    "collocations": [
-      "tendency to procrastinate",
-      "procrastinate on a task"
-    ],
-    "tags": [
-      "Daily",
-      "B2",
-      "Productivity",
-      "Habits"
-    ],
+    "synonyms": ["insert", "embed", "graft", "infix"],
+    "collocations": ["surgically implanted", "implant a device", "cochlear implant"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Medical/Biology"],
     "level": "B2",
-    "notes": "Danh từ: 'procrastination' (sự trì hoãn), người trì hoãn: 'procrastinator'.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "paradigm-shift",
-    "word": "paradigm shift",
-    "phonetic": "/ˈpær.ə.daɪm ʃɪft/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-shift-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Sự chuyển đổi căn bản trong nhận thức, phương pháp hoặc tư duy.",
-    "meaningEn": "A fundamental change in approach or underlying assumptions.",
-    "examples": [
-      {
-        "en": "The advent of generative AI represents a monumental paradigm shift in software development.",
-        "vi": "Sự ra đời của AI tạo sinh đại diện cho một bước chuyển đổi mô hình mang tính bước ngoặt trong phát triển phần mềm."
-      },
-      {
-        "en": "Remote work caused a paradigm shift in how companies measure employee productivity.",
-        "vi": "Làm việc từ xa đã tạo ra sự thay đổi tư duy căn bản trong cách các công ty đo lường hiệu suất làm việc."
-      }
-    ],
-    "synonyms": [
-      "fundamental change",
-      "revolution",
-      "sea change",
-      "breakthrough"
-    ],
-    "antonyms": [
-      "status quo",
-      "stagnation"
-    ],
-    "collocations": [
-      "monumental paradigm shift",
-      "represent a paradigm shift",
-      "undergo a paradigm shift"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Technology",
-      "Academic"
-    ],
-    "level": "C1",
-    "notes": "Khái niệm do nhà triết học khoa học Thomas Kuhn đưa ra trong cuốn 'The Structure of Scientific Revolutions'.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "empathy",
-    "word": "empathy",
-    "phonetic": "/ˈem.pə.θi/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/empathy-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Sự thấu cảm, khả năng hiểu và cảm nhận được cảm xúc của người khác.",
-    "meaningEn": "The ability to understand and share the feelings of another.",
-    "examples": [
-      {
-        "en": "Great leaders lead with empathy, listening deeply to their team's concerns.",
-        "vi": "Những nhà lãnh đạo vĩ đại luôn dẫn dắt bằng sự thấu cảm, lắng nghe sâu sắc tâm tư của đội ngũ."
-      },
-      {
-        "en": "Reading literature has been shown to foster empathy across cultural divides.",
-        "vi": "Đọc văn học đã được chứng minh là giúp nuôi dưỡng sự thấu cảm vượt qua các rào cản văn hóa."
-      }
-    ],
-    "synonyms": [
-      "compassion",
-      "understanding",
-      "sensitivity",
-      "fellow feeling"
-    ],
-    "antonyms": [
-      "apathy",
-      "indifference",
-      "callousness"
-    ],
-    "collocations": [
-      "foster empathy",
-      "show empathy",
-      "lack of empathy"
-    ],
-    "tags": [
-      "B2",
-      "Psychology",
-      "Leadership",
-      "Daily"
-    ],
-    "level": "B2",
-    "notes": "Phân biệt với 'sympathy' (sự thương hại/đồng cảm từ xa), empathy là đặt mình vào vị trí của đối phương.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "lucid",
-    "word": "lucid",
-    "phonetic": "/ˈluː.sɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt.",
-    "meaningEn": "Expressed clearly; easy to understand; showing the ability to think clearly.",
-    "examples": [
-      {
-        "en": "She provided a remarkably lucid explanation of quantum mechanics.",
-        "vi": "Cô ấy đã đưa ra một lời giải thích vô cùng sáng sủa, dễ hiểu về cơ học lượng tử."
-      },
-      {
-        "en": "During a lucid moment, the elderly patient recognized his grandchildren.",
-        "vi": "Trong một khoảnh khắc tỉnh táo, người bệnh cao tuổi đã nhận ra các cháu của mình."
-      }
-    ],
-    "synonyms": [
-      "clear",
-      "coherent",
-      "articulate",
-      "intelligible",
-      "sane"
-    ],
-    "antonyms": [
-      "confused",
-      "muddled",
-      "ambiguous",
-      "obscure"
-    ],
-    "collocations": [
-      "lucid explanation",
-      "lucid dream",
-      "lucid moment"
-    ],
-    "tags": [
-      "IELTS",
-      "B2",
-      "Science",
-      "Psychology"
-    ],
-    "level": "B2",
-    "notes": "'Lucid dream' = Giấc mơ tỉnh (người mơ nhận thức được mình đang mơ).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "counterintuitive",
-    "word": "counterintuitive",
-    "phonetic": "/ˌkaʊn.tər.ɪnˈtuː.ɪ.tɪv/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/counterintuitive-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Phản trực giác, đi ngược lại suy nghĩ thông thường nhưng lại đúng.",
-    "meaningEn": "Contrary to intuition or to common-sense expectation.",
-    "examples": [
-      {
-        "en": "It might seem counterintuitive, but slowing down can actually increase your productivity.",
-        "vi": "Có vẻ phản trực giác, nhưng việc đi chậm lại thực ra có thể tăng năng suất làm việc của bạn."
-      },
-      {
-        "en": "The physicist demonstrated a counterintuitive property of light particles.",
-        "vi": "Nhà vật lý đã chứng minh một đặc tính phản trực giác của các hạt ánh sáng."
-      }
-    ],
-    "synonyms": [
-      "paradoxical",
-      "unexpected",
-      "illogical-seeming"
-    ],
-    "antonyms": [
-      "intuitive",
-      "straightforward",
-      "obvious"
-    ],
-    "collocations": [
-      "seem counterintuitive",
-      "counterintuitive result",
-      "counterintuitive finding"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Science",
-      "Critical Thinking"
-    ],
-    "level": "C1",
-    "notes": "Cấu tạo từ tiền tố 'counter-' (chống lại, ngược lại) + 'intuitive' (thuộc về trực giác).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "candid",
-    "word": "candid",
-    "phonetic": "/ˈkæn.dɪd/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/candid-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Thẳng thắn, bộc trực, không che giấu; (nhiếp ảnh) ảnh chụp tự nhiên không tạo dáng.",
-    "meaningEn": "Truthful and straightforward; frank. (Of a photograph) taken informally, without the subject's knowledge.",
-    "examples": [
-      {
-        "en": "I appreciate your candid feedback on my draft presentation.",
-        "vi": "Tôi đánh giá cao những nhận xét thẳng thắn của bạn về bài thuyết trình nháp của tôi."
-      },
-      {
-        "en": "The documentary gave a candid look into the daily lives of arctic scientists.",
-        "vi": "Bộ phim tài liệu đã mang lại một góc nhìn chân thực, không tô vẽ về cuộc sống hàng ngày của các nhà khoa học bắc cực."
-      }
-    ],
-    "synonyms": [
-      "frank",
-      "honest",
-      "outspoken",
-      "unvarnished"
-    ],
-    "antonyms": [
-      "evasive",
-      "guarded",
-      "insincere"
-    ],
-    "collocations": [
-      "candid feedback",
-      "candid interview",
-      "candid shot"
-    ],
-    "tags": [
-      "B2",
-      "Communication",
-      "Photography"
-    ],
-    "level": "B2",
-    "notes": "Thường gặp trong 'candid camera' hoặc 'to be candid with you'.",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "serene",
-    "word": "serene",
-    "phonetic": "/səˈriːn/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serene-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Thanh bình, êm đềm, thanh thản, tĩnh lặng.",
-    "meaningEn": "Calm, peaceful, and untroubled; tranquil.",
-    "examples": [
-      {
-        "en": "The mountain lake was breathtakingly serene in the early morning fog.",
-        "vi": "Hồ nước trên núi đẹp đến ngỡ ngàng và thanh bình trong làn sương sớm mai."
-      },
-      {
-        "en": "Despite the emergency around her, she maintained a serene smile.",
-        "vi": "Bất chấp tình huống khẩn cấp xung quanh, cô ấy vẫn giữ một nụ cười thanh thản."
-      }
-    ],
-    "synonyms": [
-      "tranquil",
-      "peaceful",
-      "placid",
-      "calm",
-      "composed"
-    ],
-    "antonyms": [
-      "turbulent",
-      "chaotic",
-      "agitated"
-    ],
-    "collocations": [
-      "serene atmosphere",
-      "serene lake",
-      "serene expression"
-    ],
-    "tags": [
-      "B2",
-      "Nature",
-      "Emotion",
-      "Lifestyle"
-    ],
-    "level": "B2",
-    "notes": "Danh từ tương ứng là 'serenity' (sự thanh thản).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "altruism",
-    "word": "altruism",
-    "phonetic": "/ˈæl.tru.ɪ.zəm/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/altruism-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Lòng vị tha, chủ nghĩa vị tha; sự quan tâm vô tư đến lợi ích của người khác.",
-    "meaningEn": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
-    "examples": [
-      {
-        "en": "Volunteers at the refugee camp demonstrated true altruism.",
-        "vi": "Các tình nguyện viên tại trại tị nạn đã thể hiện tinh thần vị tha đích thực."
-      },
-      {
-        "en": "Effective altruism aims to use evidence and reason to figure out how to benefit others as much as possible.",
-        "vi": "Chủ nghĩa vị tha hiệu quả hướng tới việc sử dụng bằng chứng và lý trí để giúp ích cho tha nhân nhiều nhất có thể."
-      }
-    ],
-    "synonyms": [
-      "selflessness",
-      "benevolence",
-      "philanthropy",
-      "charity"
-    ],
-    "antonyms": [
-      "selfishness",
-      "egoism",
-      "narcissism"
-    ],
-    "collocations": [
-      "act of altruism",
-      "effective altruism",
-      "pure altruism"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Philosophy",
-      "Ethics"
-    ],
-    "level": "C1",
-    "notes": "Tính từ: 'altruistic' (vị tha, bác ái).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "hindsight",
-    "word": "hindsight",
-    "phonetic": "/ˈhaɪnd.saɪt/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ.",
-    "meaningEn": "Understanding of a situation or event only after it has happened or developed.",
-    "examples": [
-      {
-        "en": "With hindsight, we should never have invested in that volatile market.",
-        "vi": "Nhìn lại mới thấy, đáng lẽ chúng ta không bao giờ nên đầu tư vào thị trường bấp bênh đó."
-      },
-      {
-        "en": "It is easy to criticize their strategy in hindsight.",
-        "vi": "Khi mọi chuyện đã xong xuôi rồi thì đứng ngoài chỉ trích chiến lược của họ là điều rất dễ."
-      }
-    ],
-    "synonyms": [
-      "retrospect",
-      "afterthought"
-    ],
-    "antonyms": [
-      "foresight",
-      "anticipation"
-    ],
-    "collocations": [
-      "in hindsight",
-      "with the benefit of hindsight",
-      "hindsight is 20/20"
-    ],
-    "tags": [
-      "Daily",
-      "B2",
-      "Idioms",
-      "Life"
-    ],
-    "level": "B2",
-    "notes": "Thành ngữ phổ biến: 'Hindsight is 20/20' (Sau khi mọi chuyện qua rồi thì ai nhìn lại cũng thấy sáng tỏ).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "tenacious",
-    "word": "tenacious",
-    "phonetic": "/təˈneɪ.ʃəs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tenacious-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Kiên trì, bền bỉ, ngoan cường, không chịu bỏ cuộc.",
-    "meaningEn": "Tending to keep a firm hold of something; clinging or adhering closely; persistent.",
-    "examples": [
-      {
-        "en": "Her tenacious efforts finally resulted in an international climate accord.",
-        "vi": "Những nỗ lực bền bỉ, kiên trì của cô ấy cuối cùng đã mang lại một hiệp định khí hậu quốc tế."
-      },
-      {
-        "en": "A tenacious detective never stops investigating until justice is served.",
-        "vi": "Một thám tử ngoan cường không bao giờ ngừng điều tra cho đến khi công lý được thực thi."
-      }
-    ],
-    "synonyms": [
-      "persistent",
-      "determined",
-      "resolute",
-      "dogged"
-    ],
-    "antonyms": [
-      "irresolute",
-      "yielding",
-      "wavering"
-    ],
-    "collocations": [
-      "tenacious grip",
-      "tenacious defense",
-      "tenacious personality"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Character",
-      "Success"
-    ],
-    "level": "C1",
-    "notes": "Danh từ: 'tenacity' (sự bền bỉ, lòng kiên trì).",
-    "dateAdded": "2026-11-01"
-  },
-  {
-    "id": "ambiguous",
-    "word": "ambiguous",
-    "phonetic": "/æmˈbɪɡ.ju.əs/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambiguous-us.mp3",
-    "partOfSpeech": "adjective",
-    "meaningVi": "Mơ hồ, nhập nhằng, có thể hiểu theo nhiều nghĩa khác nhau.",
-    "meaningEn": "Open to more than one interpretation; not having one obvious meaning.",
-    "examples": [
-      {
-        "en": "The contract clause was intentionally ambiguous to give both parties flexibility.",
-        "vi": "Điều khoản hợp đồng đã được cố tình viết mơ hồ để tạo sự linh hoạt cho cả hai bên."
-      },
-      {
-        "en": "His ambiguous reply left everyone wondering what he actually meant.",
-        "vi": "Câu trả lời nước đôi của anh ta khiến mọi người đều băn khoăn không rõ anh ta thực sự có ý gì."
-      }
-    ],
-    "synonyms": [
-      "equivocal",
-      "vague",
-      "obscure",
-      "unclear"
-    ],
-    "antonyms": [
-      "unambiguous",
-      "clear-cut",
-      "explicit",
-      "lucid"
-    ],
-    "collocations": [
-      "ambiguous statement",
-      "ambiguous wording",
-      "highly ambiguous"
-    ],
-    "tags": [
-      "IELTS",
-      "B2",
-      "Communication",
-      "Academic"
-    ],
-    "level": "B2",
-    "notes": "Danh từ là 'ambiguity'. Rất hữu ích khi phân tích ngữ nghĩa hoặc văn bản luật.",
-    "dateAdded": "2026-11-01"
+    "notes": "Đoạn B bài đọc Pearls mô tả quá trình tạo ngọc trai nhân tạo.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   },
   {
     "id": "catalyst",
     "word": "catalyst",
-    "phonetic": "/ˈkæt̬.əl.ɪst/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalyst-us.mp3",
+    "phonetic": "/ˈkæt.əl.ɪst/",
     "partOfSpeech": "noun",
-    "meaningVi": "Chất xúc tác; nhân tố thúc đẩy sự thay đổi hoặc kích hoạt một sự kiện lớn.",
-    "meaningEn": "A person or thing that precipitates an event or change; a substance that increases the rate of a chemical reaction without undergoing permanent change.",
+    "meaningVi": "chất xúc tác, nhân tố kích hoạt biến đổi",
+    "meaningEn": "A substance that speeds up a chemical reaction without being consumed; a person or event that causes change.",
     "examples": [
       {
-        "en": "The crisis acted as a catalyst for overdue institutional reforms.",
-        "vi": "Cuộc khủng hoảng đã đóng vai trò như một chất xúc tác cho những cải cách thể chế vốn đã quá hạn từ lâu."
-      },
-      {
-        "en": "She was the primary catalyst behind the company's digital transformation.",
-        "vi": "Cô ấy chính là chất xúc tác chủ chốt thúc đẩy quá trình chuyển đổi số của công ty."
+        "en": "These shells are worth significant amounts of money as irritant-catalysts for quality pearls.",
+        "vi": "Những mảnh vỏ này có giá trị đáng kể với vai trò là chất xúc tác kích ứng cho ngọc trai chất lượng."
       }
     ],
-    "synonyms": [
-      "stimulus",
-      "impetus",
-      "spark",
-      "trigger",
-      "incentive"
-    ],
-    "antonyms": [
-      "hindrance",
-      "impediment",
-      "deterrent"
-    ],
-    "collocations": [
-      "act as a catalyst",
-      "catalyst for change",
-      "catalyst for growth"
-    ],
-    "tags": [
-      "IELTS",
-      "C1",
-      "Science",
-      "Business"
-    ],
+    "synonyms": ["spark", "stimulus", "incentive", "activator"],
+    "collocations": ["act as a catalyst", "catalyst for change", "primary catalyst"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
     "level": "C1",
-    "notes": "Từ gốc Hóa học, nhưng dùng cực kỳ phổ biến theo nghĩa bóng trong kinh tế và xã hội.",
-    "dateAdded": "2026-11-01"
+    "notes": "Thường gặp trong các bài luận về kinh tế, xã hội và khoa học.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   },
   {
-    "id": "epiphany",
-    "word": "epiphany",
-    "phonetic": "/ɪˈpɪf.ən.i/",
-    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3",
-    "partOfSpeech": "noun",
-    "meaningVi": "Khoảnh khắc giác ngộ, bừng sáng; sự bỗng nhiên hiểu ra một chân lý quan trọng.",
-    "meaningEn": "A moment of sudden revelation or insight.",
+    "id": "imitation",
+    "word": "imitation",
+    "phonetic": "/ˌɪm.ɪˈteɪ.ʃən/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "giả tạo, đồ mô phỏng, nhân tạo",
+    "meaningEn": "A thing made as a copy, simulated; not real or authentic.",
     "examples": [
       {
-        "en": "While walking in the forest, he had an epiphany about the direction of his life.",
-        "vi": "Khi đang đi bộ trong rừng, anh ấy đã có một khoảnh khắc giác ngộ bừng sáng về hướng đi của cuộc đời mình."
-      },
-      {
-        "en": "Newton's encounter with the falling apple sparked his scientific epiphany.",
-        "vi": "Cuộc chạm trán của Newton với quả táo rơi đã khơi nguồn cho khoảnh khắc bừng sáng khoa học của ông."
+        "en": "The island of Mallorca in Spain is known for its imitation pearl industry.",
+        "vi": "Hòn đảo Mallorca ở Tây Ban Nha nổi tiếng với ngành công nghiệp ngọc trai giả."
       }
     ],
-    "synonyms": [
-      "revelation",
-      "realization",
-      "eureka moment",
-      "illumination"
+    "synonyms": ["simulated", "artificial", "synthetic", "replica"],
+    "antonyms": ["genuine", "authentic", "natural"],
+    "collocations": ["imitation pearl", "imitation leather", "cheap imitation"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "B2",
+    "notes": "Đoạn B bài đọc: Mallorca nổi tiếng về ngọc trai mô phỏng / ngọc trai nhân tạo.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "irritate",
+    "word": "irritate",
+    "phonetic": "/ˈɪr.ɪ.teɪt/",
+    "partOfSpeech": "verb",
+    "meaningVi": "khiến ai bực bội, gây kích ứng mô/da",
+    "meaningEn": "To make someone feel annoyed or angry; to cause inflammation or soreness in a body part.",
+    "examples": [
+      {
+        "en": "A piece of sand works into the oyster and irritates its delicate tissues.",
+        "vi": "Một hạt cát lọt vào bên trong con hàu và gây kích ứng các mô mỏng manh của nó."
+      }
     ],
-    "antonyms": [
-      "confusion",
-      "blindness"
+    "synonyms": ["annoy", "inflame", "vex", "aggravate"],
+    "collocations": ["irritate the skin", "irritate the eye", "become easily irritated"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "level": "B2",
+    "notes": "Gia đình từ: irritate (V) -> irritation (N) -> irritant (N).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "irritation",
+    "word": "irritation",
+    "phonetic": "/ˌɪr.ɪˈteɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "meaningVi": "sự kích ứng, cảm giác bực bội khó chịu",
+    "meaningEn": "The state of feeling annoyed; the state of being inflamed or painful.",
+    "examples": [
+      {
+        "en": "The secretion of fluid is the mollusk's defense to soothe the irritation.",
+        "vi": "Việc tiết chất lỏng là cơ chế phòng vệ của thân mềm để làm dịu sự kích ứng."
+      }
     ],
-    "collocations": [
-      "have an epiphany",
-      "sudden epiphany",
-      "moment of epiphany"
+    "synonyms": ["annoyance", "inflammation", "discomfort", "soreness"],
+    "collocations": ["skin irritation", "cause irritation", "show irritation"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "level": "B2",
+    "notes": "Danh từ chỉ trạng thái hoặc cảm giác khó chịu/viêm nhiễm.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "irritant",
+    "word": "irritant",
+    "phonetic": "/ˈɪr.ɪ.tənt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "vật gây kích ứng, nhân tố kích thích dị ứng",
+    "meaningEn": "A substance or agent that causes irritation or discomfort.",
+    "examples": [
+      {
+        "en": "A natural pearl forms when an irritant, such as a piece of sand, works its way into an oyster.",
+        "vi": "Ngọc trai tự nhiên hình thành khi một vật gây kích ứng, chẳng hạn hạt cát, chui vào trong con hàu."
+      }
     ],
-    "tags": [
-      "IELTS",
-      "C2",
-      "Literature",
-      "Psychology"
+    "synonyms": ["stimulant", "foreign body", "agitator"],
+    "collocations": ["respiratory irritant", "chemical irritant", "irritant-catalyst"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "level": "C1",
+    "notes": "Chỉ chính vật thể / hóa chất gây ra hiện tượng kích ứng.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "contamination",
+    "word": "contamination",
+    "phonetic": "/kənˌtæm.ɪˈneɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "meaningVi": "sự ô nhiễm, sự làm vấy bẩn",
+    "meaningEn": "The action or state of making or being made impure by polluting or poisoning.",
+    "examples": [
+      {
+        "en": "The contamination of coastal waters disrupted the natural reproduction of pearl oysters.",
+        "vi": "Sự ô nhiễm nguồn nước ven biển đã làm gián đoạn quá trình sinh sản tự nhiên của hàu ngọc trai."
+      }
     ],
+    "synonyms": ["pollution", "adulteration", "defilement", "taint"],
+    "antonyms": ["purification", "decontamination"],
+    "collocations": ["water contamination", "environmental contamination", "prevent contamination"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Environment"],
+    "level": "C1",
+    "notes": "Cặp từ: Contamination (sự ô nhiễm) và Contaminant (chất gây ô nhiễm).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "contaminant",
+    "word": "contaminant",
+    "phonetic": "/kənˈtæm.ɪ.nənt/",
+    "partOfSpeech": "noun",
+    "meaningVi": "chất gây ô nhiễm, tạp chất độc hại",
+    "meaningEn": "A polluting or poisonous substance that makes something impure.",
+    "examples": [
+      {
+        "en": "Oil spills acted as severe contaminants in the pristine Persian Gulf waters.",
+        "vi": "Các vụ tràn dầu đóng vai trò là chất gây ô nhiễm nghiêm trọng tại vùng nước nguyên sơ của Vịnh Ba Tư."
+      }
+    ],
+    "synonyms": ["pollutant", "impurity", "toxin", "poison"],
+    "collocations": ["airborne contaminant", "toxic contaminant", "remove contaminants"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Environment"],
+    "level": "C1",
+    "notes": "Từ danh từ chỉ tác nhân gây ô nhiễm (pollutant).",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "misshapen",
+    "word": "misshapen",
+    "phonetic": "/mɪsˈʃeɪ.pənd/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "méo mó, dị dạng, không cân xứng",
+    "meaningEn": "Deformed, not having the normal or natural shape.",
+    "examples": [
+      {
+        "en": "Often, the irritant may be rejected, or the pearl will be terrifically misshapen.",
+        "vi": "Thông thường, dị vật có thể bị đào thải, hoặc viên ngọc trai sẽ bị méo mó nghiêm trọng."
+      }
+    ],
+    "synonyms": ["deformed", "distorted", "asymmetrical", "malformed"],
+    "antonyms": ["shapely", "symmetrical", "flawless"],
+    "collocations": ["misshapen pearl", "misshapen face", "grow misshapen"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "C1",
+    "notes": "Đoạn C bài đọc: miêu tả những viên ngọc không đạt chuẩn hình khối cầu đối xứng.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "complication",
+    "word": "complication",
+    "phonetic": "/ˌkɒm.plɪˈkeɪ.ʃən/",
+    "partOfSpeech": "noun",
+    "meaningVi": "hệ quả tiêu cực, biến chứng, vấn đề phức tạp",
+    "meaningEn": "A circumstance that complicates something; a secondary disease or condition aggravating a primary one.",
+    "examples": [
+      {
+        "en": "The oyster may simply die from disease or countless other complications.",
+        "vi": "Con hàu có thể chỉ đơn giản là chết vì bệnh tật hoặc vô số biến chứng phức tạp khác."
+      }
+    ],
+    "synonyms": ["obstacle", "difficulty", "snag", "repercussion"],
+    "collocations": ["develop complications", "medical complication", "arise complications"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "B2",
+    "notes": "Trong y tế hoặc tự nhiên chỉ những hệ quả phát sinh ngoài ý muốn.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "predilection",
+    "word": "a predilection for doing sth",
+    "phonetic": "/ˌpriː.dɪˈlek.ʃən/",
+    "partOfSpeech": "noun",
+    "meaningVi": "thiên hướng, xu hướng yêu thích làm điều gì",
+    "meaningEn": "A preference or special liking for something; a bias in favor of something.",
+    "examples": [
+      {
+        "en": "The type of mussel common to the area seems to possess a predilection for producing comparatively large pearls.",
+        "vi": "Loại trai phổ biến ở khu vực này dường như có thiên hướng sản sinh ra những viên ngọc trai tương đối lớn."
+      }
+    ],
+    "synonyms": ["preference", "penchant", "propensity", "inclination"],
+    "collocations": ["have a predilection for", "possess a predilection for"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "C2 Vocabulary"],
     "level": "C2",
-    "notes": "Tương đương với khái niệm 'Eureka moment' hoặc 'Aha moment'.",
-    "dateAdded": "2026-11-01"
+    "notes": "Từ vựng nâng cao Band 8.0+ xuất hiện trong Đoạn D.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "supplied-with",
+    "word": "to be supplied with",
+    "phonetic": "/səˈplaɪd wɪð/",
+    "partOfSpeech": "phrase",
+    "meaningVi": "được cung cấp cái gì (= to be provided with sth)",
+    "meaningEn": "Provided or furnished with what is needed or wanted.",
+    "examples": [
+      {
+        "en": "The water along the coastline is supplied with rich nutrients from the ocean floor.",
+        "vi": "Nguồn nước dọc bờ biển được cung cấp các chất dinh dưỡng phong phú từ đáy đại dương."
+      }
+    ],
+    "synonyms": ["be provided with", "be furnished with", "be equipped with"],
+    "collocations": ["adequately supplied with", "regularly supplied with"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Collocation"],
+    "level": "B1",
+    "notes": "Đoạn D: giải thích nguyên nhân ngọc trai Nam Úc có kích thước to.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "concentric",
+    "word": "concentric",
+    "phonetic": "/kənˈsen.trɪk/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "đồng tâm (có cùng chung một tâm điểm)",
+    "meaningEn": "Of circles, arcs, or other shapes that share the same center point.",
+    "examples": [
+      {
+        "en": "Combined with concentric rings of organic substance, the pearl is likely a cultured freshwater pearl.",
+        "vi": "Kết hợp với các vòng tròn đồng tâm của chất hữu cơ, viên ngọc nhiều khả năng là ngọc trai nuôi nước ngọt."
+      }
+    ],
+    "synonyms": ["coaxial", "homocentric"],
+    "collocations": ["concentric circles", "concentric rings", "concentric layers"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Scientific"],
+    "level": "C1",
+    "notes": "Đoạn E: Cách nhận diện ngọc tự nhiên và nhân tạo qua tia X-ray.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "indiscriminate",
+    "word": "indiscriminate",
+    "phonetic": "/ˌɪn.dɪˈskrɪm.ɪ.nət/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "bừa bãi, cẩu thả, không suy tính trước",
+    "meaningEn": "Done at random or without careful judgment; indiscriminate actions.",
+    "examples": [
+      {
+        "en": "The water pollution resulting from spilled oil and indiscriminate overfishing essentially ruined the pristine waters.",
+        "vi": "Tình trạng ô nhiễm nước do dầu tràn và nạn đánh bắt quá mức bừa bãi đã phá hủy vùng nước nguyên sơ."
+      }
+    ],
+    "synonyms": ["reckless", "undiscriminating", "unselective", "haphazard"],
+    "antonyms": ["selective", "judicious", "discriminating"],
+    "collocations": ["indiscriminate use", "indiscriminate attack", "indiscriminate slaughter"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "level": "C2",
+    "notes": "Đoạn F: lý do nguồn ngọc tự nhiên ở Vịnh Ba Tư sụp đổ vào những năm 1930.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "pristine",
+    "word": "pristine",
+    "phonetic": "/ˈprɪs.tiːn/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "nguyên thuỷ, tinh khôi, chưa bị xâm phạm",
+    "meaningEn": "In its original condition; unspoiled, completely clean and fresh.",
+    "examples": [
+      {
+        "en": "They essentially ruined the pristine waters of the Gulf that once produced pearls.",
+        "vi": "Họ cơ bản đã hủy hoại vùng nước nguyên sơ của Vùng Vịnh từng một thời sản sinh ra ngọc quý."
+      }
+    ],
+    "synonyms": ["unspoiled", "immaculate", "untouched", "flawless"],
+    "antonyms": ["polluted", "contaminated", "spoiled"],
+    "collocations": ["pristine condition", "pristine environment", "pristine beaches"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "level": "C1",
+    "notes": "Từ miêu tả môi trường tự nhiên rất được chuộng trong IELTS Speaking & Writing.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "glistening",
+    "word": "glistening",
+    "phonetic": "/ˈɡlɪs.ən.ɪŋ/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "sáng bóng, lấp lánh (= lustrous)",
+    "meaningEn": "Shining with a sparkling light, especially because of being wet or oily.",
+    "examples": [
+      {
+        "en": "The nation of Japan manufactures some of the most glistening cultured pearls.",
+        "vi": "Đất nước Nhật Bản sản xuất những viên ngọc trai nuôi sáng bóng lấp lánh bậc nhất."
+      }
+    ],
+    "synonyms": ["lustrous", "shimmering", "gleaming", "scintillating"],
+    "collocations": ["glistening surface", "glistening pearls", "glistening in the sun"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Synonym"],
+    "level": "B2",
+    "notes": "Từ đồng nghĩa với 'lustrous' xuất hiện trong câu hỏi tóm tắt số 8.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "lustrous",
+    "word": "lustrous",
+    "phonetic": "/ˈlʌs.trəs/",
+    "partOfSpeech": "adjective",
+    "meaningVi": "óng ánh, rực rỡ, có độ bóng cao",
+    "meaningEn": "Having luster; shining with a soft reflected light.",
+    "examples": [
+      {
+        "en": "Layer upon layer of this coating is deposited on the irritant until a lustrous pearl is formed.",
+        "vi": "Hết lớp này đến lớp khác chất bao phủ này lắng đọng cho đến khi tạo thành viên ngọc óng ánh."
+      }
+    ],
+    "synonyms": ["glossy", "radiant", "glowing", "luminous"],
+    "collocations": ["lustrous black pearl", "lustrous shine", "lustrous finish"],
+    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "level": "C1",
+    "notes": "Đoạn B & G: đặc tính quan trọng nhất quyết định giá trị của ngọc trai.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "secrete",
+    "word": "secrete",
+    "phonetic": "/sɪˈkriːt/",
+    "partOfSpeech": "verb",
+    "meaningVi": "tiết ra (chất dịch, chất nhờn sinh học)",
+    "meaningEn": "To produce and discharge a substance, especially by a gland or cell.",
+    "examples": [
+      {
+        "en": "As a defense mechanism, the mollusk secretes a fluid to coat the irritant.",
+        "vi": "Như một cơ chế phòng vệ, loài thân mềm tiết ra chất dịch để bao bọc dị vật."
+      }
+    ],
+    "synonyms": ["exude", "discharge", "produce", "emit"],
+    "collocations": ["secrete fluid", "secrete hormones", "secrete saliva"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Biology"],
+    "level": "C1",
+    "notes": "Đoạn B: Cơ chế sinh học tạo nên xà cừ và ngọc trai.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "cavity",
+    "word": "cavity",
+    "phonetic": "/ˈkæv.ə.ti/",
+    "partOfSpeech": "noun",
+    "meaningVi": "khoang rỗng, hốc bên trong",
+    "meaningEn": "An empty space within a solid object or body.",
+    "examples": [
+      {
+        "en": "Small dark inner spots indicating a cavity are visible under X-ray examination.",
+        "vi": "Những đốm đen nhỏ bên trong báo hiệu một khoang rỗng có thể nhìn thấy dưới ảnh chụp X-quang."
+      }
+    ],
+    "synonyms": ["chamber", "hollow", "void", "opening"],
+    "collocations": ["oral cavity", "internal cavity", "cavity wall"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Anatomy/Science"],
+    "level": "B2",
+    "notes": "Đoạn E: Cấu trúc hạt ngọc tự nhiên có hốc trống hữu cơ.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
+  },
+  {
+    "id": "predominantly",
+    "word": "predominantly",
+    "phonetic": "/prɪˈdɒm.ɪ.nənt.li/",
+    "partOfSpeech": "adverb",
+    "meaningVi": "chủ yếu, phần lớn, chiếm ưu thế",
+    "meaningEn": "Mainly; for the most part.",
+    "examples": [
+      {
+        "en": "Nowadays, pearls predominantly come from Japan, Australia, Indonesia, and China.",
+        "vi": "Ngày nay, ngọc trai chủ yếu đến từ Nhật Bản, Úc, Indonesia và Trung Quốc."
+      }
+    ],
+    "synonyms": ["principally", "mainly", "chiefly", "primarily"],
+    "collocations": ["predominantly female", "predominantly rural", "be predominantly based"],
+    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "level": "C1",
+    "notes": "Đoạn G: Phân bố địa lý thị trường ngọc trai hiện đại.",
+    "dateAdded": "2026-11-02",
+    "source": "Reading 01: Pearls"
   }
 ]

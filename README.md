@@ -1,15 +1,17 @@
-# 📚 VocabVault — Sổ Tay Từ Vựng Tiếng Anh & Luyện Phát Âm
+# 📚 VocabVault — Sổ Tay Từ Vựng Tiếng Anh & Luyện Đọc IELTS
 
+[![Next.js 16](https://img.shields.io/badge/Next.js-16%20Turbopack-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Website-black?style=for-the-badge&logo=vercel)](https://english-snowy-two.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-thunopro%2Fenglish-181717?style=for-the-badge&logo=github)](https://github.com/thunopro/english)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-6-purple?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Tests](https://img.shields.io/badge/Tests-Vitest%20Passed-emerald?style=for-the-badge&logo=vitest)](https://vitest.dev/)
 
-> 🌐 **Website trực tiếp:** [https://english-snowy-two.vercel.app](https://english-snowy-two.vercel.app)
+> 🌐 **Website trực tiếp:** [https://english-snowy-two.vercel.app](https://english-snowy-two.vercel.app)  
+> 🐙 **Mã nguồn GitHub:** [https://github.com/thunopro/english](https://github.com/thunopro/english)  
+> 📄 **Tài liệu học tập Google Docs gốc:** [Reading 01: Pearls](https://docs.google.com/document/d/1W4XZOmiMoczEIHUuxEfrHW_VCGLB74vJO4thnFO7gxI/edit?tab=t.0)
 >
-> **VocabVault** là trang web cá nhân mã nguồn mở giúp bạn ghi chép, quản lý toàn bộ từ vựng tiếng Anh theo thời gian, phát âm chuẩn người bản xứ (US, UK, AU), cung cấp **đường dẫn trực tiếp (Link Text)** cho từng từ để bạn có thể xem lại, chia sẻ vào Notion/Obsidian/Anki và học tập ngắt quãng (Spaced Repetition System - SRS).
+> **VocabVault** là ứng dụng Next.js hiện đại giúp bạn học và luyện tập toàn diện bài đọc IELTS (**READING 01: Pearls**), làm bài tập trắc nghiệm có chấm điểm tức thì, tra cứu và nghe phát âm chuẩn người bản xứ (US, UK, AU), cung cấp **đường dẫn tĩnh (Link Text)** cho từng từ để lưu vào Notion/Obsidian/Anki và ôn tập ngắt quãng (Spaced Repetition System - SRS).
 
 ---
 

@@ -1,384 +1,330 @@
 # 📚 Bảng Từ Vựng Tiếng Anh & Liên Kết Học Tập (Vocabulary Index)
 
-> **Tổng số từ hiện tại**: 23 từ | Cập nhật tự động lần cuối: 2026-11-02
+> **Tổng số từ hiện tại**: 24 từ | Cập nhật tự động lần cuối: 2026-11-02
 
 Mục lục này cho phép bạn truy cập nhanh link text của tất cả các từ mới, bấm nghe phát âm trực tiếp hoặc chuyển hướng vào ứng dụng web học tập.
 
 ## 🔗 Danh Sách Nhanh (Quick Text Links)
 
-- **[altruism](#word-altruism)** `/ˈæl.tru.ɪ.zəm/` (*noun*): Lòng vị tha, chủ nghĩa vị tha; sự quan tâm vô tư đến lợi ích của người khác. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/altruism-us.mp3) | [🔗 Học từ này](#word=altruism)
-- **[ambiguous](#word-ambiguous)** `/æmˈbɪɡ.ju.əs/` (*adjective*): Mơ hồ, nhập nhằng, có thể hiểu theo nhiều nghĩa khác nhau. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/ambiguous-us.mp3) | [🔗 Học từ này](#word=ambiguous)
-- **[candid](#word-candid)** `/ˈkæn.dɪd/` (*adjective*): Thẳng thắn, bộc trực, không che giấu; (nhiếp ảnh) ảnh chụp tự nhiên không tạo dáng. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/candid-us.mp3) | [🔗 Học từ này](#word=candid)
-- **[catalyst](#word-catalyst)** `/ˈkæt̬.əl.ɪst/` (*noun*): Chất xúc tác; nhân tố thúc đẩy sự thay đổi hoặc kích hoạt một sự kiện lớn. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/catalyst-us.mp3) | [🔗 Học từ này](#word=catalyst)
-- **[counterintuitive](#word-counterintuitive)** `/ˌkaʊn.tər.ɪnˈtuː.ɪ.tɪv/` (*adjective*): Phản trực giác, đi ngược lại suy nghĩ thông thường nhưng lại đúng. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/counterintuitive-us.mp3) | [🔗 Học từ này](#word=counterintuitive)
-- **[eloquent](#word-eloquent)** `/ˈel.ə.kwənt/` (*adjective*): Hùng biện, lưu loát, có tài ăn nói thuyết phục. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/eloquent-us.mp3) | [🔗 Học từ này](#word=eloquent)
-- **[empathy](#word-empathy)** `/ˈem.pə.θi/` (*noun*): Sự thấu cảm, khả năng hiểu và cảm nhận được cảm xúc của người khác. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/empathy-us.mp3) | [🔗 Học từ này](#word=empathy)
-- **[ephemeral](#word-ephemeral)** `/ɪˈfem.ər.əl/` (*adjective*): Phù du, chóng tàn, tồn tại trong một khoảng thời gian rất ngắn. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3) | [🔗 Học từ này](#word=ephemeral)
-- **[epiphany](#word-epiphany)** `/ɪˈpɪf.ən.i/` (*noun*): Khoảnh khắc giác ngộ, bừng sáng; sự bỗng nhiên hiểu ra một chân lý quan trọng. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3) | [🔗 Học từ này](#word=epiphany)
-- **[equilibrium](#word-equilibrium)** `/iːkwɪˈlɪbɹɪəm/` (*noun*): thăng bằng — *(TTS)* | [🔗 Học từ này](#word=equilibrium)
-- **[hindsight](#word-hindsight)** `/ˈhaɪnd.saɪt/` (*noun*): Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3) | [🔗 Học từ này](#word=hindsight)
-- **[lucid](#word-lucid)** `/ˈluː.sɪd/` (*adjective*): Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3) | [🔗 Học từ này](#word=lucid)
-- **[meticulous](#word-meticulous)** `/məˈtɪk.jə.ləs/` (*adjective*): Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3) | [🔗 Học từ này](#word=meticulous)
-- **[mindset](#word-mindset)** `/mindset/` (*noun*): tư duy. — *(TTS)* | [🔗 Học từ này](#word=mindset)
-- **[paradigm shift](#word-paradigm-shift)** `/ˈpær.ə.daɪm ʃɪft/` (*noun*): Sự chuyển đổi căn bản trong nhận thức, phương pháp hoặc tư duy. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-shift-us.mp3) | [🔗 Học từ này](#word=paradigm-shift)
-- **[perseverance](#word-perseverance)** `/ˌpɜːsəˈvɪəɹəns/` (*noun*): sự kiên trì, lòng kiên định không nản lòng trước gian khổ — *(TTS)* | [🔗 Học từ này](#word=perseverance)
-- **[pragmatic](#word-pragmatic)** `/præɡˈmæt.ɪk/` (*adjective*): Thực tế, thực dụng, dựa trên tính khả thi thay vì lý thuyết suông. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3) | [🔗 Học từ này](#word=pragmatic)
-- **[procrastinate](#word-procrastinate)** `/prəˈkræs.tə.neɪt/` (*verb*): Trì hoãn, chần chừ, lần lữa làm việc gì đó. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/procrastinate-us.mp3) | [🔗 Học từ này](#word=procrastinate)
-- **[resilience](#word-resilience)** `/rɪˈzɪl.jəns/` (*noun*): Khả năng phục hồi, sự kiên cường vượt qua nghịch cảnh và khó khăn. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/resilience-us.mp3) | [🔗 Học từ này](#word=resilience)
-- **[serendipity](#word-serendipity)** `/ˌser.ənˈdɪp.ə.ti/` (*noun*): Sự tình cờ may mắn; khả năng tình cờ tìm thấy những điều thú vị hay có giá trị một cách bất ngờ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/serendipity-us.mp3) | [🔗 Học từ này](#word=serendipity)
-- **[serene](#word-serene)** `/səˈriːn/` (*adjective*): Thanh bình, êm đềm, thanh thản, tĩnh lặng. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/serene-us.mp3) | [🔗 Học từ này](#word=serene)
-- **[tenacious](#word-tenacious)** `/təˈneɪ.ʃəs/` (*adjective*): Kiên trì, bền bỉ, ngoan cường, không chịu bỏ cuộc. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/tenacious-us.mp3) | [🔗 Học từ này](#word=tenacious)
-- **[ubiquitous](#word-ubiquitous)** `/juːˈbɪk.wə.təs/` (*adjective*): Phổ biến ở khắp mọi nơi; nhan nhản; đâu đâu cũng thấy. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/ubiquitous-us.mp3) | [🔗 Học từ này](#word=ubiquitous)
+- **[a predilection for doing sth](#word-predilection)** `/ˌpriː.dɪˈlek.ʃən/` (*noun*): thiên hướng, xu hướng yêu thích làm điều gì — *(TTS)* | [🔗 Học từ này](#word=predilection)
+- **[ample](#word-ample)** `/ˈæm.pəl/` (*adjective*): nhiều, thừa thãi, phong phú — *(TTS)* | [🔗 Học từ này](#word=ample)
+- **[catalyst](#word-catalyst)** `/ˈkæt.əl.ɪst/` (*noun*): chất xúc tác, nhân tố kích hoạt biến đổi — *(TTS)* | [🔗 Học từ này](#word=catalyst)
+- **[cavity](#word-cavity)** `/ˈkæv.ə.ti/` (*noun*): khoang rỗng, hốc bên trong — *(TTS)* | [🔗 Học từ này](#word=cavity)
+- **[cherished](#word-cherished)** `/ˈtʃer.ɪʃt/` (*adjective*): yêu quý, ấp ủ, được trân trọng — *(TTS)* | [🔗 Học từ này](#word=cherished)
+- **[complication](#word-complication)** `/ˌkɒm.plɪˈkeɪ.ʃən/` (*noun*): hệ quả tiêu cực, biến chứng, vấn đề phức tạp — *(TTS)* | [🔗 Học từ này](#word=complication)
+- **[concentric](#word-concentric)** `/kənˈsen.trɪk/` (*adjective*): đồng tâm (có cùng chung một tâm điểm) — *(TTS)* | [🔗 Học từ này](#word=concentric)
+- **[contaminant](#word-contaminant)** `/kənˈtæm.ɪ.nənt/` (*noun*): chất gây ô nhiễm, tạp chất độc hại — *(TTS)* | [🔗 Học từ này](#word=contaminant)
+- **[contamination](#word-contamination)** `/kənˌtæm.ɪˈneɪ.ʃən/` (*noun*): sự ô nhiễm, sự làm vấy bẩn — *(TTS)* | [🔗 Học từ này](#word=contamination)
+- **[glistening](#word-glistening)** `/ˈɡlɪs.ən.ɪŋ/` (*adjective*): sáng bóng, lấp lánh (= lustrous) — *(TTS)* | [🔗 Học từ này](#word=glistening)
+- **[imitation](#word-imitation)** `/ˌɪm.ɪˈteɪ.ʃən/` (*adjective*): giả tạo, đồ mô phỏng, nhân tạo — *(TTS)* | [🔗 Học từ này](#word=imitation)
+- **[implant](#word-implant)** `/ɪmˈplɑːnt/` (*verb*): cấy ghép, đưa vào bên trong cơ thể/vật thể — *(TTS)* | [🔗 Học từ này](#word=implant)
+- **[indiscriminate](#word-indiscriminate)** `/ˌɪn.dɪˈskrɪm.ɪ.nət/` (*adjective*): bừa bãi, cẩu thả, không suy tính trước — *(TTS)* | [🔗 Học từ này](#word=indiscriminate)
+- **[irritant](#word-irritant)** `/ˈɪr.ɪ.tənt/` (*noun*): vật gây kích ứng, nhân tố kích thích dị ứng — *(TTS)* | [🔗 Học từ này](#word=irritant)
+- **[irritate](#word-irritate)** `/ˈɪr.ɪ.teɪt/` (*verb*): khiến ai bực bội, gây kích ứng mô/da — *(TTS)* | [🔗 Học từ này](#word=irritate)
+- **[irritation](#word-irritation)** `/ˌɪr.ɪˈteɪ.ʃən/` (*noun*): sự kích ứng, cảm giác bực bội khó chịu — *(TTS)* | [🔗 Học từ này](#word=irritation)
+- **[lustrous](#word-lustrous)** `/ˈlʌs.trəs/` (*adjective*): óng ánh, rực rỡ, có độ bóng cao — *(TTS)* | [🔗 Học từ này](#word=lustrous)
+- **[misshapen](#word-misshapen)** `/mɪsˈʃeɪ.pənd/` (*adjective*): méo mó, dị dạng, không cân xứng — *(TTS)* | [🔗 Học từ này](#word=misshapen)
+- **[predominantly](#word-predominantly)** `/prɪˈdɒm.ɪ.nənt.li/` (*adverb*): chủ yếu, phần lớn, chiếm ưu thế — *(TTS)* | [🔗 Học từ này](#word=predominantly)
+- **[pristine](#word-pristine)** `/ˈprɪs.tiːn/` (*adjective*): nguyên thuỷ, tinh khôi, chưa bị xâm phạm — *(TTS)* | [🔗 Học từ này](#word=pristine)
+- **[secrete](#word-secrete)** `/sɪˈkriːt/` (*verb*): tiết ra (chất dịch, chất nhờn sinh học) — *(TTS)* | [🔗 Học từ này](#word=secrete)
+- **[to be fond of sth](#word-fond)** `/fɒnd/` (*phrase*): thích thú, yêu thích cái gì — *(TTS)* | [🔗 Học từ này](#word=fond)
+- **[to be supplied with](#word-supplied-with)** `/səˈplaɪd wɪð/` (*phrase*): được cung cấp cái gì (= to be provided with sth) — *(TTS)* | [🔗 Học từ này](#word=supplied-with)
+- **[treasure](#word-treasure)** `/ˈtreʒ.ər/` (*noun*): kho báu (N); trân quý, coi như bảo vật (V) — *(TTS)* | [🔗 Học từ này](#word=treasure)
 
 ---
 
 ## 📖 Chi Tiết Từng Từ Vựng (Detailed Word Vault)
 
-### <a id="word-altruism"></a>altruism `/ˈæl.tru.ɪ.zəm/`
-- **Loại từ:** *noun* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Lòng vị tha, chủ nghĩa vị tha; sự quan tâm vô tư đến lợi ích của người khác.**
-- **English definition:** *The belief in or practice of disinterested and selfless concern for the well-being of others.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/altruism-us.mp3)
-- **Collocations:** `act of altruism`, `effective altruism`, `pure altruism`
-- **Đồng nghĩa:** selflessness, benevolence, philanthropy, charity
-- **Trái nghĩa:** selfishness, egoism, narcissism
-- **Ví dụ minh họa:**
-  - *"Volunteers at the refugee camp demonstrated true altruism."*
-    ↳ *Các tình nguyện viên tại trại tị nạn đã thể hiện tinh thần vị tha đích thực.*
-  - *"Effective altruism aims to use evidence and reason to figure out how to benefit others as much as possible."*
-    ↳ *Chủ nghĩa vị tha hiệu quả hướng tới việc sử dụng bằng chứng và lý trí để giúp ích cho tha nhân nhiều nhất có thể.*
-- 💡 **Ghi chú & Mẹo nhớ:** Tính từ: 'altruistic' (vị tha, bác ái).
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Philosophy` `#Ethics`
-
-### <a id="word-ambiguous"></a>ambiguous `/æmˈbɪɡ.ju.əs/`
-- **Loại từ:** *adjective* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Mơ hồ, nhập nhằng, có thể hiểu theo nhiều nghĩa khác nhau.**
-- **English definition:** *Open to more than one interpretation; not having one obvious meaning.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/ambiguous-us.mp3)
-- **Collocations:** `ambiguous statement`, `ambiguous wording`, `highly ambiguous`
-- **Đồng nghĩa:** equivocal, vague, obscure, unclear
-- **Trái nghĩa:** unambiguous, clear-cut, explicit, lucid
-- **Ví dụ minh họa:**
-  - *"The contract clause was intentionally ambiguous to give both parties flexibility."*
-    ↳ *Điều khoản hợp đồng đã được cố tình viết mơ hồ để tạo sự linh hoạt cho cả hai bên.*
-  - *"His ambiguous reply left everyone wondering what he actually meant."*
-    ↳ *Câu trả lời nước đôi của anh ta khiến mọi người đều băn khoăn không rõ anh ta thực sự có ý gì.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ là 'ambiguity'. Rất hữu ích khi phân tích ngữ nghĩa hoặc văn bản luật.
-- 🏷️ **Tags:** `#IELTS` `#B2` `#Communication` `#Academic`
-
-### <a id="word-candid"></a>candid `/ˈkæn.dɪd/`
-- **Loại từ:** *adjective* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Thẳng thắn, bộc trực, không che giấu; (nhiếp ảnh) ảnh chụp tự nhiên không tạo dáng.**
-- **English definition:** *Truthful and straightforward; frank. (Of a photograph) taken informally, without the subject's knowledge.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/candid-us.mp3)
-- **Collocations:** `candid feedback`, `candid interview`, `candid shot`
-- **Đồng nghĩa:** frank, honest, outspoken, unvarnished
-- **Trái nghĩa:** evasive, guarded, insincere
-- **Ví dụ minh họa:**
-  - *"I appreciate your candid feedback on my draft presentation."*
-    ↳ *Tôi đánh giá cao những nhận xét thẳng thắn của bạn về bài thuyết trình nháp của tôi.*
-  - *"The documentary gave a candid look into the daily lives of arctic scientists."*
-    ↳ *Bộ phim tài liệu đã mang lại một góc nhìn chân thực, không tô vẽ về cuộc sống hàng ngày của các nhà khoa học bắc cực.*
-- 💡 **Ghi chú & Mẹo nhớ:** Thường gặp trong 'candid camera' hoặc 'to be candid with you'.
-- 🏷️ **Tags:** `#B2` `#Communication` `#Photography`
-
-### <a id="word-catalyst"></a>catalyst `/ˈkæt̬.əl.ɪst/`
-- **Loại từ:** *noun* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Chất xúc tác; nhân tố thúc đẩy sự thay đổi hoặc kích hoạt một sự kiện lớn.**
-- **English definition:** *A person or thing that precipitates an event or change; a substance that increases the rate of a chemical reaction without undergoing permanent change.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/catalyst-us.mp3)
-- **Collocations:** `act as a catalyst`, `catalyst for change`, `catalyst for growth`
-- **Đồng nghĩa:** stimulus, impetus, spark, trigger, incentive
-- **Trái nghĩa:** hindrance, impediment, deterrent
-- **Ví dụ minh họa:**
-  - *"The crisis acted as a catalyst for overdue institutional reforms."*
-    ↳ *Cuộc khủng hoảng đã đóng vai trò như một chất xúc tác cho những cải cách thể chế vốn đã quá hạn từ lâu.*
-  - *"She was the primary catalyst behind the company's digital transformation."*
-    ↳ *Cô ấy chính là chất xúc tác chủ chốt thúc đẩy quá trình chuyển đổi số của công ty.*
-- 💡 **Ghi chú & Mẹo nhớ:** Từ gốc Hóa học, nhưng dùng cực kỳ phổ biến theo nghĩa bóng trong kinh tế và xã hội.
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Science` `#Business`
-
-### <a id="word-counterintuitive"></a>counterintuitive `/ˌkaʊn.tər.ɪnˈtuː.ɪ.tɪv/`
-- **Loại từ:** *adjective* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Phản trực giác, đi ngược lại suy nghĩ thông thường nhưng lại đúng.**
-- **English definition:** *Contrary to intuition or to common-sense expectation.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/counterintuitive-us.mp3)
-- **Collocations:** `seem counterintuitive`, `counterintuitive result`, `counterintuitive finding`
-- **Đồng nghĩa:** paradoxical, unexpected, illogical-seeming
-- **Trái nghĩa:** intuitive, straightforward, obvious
-- **Ví dụ minh họa:**
-  - *"It might seem counterintuitive, but slowing down can actually increase your productivity."*
-    ↳ *Có vẻ phản trực giác, nhưng việc đi chậm lại thực ra có thể tăng năng suất làm việc của bạn.*
-  - *"The physicist demonstrated a counterintuitive property of light particles."*
-    ↳ *Nhà vật lý đã chứng minh một đặc tính phản trực giác của các hạt ánh sáng.*
-- 💡 **Ghi chú & Mẹo nhớ:** Cấu tạo từ tiền tố 'counter-' (chống lại, ngược lại) + 'intuitive' (thuộc về trực giác).
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Science` `#Critical Thinking`
-
-### <a id="word-eloquent"></a>eloquent `/ˈel.ə.kwənt/`
-- **Loại từ:** *adjective* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Hùng biện, lưu loát, có tài ăn nói thuyết phục.**
-- **English definition:** *Fluent or persuasive in speaking or writing; clearly expressing or indicating something.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/eloquent-us.mp3)
-- **Collocations:** `eloquent speaker`, `eloquent speech`, `eloquent testimony`
-- **Đồng nghĩa:** articulate, persuasive, expressive, fluent
-- **Trái nghĩa:** inarticulate, hesitant, clumsy
-- **Ví dụ minh họa:**
-  - *"She delivered an eloquent defense of human rights at the summit."*
-    ↳ *Cô ấy đã đưa ra lời bảo vệ nhân quyền rất hùng biện và thuyết phục tại hội nghị thượng đỉnh.*
-  - *"His silence was more eloquent than any speech could be."*
-    ↳ *Sự im lặng của anh ấy còn có sức biểu cảm hơn bất kỳ lời nói nào.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ là 'eloquence', trạng từ là 'eloquently'.
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Communication` `#Academic`
-
-### <a id="word-empathy"></a>empathy `/ˈem.pə.θi/`
-- **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Sự thấu cảm, khả năng hiểu và cảm nhận được cảm xúc của người khác.**
-- **English definition:** *The ability to understand and share the feelings of another.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/empathy-us.mp3)
-- **Collocations:** `foster empathy`, `show empathy`, `lack of empathy`
-- **Đồng nghĩa:** compassion, understanding, sensitivity, fellow feeling
-- **Trái nghĩa:** apathy, indifference, callousness
-- **Ví dụ minh họa:**
-  - *"Great leaders lead with empathy, listening deeply to their team's concerns."*
-    ↳ *Những nhà lãnh đạo vĩ đại luôn dẫn dắt bằng sự thấu cảm, lắng nghe sâu sắc tâm tư của đội ngũ.*
-  - *"Reading literature has been shown to foster empathy across cultural divides."*
-    ↳ *Đọc văn học đã được chứng minh là giúp nuôi dưỡng sự thấu cảm vượt qua các rào cản văn hóa.*
-- 💡 **Ghi chú & Mẹo nhớ:** Phân biệt với 'sympathy' (sự thương hại/đồng cảm từ xa), empathy là đặt mình vào vị trí của đối phương.
-- 🏷️ **Tags:** `#B2` `#Psychology` `#Leadership` `#Daily`
-
-### <a id="word-ephemeral"></a>ephemeral `/ɪˈfem.ər.əl/`
-- **Loại từ:** *adjective* | **Cấp độ:** `C2`
-- **Định nghĩa tiếng Việt:** **Phù du, chóng tàn, tồn tại trong một khoảng thời gian rất ngắn.**
-- **English definition:** *Lasting for a very short time; fleeting or transient.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3)
-- **Collocations:** `ephemeral nature`, `ephemeral pleasure`, `ephemeral beauty`
-- **Đồng nghĩa:** transient, fleeting, short-lived, momentary
-- **Trái nghĩa:** permanent, eternal, everlasting, enduring
-- **Ví dụ minh họa:**
-  - *"Fame in the modern social media era is often ephemeral."*
-    ↳ *Sự nổi tiếng trong thời đại mạng xã hội ngày nay thường rất phù du, chóng tàn.*
-  - *"Cherry blossoms are loved for their ephemeral, delicate beauty."*
-    ↳ *Hoa anh đào được yêu mến bởi vẻ đẹp mong manh và ngắn ngủi của chúng.*
-- 💡 **Ghi chú & Mẹo nhớ:** Bắt nguồn từ tiếng Hy Lạp 'ephēmeros' (tồn tại chỉ trong một ngày).
-- 🏷️ **Tags:** `#IELTS` `#C2` `#Literature` `#Art`
-
-### <a id="word-epiphany"></a>epiphany `/ɪˈpɪf.ən.i/`
+### <a id="word-predilection"></a>a predilection for doing sth `/ˌpriː.dɪˈlek.ʃən/`
 - **Loại từ:** *noun* | **Cấp độ:** `C2`
-- **Định nghĩa tiếng Việt:** **Khoảnh khắc giác ngộ, bừng sáng; sự bỗng nhiên hiểu ra một chân lý quan trọng.**
-- **English definition:** *A moment of sudden revelation or insight.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3)
-- **Collocations:** `have an epiphany`, `sudden epiphany`, `moment of epiphany`
-- **Đồng nghĩa:** revelation, realization, eureka moment, illumination
-- **Trái nghĩa:** confusion, blindness
+- **Định nghĩa tiếng Việt:** **thiên hướng, xu hướng yêu thích làm điều gì**
+- **English definition:** *A preference or special liking for something; a bias in favor of something.*
+- **Collocations:** `have a predilection for`, `possess a predilection for`
+- **Đồng nghĩa:** preference, penchant, propensity, inclination
 - **Ví dụ minh họa:**
-  - *"While walking in the forest, he had an epiphany about the direction of his life."*
-    ↳ *Khi đang đi bộ trong rừng, anh ấy đã có một khoảnh khắc giác ngộ bừng sáng về hướng đi của cuộc đời mình.*
-  - *"Newton's encounter with the falling apple sparked his scientific epiphany."*
-    ↳ *Cuộc chạm trán của Newton với quả táo rơi đã khơi nguồn cho khoảnh khắc bừng sáng khoa học của ông.*
-- 💡 **Ghi chú & Mẹo nhớ:** Tương đương với khái niệm 'Eureka moment' hoặc 'Aha moment'.
-- 🏷️ **Tags:** `#IELTS` `#C2` `#Literature` `#Psychology`
+  - *"The type of mussel common to the area seems to possess a predilection for producing comparatively large pearls."*
+    ↳ *Loại trai phổ biến ở khu vực này dường như có thiên hướng sản sinh ra những viên ngọc trai tương đối lớn.*
+- 💡 **Ghi chú & Mẹo nhớ:** Từ vựng nâng cao Band 8.0+ xuất hiện trong Đoạn D.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#C2 Vocabulary`
 
-### <a id="word-equilibrium"></a>equilibrium `/iːkwɪˈlɪbɹɪəm/`
-- **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **thăng bằng**
-- **English definition:** *The condition of a system in which competing influences are balanced, resulting in no net change.*
-- **Đồng nghĩa:** balance, stability, sanity
-- **Trái nghĩa:** disequilibrium, imbalance, instability, disequilibrium
-- **Ví dụ minh họa:**
-  - *"Example sentence with the word "equilibrium"."*
-- 💡 **Ghi chú & Mẹo nhớ:** Thêm qua terminal word (Ctrl+G)
-- 🏷️ **Tags:** `#TerminalBuffer` `#Daily`
-
-### <a id="word-hindsight"></a>hindsight `/ˈhaɪnd.saɪt/`
-- **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ.**
-- **English definition:** *Understanding of a situation or event only after it has happened or developed.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3)
-- **Collocations:** `in hindsight`, `with the benefit of hindsight`, `hindsight is 20/20`
-- **Đồng nghĩa:** retrospect, afterthought
-- **Trái nghĩa:** foresight, anticipation
-- **Ví dụ minh họa:**
-  - *"With hindsight, we should never have invested in that volatile market."*
-    ↳ *Nhìn lại mới thấy, đáng lẽ chúng ta không bao giờ nên đầu tư vào thị trường bấp bênh đó.*
-  - *"It is easy to criticize their strategy in hindsight."*
-    ↳ *Khi mọi chuyện đã xong xuôi rồi thì đứng ngoài chỉ trích chiến lược của họ là điều rất dễ.*
-- 💡 **Ghi chú & Mẹo nhớ:** Thành ngữ phổ biến: 'Hindsight is 20/20' (Sau khi mọi chuyện qua rồi thì ai nhìn lại cũng thấy sáng tỏ).
-- 🏷️ **Tags:** `#Daily` `#B2` `#Idioms` `#Life`
-
-### <a id="word-lucid"></a>lucid `/ˈluː.sɪd/`
-- **Loại từ:** *adjective* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt.**
-- **English definition:** *Expressed clearly; easy to understand; showing the ability to think clearly.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3)
-- **Collocations:** `lucid explanation`, `lucid dream`, `lucid moment`
-- **Đồng nghĩa:** clear, coherent, articulate, intelligible, sane
-- **Trái nghĩa:** confused, muddled, ambiguous, obscure
-- **Ví dụ minh họa:**
-  - *"She provided a remarkably lucid explanation of quantum mechanics."*
-    ↳ *Cô ấy đã đưa ra một lời giải thích vô cùng sáng sủa, dễ hiểu về cơ học lượng tử.*
-  - *"During a lucid moment, the elderly patient recognized his grandchildren."*
-    ↳ *Trong một khoảnh khắc tỉnh táo, người bệnh cao tuổi đã nhận ra các cháu của mình.*
-- 💡 **Ghi chú & Mẹo nhớ:** 'Lucid dream' = Giấc mơ tỉnh (người mơ nhận thức được mình đang mơ).
-- 🏷️ **Tags:** `#IELTS` `#B2` `#Science` `#Psychology`
-
-### <a id="word-meticulous"></a>meticulous `/məˈtɪk.jə.ləs/`
-- **Loại từ:** *adjective* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ.**
-- **English definition:** *Showing great attention to detail; very careful and precise.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3)
-- **Collocations:** `meticulous attention to detail`, `meticulous planning`, `meticulous research`
-- **Đồng nghĩa:** thorough, painstaking, scrupulous, diligent
-- **Trái nghĩa:** careless, sloppy, negligent
-- **Ví dụ minh họa:**
-  - *"He kept meticulous records of all project expenses and timelines."*
-    ↳ *Anh ấy đã ghi chép tỉ mỉ từng khoản chi tiêu và tiến độ của dự án.*
-  - *"The museum restoration required meticulous craftsmanship."*
-    ↳ *Công việc phục chế bảo tàng đòi hỏi tay nghề thủ công cực kỳ tỉ mỉ.*
-- 💡 **Ghi chú & Mẹo nhớ:** Trạng từ là 'meticulously'. Rất thích hợp để miêu tả phong cách làm việc chuyên nghiệp.
-- 🏷️ **Tags:** `#IELTS` `#B2` `#Work` `#Productivity`
-
-### <a id="word-mindset"></a>mindset `/mindset/`
-- **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **tư duy.**
-- **English definition:** *A way of thinking; an attitude or opinion, especially a habitual one.*
-- **Đồng nghĩa:** mentality
-- **Ví dụ minh họa:**
-  - *"Earth Day is a way of propagating and celebrating the environmentalist mindset."*
-- 💡 **Ghi chú & Mẹo nhớ:** Thêm qua terminal word (Ctrl+G)
-- 🏷️ **Tags:** `#TerminalBuffer` `#Daily`
-
-### <a id="word-paradigm-shift"></a>paradigm shift `/ˈpær.ə.daɪm ʃɪft/`
-- **Loại từ:** *noun* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Sự chuyển đổi căn bản trong nhận thức, phương pháp hoặc tư duy.**
-- **English definition:** *A fundamental change in approach or underlying assumptions.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-shift-us.mp3)
-- **Collocations:** `monumental paradigm shift`, `represent a paradigm shift`, `undergo a paradigm shift`
-- **Đồng nghĩa:** fundamental change, revolution, sea change, breakthrough
-- **Trái nghĩa:** status quo, stagnation
-- **Ví dụ minh họa:**
-  - *"The advent of generative AI represents a monumental paradigm shift in software development."*
-    ↳ *Sự ra đời của AI tạo sinh đại diện cho một bước chuyển đổi mô hình mang tính bước ngoặt trong phát triển phần mềm.*
-  - *"Remote work caused a paradigm shift in how companies measure employee productivity."*
-    ↳ *Làm việc từ xa đã tạo ra sự thay đổi tư duy căn bản trong cách các công ty đo lường hiệu suất làm việc.*
-- 💡 **Ghi chú & Mẹo nhớ:** Khái niệm do nhà triết học khoa học Thomas Kuhn đưa ra trong cuốn 'The Structure of Scientific Revolutions'.
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Technology` `#Academic`
-
-### <a id="word-perseverance"></a>perseverance `/ˌpɜːsəˈvɪəɹəns/`
-- **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **sự kiên trì, lòng kiên định không nản lòng trước gian khổ**
-- **English definition:** *Continuing in a course of action without regard to discouragement, opposition or previous failure.*
-- **Ví dụ minh họa:**
-  - *"This is an example sentence using the word "perseverance"."*
-- 🏷️ **Tags:** `#Learning`
-
-### <a id="word-pragmatic"></a>pragmatic `/præɡˈmæt.ɪk/`
+### <a id="word-ample"></a>ample `/ˈæm.pəl/`
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Thực tế, thực dụng, dựa trên tính khả thi thay vì lý thuyết suông.**
-- **English definition:** *Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3)
-- **Collocations:** `pragmatic approach`, `pragmatic solution`, `pragmatic view`
-- **Đồng nghĩa:** practical, sensible, down-to-earth, utilitarian
-- **Trái nghĩa:** idealistic, impractical, unrealistic
+- **Định nghĩa tiếng Việt:** **nhiều, thừa thãi, phong phú**
+- **English definition:** *Enough or more than enough; plentiful and fully sufficient.*
+- **Collocations:** `ample evidence`, `ample time`, `ample opportunity`
+- **Đồng nghĩa:** plentiful, abundant, copious, sufficient
+- **Trái nghĩa:** scant, meager, insufficient
 - **Ví dụ minh họa:**
-  - *"We need to take a pragmatic approach toward solving the budget deficit."*
-    ↳ *Chúng ta cần áp dụng một cách tiếp cận thực tế để giải quyết thâm hụt ngân sách.*
-  - *"She made a pragmatic decision to delay expansion until revenue stabilized."*
-    ↳ *Cô ấy đã đưa ra quyết định thực tế là hoãn mở rộng cho đến khi doanh thu ổn định.*
-- 💡 **Ghi chú & Mẹo nhớ:** Triết học: Thuyết thực dụng (Pragmatism).
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Business` `#Decision-making`
+  - *"China’s long recorded history also provides ample evidence of the importance of pearls."*
+    ↳ *Lịch sử lâu dài được ghi chép của Trung Quốc cũng cung cấp nhiều bằng chứng về tầm quan trọng của ngọc trai.*
+- 💡 **Ghi chú & Mẹo nhớ:** Từ học thuật thường dùng trong IELTS Writing & Reading (ample evidence/time).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Academic`
 
-### <a id="word-procrastinate"></a>procrastinate `/prəˈkræs.tə.neɪt/`
+### <a id="word-catalyst"></a>catalyst `/ˈkæt.əl.ɪst/`
+- **Loại từ:** *noun* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **chất xúc tác, nhân tố kích hoạt biến đổi**
+- **English definition:** *A substance that speeds up a chemical reaction without being consumed; a person or event that causes change.*
+- **Collocations:** `act as a catalyst`, `catalyst for change`, `primary catalyst`
+- **Đồng nghĩa:** spark, stimulus, incentive, activator
+- **Ví dụ minh họa:**
+  - *"These shells are worth significant amounts of money as irritant-catalysts for quality pearls."*
+    ↳ *Những mảnh vỏ này có giá trị đáng kể với vai trò là chất xúc tác kích ứng cho ngọc trai chất lượng.*
+- 💡 **Ghi chú & Mẹo nhớ:** Thường gặp trong các bài luận về kinh tế, xã hội và khoa học.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Academic`
+
+### <a id="word-cavity"></a>cavity `/ˈkæv.ə.ti/`
+- **Loại từ:** *noun* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **khoang rỗng, hốc bên trong**
+- **English definition:** *An empty space within a solid object or body.*
+- **Collocations:** `oral cavity`, `internal cavity`, `cavity wall`
+- **Đồng nghĩa:** chamber, hollow, void, opening
+- **Ví dụ minh họa:**
+  - *"Small dark inner spots indicating a cavity are visible under X-ray examination."*
+    ↳ *Những đốm đen nhỏ bên trong báo hiệu một khoang rỗng có thể nhìn thấy dưới ảnh chụp X-quang.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn E: Cấu trúc hạt ngọc tự nhiên có hốc trống hữu cơ.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Anatomy/Science`
+
+### <a id="word-cherished"></a>cherished `/ˈtʃer.ɪʃt/`
+- **Loại từ:** *adjective* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **yêu quý, ấp ủ, được trân trọng**
+- **English definition:** *Beloved, deeply valued, or held dear in someone's heart.*
+- **Collocations:** `cherished belief`, `cherished memory`, `cherished dream`
+- **Đồng nghĩa:** beloved, treasured, prized, precious
+- **Ví dụ minh họa:**
+  - *"They were buried along with their cherished pearl collection."*
+    ↳ *Họ được chôn cất cùng bộ sưu tập ngọc trai được yêu quý hết mực.*
+- 💡 **Ghi chú & Mẹo nhớ:** Xuất phát từ động từ 'cherish' (yêu thương, trân trọng).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
+
+### <a id="word-complication"></a>complication `/ˌkɒm.plɪˈkeɪ.ʃən/`
+- **Loại từ:** *noun* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **hệ quả tiêu cực, biến chứng, vấn đề phức tạp**
+- **English definition:** *A circumstance that complicates something; a secondary disease or condition aggravating a primary one.*
+- **Collocations:** `develop complications`, `medical complication`, `arise complications`
+- **Đồng nghĩa:** obstacle, difficulty, snag, repercussion
+- **Ví dụ minh họa:**
+  - *"The oyster may simply die from disease or countless other complications."*
+    ↳ *Con hàu có thể chỉ đơn giản là chết vì bệnh tật hoặc vô số biến chứng phức tạp khác.*
+- 💡 **Ghi chú & Mẹo nhớ:** Trong y tế hoặc tự nhiên chỉ những hệ quả phát sinh ngoài ý muốn.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
+
+### <a id="word-concentric"></a>concentric `/kənˈsen.trɪk/`
+- **Loại từ:** *adjective* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **đồng tâm (có cùng chung một tâm điểm)**
+- **English definition:** *Of circles, arcs, or other shapes that share the same center point.*
+- **Collocations:** `concentric circles`, `concentric rings`, `concentric layers`
+- **Đồng nghĩa:** coaxial, homocentric
+- **Ví dụ minh họa:**
+  - *"Combined with concentric rings of organic substance, the pearl is likely a cultured freshwater pearl."*
+    ↳ *Kết hợp với các vòng tròn đồng tâm của chất hữu cơ, viên ngọc nhiều khả năng là ngọc trai nuôi nước ngọt.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn E: Cách nhận diện ngọc tự nhiên và nhân tạo qua tia X-ray.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Scientific`
+
+### <a id="word-contaminant"></a>contaminant `/kənˈtæm.ɪ.nənt/`
+- **Loại từ:** *noun* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **chất gây ô nhiễm, tạp chất độc hại**
+- **English definition:** *A polluting or poisonous substance that makes something impure.*
+- **Collocations:** `airborne contaminant`, `toxic contaminant`, `remove contaminants`
+- **Đồng nghĩa:** pollutant, impurity, toxin, poison
+- **Ví dụ minh họa:**
+  - *"Oil spills acted as severe contaminants in the pristine Persian Gulf waters."*
+    ↳ *Các vụ tràn dầu đóng vai trò là chất gây ô nhiễm nghiêm trọng tại vùng nước nguyên sơ của Vịnh Ba Tư.*
+- 💡 **Ghi chú & Mẹo nhớ:** Từ danh từ chỉ tác nhân gây ô nhiễm (pollutant).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Environment`
+
+### <a id="word-contamination"></a>contamination `/kənˌtæm.ɪˈneɪ.ʃən/`
+- **Loại từ:** *noun* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **sự ô nhiễm, sự làm vấy bẩn**
+- **English definition:** *The action or state of making or being made impure by polluting or poisoning.*
+- **Collocations:** `water contamination`, `environmental contamination`, `prevent contamination`
+- **Đồng nghĩa:** pollution, adulteration, defilement, taint
+- **Trái nghĩa:** purification, decontamination
+- **Ví dụ minh họa:**
+  - *"The contamination of coastal waters disrupted the natural reproduction of pearl oysters."*
+    ↳ *Sự ô nhiễm nguồn nước ven biển đã làm gián đoạn quá trình sinh sản tự nhiên của hàu ngọc trai.*
+- 💡 **Ghi chú & Mẹo nhớ:** Cặp từ: Contamination (sự ô nhiễm) và Contaminant (chất gây ô nhiễm).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Environment`
+
+### <a id="word-glistening"></a>glistening `/ˈɡlɪs.ən.ɪŋ/`
+- **Loại từ:** *adjective* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **sáng bóng, lấp lánh (= lustrous)**
+- **English definition:** *Shining with a sparkling light, especially because of being wet or oily.*
+- **Collocations:** `glistening surface`, `glistening pearls`, `glistening in the sun`
+- **Đồng nghĩa:** lustrous, shimmering, gleaming, scintillating
+- **Ví dụ minh họa:**
+  - *"The nation of Japan manufactures some of the most glistening cultured pearls."*
+    ↳ *Đất nước Nhật Bản sản xuất những viên ngọc trai nuôi sáng bóng lấp lánh bậc nhất.*
+- 💡 **Ghi chú & Mẹo nhớ:** Từ đồng nghĩa với 'lustrous' xuất hiện trong câu hỏi tóm tắt số 8.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Synonym`
+
+### <a id="word-imitation"></a>imitation `/ˌɪm.ɪˈteɪ.ʃən/`
+- **Loại từ:** *adjective* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **giả tạo, đồ mô phỏng, nhân tạo**
+- **English definition:** *A thing made as a copy, simulated; not real or authentic.*
+- **Collocations:** `imitation pearl`, `imitation leather`, `cheap imitation`
+- **Đồng nghĩa:** simulated, artificial, synthetic, replica
+- **Trái nghĩa:** genuine, authentic, natural
+- **Ví dụ minh họa:**
+  - *"The island of Mallorca in Spain is known for its imitation pearl industry."*
+    ↳ *Hòn đảo Mallorca ở Tây Ban Nha nổi tiếng với ngành công nghiệp ngọc trai giả.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn B bài đọc: Mallorca nổi tiếng về ngọc trai mô phỏng / ngọc trai nhân tạo.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
+
+### <a id="word-implant"></a>implant `/ɪmˈplɑːnt/`
 - **Loại từ:** *verb* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Trì hoãn, chần chừ, lần lữa làm việc gì đó.**
-- **English definition:** *To delay or postpone action; put off doing something.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/procrastinate-us.mp3)
-- **Collocations:** `tendency to procrastinate`, `procrastinate on a task`
-- **Đồng nghĩa:** delay, postpone, put off, dally
-- **Trái nghĩa:** expedite, hasten, act promptly
+- **Định nghĩa tiếng Việt:** **cấy ghép, đưa vào bên trong cơ thể/vật thể**
+- **English definition:** *To insert or fix firmly in a living tissue or structure; surgically place inside.*
+- **Collocations:** `surgically implanted`, `implant a device`, `cochlear implant`
+- **Đồng nghĩa:** insert, embed, graft, infix
 - **Ví dụ minh họa:**
-  - *"Most students tend to procrastinate until the night before the final exam."*
-    ↳ *Phần lớn sinh viên có xu hướng trì hoãn cho đến tận đêm trước kỳ thi cuối kỳ.*
-  - *"Stop procrastinating and finish writing your report today."*
-    ↳ *Đừng chần chừ nữa và hãy hoàn thành bài báo cáo của bạn ngay hôm nay.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ: 'procrastination' (sự trì hoãn), người trì hoãn: 'procrastinator'.
-- 🏷️ **Tags:** `#Daily` `#B2` `#Productivity` `#Habits`
+  - *"The irritant is a surgically implanted bead or piece of shell called Mother of Pearl."*
+    ↳ *Vật gây kích ứng là một hạt hoặc mảnh vỏ được cấy ghép phẫu thuật gọi là xà cừ.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn B bài đọc Pearls mô tả quá trình tạo ngọc trai nhân tạo.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Medical/Biology`
 
-### <a id="word-resilience"></a>resilience `/rɪˈzɪl.jəns/`
+### <a id="word-indiscriminate"></a>indiscriminate `/ˌɪn.dɪˈskrɪm.ɪ.nət/`
+- **Loại từ:** *adjective* | **Cấp độ:** `C2`
+- **Định nghĩa tiếng Việt:** **bừa bãi, cẩu thả, không suy tính trước**
+- **English definition:** *Done at random or without careful judgment; indiscriminate actions.*
+- **Collocations:** `indiscriminate use`, `indiscriminate attack`, `indiscriminate slaughter`
+- **Đồng nghĩa:** reckless, undiscriminating, unselective, haphazard
+- **Trái nghĩa:** selective, judicious, discriminating
+- **Ví dụ minh họa:**
+  - *"The water pollution resulting from spilled oil and indiscriminate overfishing essentially ruined the pristine waters."*
+    ↳ *Tình trạng ô nhiễm nước do dầu tràn và nạn đánh bắt quá mức bừa bãi đã phá hủy vùng nước nguyên sơ.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn F: lý do nguồn ngọc tự nhiên ở Vịnh Ba Tư sụp đổ vào những năm 1930.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Academic`
+
+### <a id="word-irritant"></a>irritant `/ˈɪr.ɪ.tənt/`
+- **Loại từ:** *noun* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **vật gây kích ứng, nhân tố kích thích dị ứng**
+- **English definition:** *A substance or agent that causes irritation or discomfort.*
+- **Collocations:** `respiratory irritant`, `chemical irritant`, `irritant-catalyst`
+- **Đồng nghĩa:** stimulant, foreign body, agitator
+- **Ví dụ minh họa:**
+  - *"A natural pearl forms when an irritant, such as a piece of sand, works its way into an oyster."*
+    ↳ *Ngọc trai tự nhiên hình thành khi một vật gây kích ứng, chẳng hạn hạt cát, chui vào trong con hàu.*
+- 💡 **Ghi chú & Mẹo nhớ:** Chỉ chính vật thể / hóa chất gây ra hiện tượng kích ứng.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Word Family`
+
+### <a id="word-irritate"></a>irritate `/ˈɪr.ɪ.teɪt/`
+- **Loại từ:** *verb* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **khiến ai bực bội, gây kích ứng mô/da**
+- **English definition:** *To make someone feel annoyed or angry; to cause inflammation or soreness in a body part.*
+- **Collocations:** `irritate the skin`, `irritate the eye`, `become easily irritated`
+- **Đồng nghĩa:** annoy, inflame, vex, aggravate
+- **Ví dụ minh họa:**
+  - *"A piece of sand works into the oyster and irritates its delicate tissues."*
+    ↳ *Một hạt cát lọt vào bên trong con hàu và gây kích ứng các mô mỏng manh của nó.*
+- 💡 **Ghi chú & Mẹo nhớ:** Gia đình từ: irritate (V) -> irritation (N) -> irritant (N).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Word Family`
+
+### <a id="word-irritation"></a>irritation `/ˌɪr.ɪˈteɪ.ʃən/`
 - **Loại từ:** *noun* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Khả năng phục hồi, sự kiên cường vượt qua nghịch cảnh và khó khăn.**
-- **English definition:** *The capacity to withstand or to recover quickly from difficulties; toughness.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/resilience-us.mp3)
-- **Collocations:** `remarkable resilience`, `build resilience`, `emotional resilience`
-- **Đồng nghĩa:** toughness, fortitude, perseverance, elasticity
-- **Trái nghĩa:** vulnerability, fragility, weakness
+- **Định nghĩa tiếng Việt:** **sự kích ứng, cảm giác bực bội khó chịu**
+- **English definition:** *The state of feeling annoyed; the state of being inflamed or painful.*
+- **Collocations:** `skin irritation`, `cause irritation`, `show irritation`
+- **Đồng nghĩa:** annoyance, inflammation, discomfort, soreness
 - **Ví dụ minh họa:**
-  - *"The community showed remarkable resilience after the devastating flood."*
-    ↳ *Cộng đồng đã thể hiện sự kiên cường đáng nể sau trận lũ lụt tàn khốc.*
-  - *"Developing mental resilience is essential for long-term entrepreneurial success."*
-    ↳ *Xây dựng sự kiên cường về mặt tâm lý là điều tối quan trọng để thành công lâu dài khi khởi nghiệp.*
-- 💡 **Ghi chú & Mẹo nhớ:** Có thể dùng tính từ tương ứng là 'resilient'.
-- 🏷️ **Tags:** `#IELTS` `#B2` `#Psychology` `#Work`
+  - *"The secretion of fluid is the mollusk's defense to soothe the irritation."*
+    ↳ *Việc tiết chất lỏng là cơ chế phòng vệ của thân mềm để làm dịu sự kích ứng.*
+- 💡 **Ghi chú & Mẹo nhớ:** Danh từ chỉ trạng thái hoặc cảm giác khó chịu/viêm nhiễm.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Word Family`
 
-### <a id="word-serendipity"></a>serendipity `/ˌser.ənˈdɪp.ə.ti/`
-- **Loại từ:** *noun* | **Cấp độ:** `C2`
-- **Định nghĩa tiếng Việt:** **Sự tình cờ may mắn; khả năng tình cờ tìm thấy những điều thú vị hay có giá trị một cách bất ngờ.**
-- **English definition:** *The occurrence and development of events by chance in a happy or beneficial way.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/serendipity-us.mp3)
-- **Collocations:** `pure serendipity`, `stroke of serendipity`, `happy serendipity`
-- **Đồng nghĩa:** fluke, happy accident, providence, stroke of luck
-- **Trái nghĩa:** misfortune, bad luck
-- **Ví dụ minh họa:**
-  - *"Finding my dream job while browsing a random forum was pure serendipity."*
-    ↳ *Tìm thấy công việc mơ ước khi đang lướt một diễn đàn ngẫu nhiên hoàn toàn là một sự may mắn tình cờ.*
-  - *"A fortunate stroke of serendipity brought the two researchers together."*
-    ↳ *Một sự tình cờ may mắn đã kết nối hai nhà nghiên cứu lại với nhau.*
-- 💡 **Ghi chú & Mẹo nhớ:** Xuất phát từ câu chuyện cổ tích Ba hoàng tử xứ Serendip của Horace Walpole.
-- 🏷️ **Tags:** `#IELTS` `#C2` `#Philosophy` `#Daily`
-
-### <a id="word-serene"></a>serene `/səˈriːn/`
-- **Loại từ:** *adjective* | **Cấp độ:** `B2`
-- **Định nghĩa tiếng Việt:** **Thanh bình, êm đềm, thanh thản, tĩnh lặng.**
-- **English definition:** *Calm, peaceful, and untroubled; tranquil.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/serene-us.mp3)
-- **Collocations:** `serene atmosphere`, `serene lake`, `serene expression`
-- **Đồng nghĩa:** tranquil, peaceful, placid, calm, composed
-- **Trái nghĩa:** turbulent, chaotic, agitated
-- **Ví dụ minh họa:**
-  - *"The mountain lake was breathtakingly serene in the early morning fog."*
-    ↳ *Hồ nước trên núi đẹp đến ngỡ ngàng và thanh bình trong làn sương sớm mai.*
-  - *"Despite the emergency around her, she maintained a serene smile."*
-    ↳ *Bất chấp tình huống khẩn cấp xung quanh, cô ấy vẫn giữ một nụ cười thanh thản.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ tương ứng là 'serenity' (sự thanh thản).
-- 🏷️ **Tags:** `#B2` `#Nature` `#Emotion` `#Lifestyle`
-
-### <a id="word-tenacious"></a>tenacious `/təˈneɪ.ʃəs/`
+### <a id="word-lustrous"></a>lustrous `/ˈlʌs.trəs/`
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Kiên trì, bền bỉ, ngoan cường, không chịu bỏ cuộc.**
-- **English definition:** *Tending to keep a firm hold of something; clinging or adhering closely; persistent.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/tenacious-us.mp3)
-- **Collocations:** `tenacious grip`, `tenacious defense`, `tenacious personality`
-- **Đồng nghĩa:** persistent, determined, resolute, dogged
-- **Trái nghĩa:** irresolute, yielding, wavering
+- **Định nghĩa tiếng Việt:** **óng ánh, rực rỡ, có độ bóng cao**
+- **English definition:** *Having luster; shining with a soft reflected light.*
+- **Collocations:** `lustrous black pearl`, `lustrous shine`, `lustrous finish`
+- **Đồng nghĩa:** glossy, radiant, glowing, luminous
 - **Ví dụ minh họa:**
-  - *"Her tenacious efforts finally resulted in an international climate accord."*
-    ↳ *Những nỗ lực bền bỉ, kiên trì của cô ấy cuối cùng đã mang lại một hiệp định khí hậu quốc tế.*
-  - *"A tenacious detective never stops investigating until justice is served."*
-    ↳ *Một thám tử ngoan cường không bao giờ ngừng điều tra cho đến khi công lý được thực thi.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ: 'tenacity' (sự bền bỉ, lòng kiên trì).
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Character` `#Success`
+  - *"Layer upon layer of this coating is deposited on the irritant until a lustrous pearl is formed."*
+    ↳ *Hết lớp này đến lớp khác chất bao phủ này lắng đọng cho đến khi tạo thành viên ngọc óng ánh.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn B & G: đặc tính quan trọng nhất quyết định giá trị của ngọc trai.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
 
-### <a id="word-ubiquitous"></a>ubiquitous `/juːˈbɪk.wə.təs/`
+### <a id="word-misshapen"></a>misshapen `/mɪsˈʃeɪ.pənd/`
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
-- **Định nghĩa tiếng Việt:** **Phổ biến ở khắp mọi nơi; nhan nhản; đâu đâu cũng thấy.**
-- **English definition:** *Present, appearing, or found everywhere at the same time.*
-- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](https://api.dictionaryapi.dev/media/pronunciations/en/ubiquitous-us.mp3)
-- **Collocations:** `ubiquitous presence`, `become ubiquitous`, `ubiquitous technology`
-- **Đồng nghĩa:** omnipresent, pervasive, universal, everywhere
-- **Trái nghĩa:** rare, scarce, uncommon
+- **Định nghĩa tiếng Việt:** **méo mó, dị dạng, không cân xứng**
+- **English definition:** *Deformed, not having the normal or natural shape.*
+- **Collocations:** `misshapen pearl`, `misshapen face`, `grow misshapen`
+- **Đồng nghĩa:** deformed, distorted, asymmetrical, malformed
+- **Trái nghĩa:** shapely, symmetrical, flawless
 - **Ví dụ minh họa:**
-  - *"Smartphones have become ubiquitous across all generations."*
-    ↳ *Điện thoại thông minh đã trở nên hiện diện khắp mọi nơi ở mọi thế hệ.*
-  - *"Coffee shops are ubiquitous in this bustling metropolis."*
-    ↳ *Các quán cà phê mọc lên nhan nhản khắp đô thị sầm uất này.*
-- 💡 **Ghi chú & Mẹo nhớ:** Danh từ tương ứng là 'ubiquity'. Cực kỳ hữu ích trong IELTS Writing Task 2.
-- 🏷️ **Tags:** `#IELTS` `#C1` `#Academic` `#Technology`
+  - *"Often, the irritant may be rejected, or the pearl will be terrifically misshapen."*
+    ↳ *Thông thường, dị vật có thể bị đào thải, hoặc viên ngọc trai sẽ bị méo mó nghiêm trọng.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn C bài đọc: miêu tả những viên ngọc không đạt chuẩn hình khối cầu đối xứng.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
+
+### <a id="word-predominantly"></a>predominantly `/prɪˈdɒm.ɪ.nənt.li/`
+- **Loại từ:** *adverb* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **chủ yếu, phần lớn, chiếm ưu thế**
+- **English definition:** *Mainly; for the most part.*
+- **Collocations:** `predominantly female`, `predominantly rural`, `be predominantly based`
+- **Đồng nghĩa:** principally, mainly, chiefly, primarily
+- **Ví dụ minh họa:**
+  - *"Nowadays, pearls predominantly come from Japan, Australia, Indonesia, and China."*
+    ↳ *Ngày nay, ngọc trai chủ yếu đến từ Nhật Bản, Úc, Indonesia và Trung Quốc.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn G: Phân bố địa lý thị trường ngọc trai hiện đại.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Academic`
+
+### <a id="word-pristine"></a>pristine `/ˈprɪs.tiːn/`
+- **Loại từ:** *adjective* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **nguyên thuỷ, tinh khôi, chưa bị xâm phạm**
+- **English definition:** *In its original condition; unspoiled, completely clean and fresh.*
+- **Collocations:** `pristine condition`, `pristine environment`, `pristine beaches`
+- **Đồng nghĩa:** unspoiled, immaculate, untouched, flawless
+- **Trái nghĩa:** polluted, contaminated, spoiled
+- **Ví dụ minh họa:**
+  - *"They essentially ruined the pristine waters of the Gulf that once produced pearls."*
+    ↳ *Họ cơ bản đã hủy hoại vùng nước nguyên sơ của Vùng Vịnh từng một thời sản sinh ra ngọc quý.*
+- 💡 **Ghi chú & Mẹo nhớ:** Từ miêu tả môi trường tự nhiên rất được chuộng trong IELTS Speaking & Writing.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Academic`
+
+### <a id="word-secrete"></a>secrete `/sɪˈkriːt/`
+- **Loại từ:** *verb* | **Cấp độ:** `C1`
+- **Định nghĩa tiếng Việt:** **tiết ra (chất dịch, chất nhờn sinh học)**
+- **English definition:** *To produce and discharge a substance, especially by a gland or cell.*
+- **Collocations:** `secrete fluid`, `secrete hormones`, `secrete saliva`
+- **Đồng nghĩa:** exude, discharge, produce, emit
+- **Ví dụ minh họa:**
+  - *"As a defense mechanism, the mollusk secretes a fluid to coat the irritant."*
+    ↳ *Như một cơ chế phòng vệ, loài thân mềm tiết ra chất dịch để bao bọc dị vật.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn B: Cơ chế sinh học tạo nên xà cừ và ngọc trai.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Biology`
+
+### <a id="word-fond"></a>to be fond of sth `/fɒnd/`
+- **Loại từ:** *phrase* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **thích thú, yêu thích cái gì**
+- **English definition:** *Having an affection or liking for someone or something.*
+- **Collocations:** `be fond of doing something`, `fond memories`, `grow fond of`
+- **Đồng nghĩa:** keen on, attached to, partial to
+- **Ví dụ minh họa:**
+  - *"The ancient Egyptians were particularly fond of their pearls."*
+    ↳ *Người Ai Cập cổ đại đặc biệt yêu thích những viên ngọc trai của họ.*
+- 💡 **Ghi chú & Mẹo nhớ:** Trích Đoạn A bài đọc Pearls.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Collocation`
+
+### <a id="word-supplied-with"></a>to be supplied with `/səˈplaɪd wɪð/`
+- **Loại từ:** *phrase* | **Cấp độ:** `B1`
+- **Định nghĩa tiếng Việt:** **được cung cấp cái gì (= to be provided with sth)**
+- **English definition:** *Provided or furnished with what is needed or wanted.*
+- **Collocations:** `adequately supplied with`, `regularly supplied with`
+- **Đồng nghĩa:** be provided with, be furnished with, be equipped with
+- **Ví dụ minh họa:**
+  - *"The water along the coastline is supplied with rich nutrients from the ocean floor."*
+    ↳ *Nguồn nước dọc bờ biển được cung cấp các chất dinh dưỡng phong phú từ đáy đại dương.*
+- 💡 **Ghi chú & Mẹo nhớ:** Đoạn D: giải thích nguyên nhân ngọc trai Nam Úc có kích thước to.
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS` `#Collocation`
+
+### <a id="word-treasure"></a>treasure `/ˈtreʒ.ər/`
+- **Loại từ:** *noun* | **Cấp độ:** `B1`
+- **Định nghĩa tiếng Việt:** **kho báu (N); trân quý, coi như bảo vật (V)**
+- **English definition:** *A quantity of precious metals, gems, or valuable objects; to cherish or prize highly.*
+- **Collocations:** `national treasure`, `buried treasure`, `treasure a memory`
+- **Đồng nghĩa:** cherish, prize, value, gem
+- **Ví dụ minh họa:**
+  - *"Many Egyptian leaders treasured pearls so much that they were often buried along with their cherished pearl collection."*
+    ↳ *Nhiều thủ lĩnh Ai Cập trân quý ngọc trai đến mức họ thường được chôn cất cùng bộ sưu tập ngọc trai yêu quý.*
+- 💡 **Ghi chú & Mẹo nhớ:** Vừa là danh từ (kho báu), vừa là động từ (trân quý).
+- 🏷️ **Tags:** `#Reading 01` `#Pearls` `#IELTS`
