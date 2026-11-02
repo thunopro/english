@@ -1,6 +1,6 @@
 # 📚 Bảng Từ Vựng Tiếng Anh & Liên Kết Học Tập (Vocabulary Index)
 
-> **Tổng số từ hiện tại**: 21 từ | Cập nhật tự động lần cuối: 2026-11-02
+> **Tổng số từ hiện tại**: 22 từ | Cập nhật tự động lần cuối: 2026-11-02
 
 Mục lục này cho phép bạn truy cập nhanh link text của tất cả các từ mới, bấm nghe phát âm trực tiếp hoặc chuyển hướng vào ứng dụng web học tập.
 
@@ -15,6 +15,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **[empathy](#word-empathy)** `/ˈem.pə.θi/` (*noun*): Sự thấu cảm, khả năng hiểu và cảm nhận được cảm xúc của người khác. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/empathy-us.mp3) | [🔗 Học từ này](#word=empathy)
 - **[ephemeral](#word-ephemeral)** `/ɪˈfem.ər.əl/` (*adjective*): Phù du, chóng tàn, tồn tại trong một khoảng thời gian rất ngắn. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3) | [🔗 Học từ này](#word=ephemeral)
 - **[epiphany](#word-epiphany)** `/ɪˈpɪf.ən.i/` (*noun*): Khoảnh khắc giác ngộ, bừng sáng; sự bỗng nhiên hiểu ra một chân lý quan trọng. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3) | [🔗 Học từ này](#word=epiphany)
+- **[equilibrium](#word-equilibrium)** `/iːkwɪˈlɪbɹɪəm/` (*noun*): thăng bằng — *(TTS)* | [🔗 Học từ này](#word=equilibrium)
 - **[hindsight](#word-hindsight)** `/ˈhaɪnd.saɪt/` (*noun*): Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3) | [🔗 Học từ này](#word=hindsight)
 - **[lucid](#word-lucid)** `/ˈluː.sɪd/` (*adjective*): Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3) | [🔗 Học từ này](#word=lucid)
 - **[meticulous](#word-meticulous)** `/məˈtɪk.jə.ləs/` (*adjective*): Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3) | [🔗 Học từ này](#word=meticulous)
@@ -175,6 +176,17 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
     ↳ *Cuộc chạm trán của Newton với quả táo rơi đã khơi nguồn cho khoảnh khắc bừng sáng khoa học của ông.*
 - 💡 **Ghi chú & Mẹo nhớ:** Tương đương với khái niệm 'Eureka moment' hoặc 'Aha moment'.
 - 🏷️ **Tags:** `#IELTS` `#C2` `#Literature` `#Psychology`
+
+### <a id="word-equilibrium"></a>equilibrium `/iːkwɪˈlɪbɹɪəm/`
+- **Loại từ:** *noun* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **thăng bằng**
+- **English definition:** *The condition of a system in which competing influences are balanced, resulting in no net change.*
+- **Đồng nghĩa:** balance, stability, sanity
+- **Trái nghĩa:** disequilibrium, imbalance, instability, disequilibrium
+- **Ví dụ minh họa:**
+  - *"Example sentence with the word "equilibrium"."*
+- 💡 **Ghi chú & Mẹo nhớ:** Thêm qua terminal word (Ctrl+G)
+- 🏷️ **Tags:** `#TerminalBuffer` `#Daily`
 
 ### <a id="word-hindsight"></a>hindsight `/ˈhaɪnd.saɪt/`
 - **Loại từ:** *noun* | **Cấp độ:** `B2`

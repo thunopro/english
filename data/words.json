@@ -1,5 +1,37 @@
 [
   {
+    "id": "equilibrium",
+    "word": "equilibrium",
+    "phonetic": "/iːkwɪˈlɪbɹɪəm/",
+    "partOfSpeech": "noun",
+    "meaningVi": "thăng bằng",
+    "meaningEn": "The condition of a system in which competing influences are balanced, resulting in no net change.",
+    "examples": [
+      {
+        "en": "Example sentence with the word \"equilibrium\"."
+      }
+    ],
+    "synonyms": [
+      "balance",
+      "stability",
+      "sanity"
+    ],
+    "antonyms": [
+      "disequilibrium",
+      "imbalance",
+      "instability",
+      "disequilibrium"
+    ],
+    "collocations": [],
+    "tags": [
+      "TerminalBuffer",
+      "Daily"
+    ],
+    "level": "B2",
+    "notes": "Thêm qua terminal word (Ctrl+G)",
+    "dateAdded": "2026-11-02"
+  },
+  {
     "id": "perseverance",
     "word": "perseverance",
     "phonetic": "/ˌpɜːsəˈvɪəɹəns/",
