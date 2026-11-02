@@ -1,12 +1,14 @@
 # 📚 VocabVault — Sổ Tay Từ Vựng Tiếng Anh & Luyện Phát Âm
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-indigo?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Website-black?style=for-the-badge&logo=vercel)](https://english-snowy-two.vercel.app)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-purple?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Tests](https://img.shields.io/badge/Tests-Vitest%20Passed-emerald?style=for-the-badge&logo=vitest)](https://vitest.dev/)
 
+> 🌐 **Website trực tiếp:** [https://english-snowy-two.vercel.app](https://english-snowy-two.vercel.app)
+>
 > **VocabVault** là trang web cá nhân mã nguồn mở giúp bạn ghi chép, quản lý toàn bộ từ vựng tiếng Anh theo thời gian, phát âm chuẩn người bản xứ (US, UK, AU), cung cấp **đường dẫn trực tiếp (Link Text)** cho từng từ để bạn có thể xem lại, chia sẻ vào Notion/Obsidian/Anki và học tập ngắt quãng (Spaced Repetition System - SRS).
 
 ---
