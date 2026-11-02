@@ -1,5 +1,29 @@
 [
   {
+    "id": "mindset",
+    "word": "mindset",
+    "phonetic": "/mindset/",
+    "partOfSpeech": "noun",
+    "meaningVi": "tư duy.",
+    "meaningEn": "A way of thinking; an attitude or opinion, especially a habitual one.",
+    "examples": [
+      {
+        "en": "Earth Day is a way of propagating and celebrating the environmentalist mindset."
+      }
+    ],
+    "synonyms": [
+      "mentality"
+    ],
+    "collocations": [],
+    "tags": [
+      "TerminalBuffer",
+      "Daily"
+    ],
+    "level": "B2",
+    "notes": "Thêm qua terminal word (Ctrl+G)",
+    "dateAdded": "2026-11-02"
+  },
+  {
     "id": "equilibrium",
     "word": "equilibrium",
     "phonetic": "/iːkwɪˈlɪbɹɪəm/",

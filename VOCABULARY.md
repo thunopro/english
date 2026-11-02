@@ -1,6 +1,6 @@
 # 📚 Bảng Từ Vựng Tiếng Anh & Liên Kết Học Tập (Vocabulary Index)
 
-> **Tổng số từ hiện tại**: 22 từ | Cập nhật tự động lần cuối: 2026-11-02
+> **Tổng số từ hiện tại**: 23 từ | Cập nhật tự động lần cuối: 2026-11-02
 
 Mục lục này cho phép bạn truy cập nhanh link text của tất cả các từ mới, bấm nghe phát âm trực tiếp hoặc chuyển hướng vào ứng dụng web học tập.
 
@@ -19,6 +19,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **[hindsight](#word-hindsight)** `/ˈhaɪnd.saɪt/` (*noun*): Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3) | [🔗 Học từ này](#word=hindsight)
 - **[lucid](#word-lucid)** `/ˈluː.sɪd/` (*adjective*): Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3) | [🔗 Học từ này](#word=lucid)
 - **[meticulous](#word-meticulous)** `/məˈtɪk.jə.ləs/` (*adjective*): Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3) | [🔗 Học từ này](#word=meticulous)
+- **[mindset](#word-mindset)** `/mindset/` (*noun*): tư duy. — *(TTS)* | [🔗 Học từ này](#word=mindset)
 - **[paradigm shift](#word-paradigm-shift)** `/ˈpær.ə.daɪm ʃɪft/` (*noun*): Sự chuyển đổi căn bản trong nhận thức, phương pháp hoặc tư duy. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-shift-us.mp3) | [🔗 Học từ này](#word=paradigm-shift)
 - **[perseverance](#word-perseverance)** `/ˌpɜːsəˈvɪəɹəns/` (*noun*): sự kiên trì, lòng kiên định không nản lòng trước gian khổ — *(TTS)* | [🔗 Học từ này](#word=perseverance)
 - **[pragmatic](#word-pragmatic)** `/præɡˈmæt.ɪk/` (*adjective*): Thực tế, thực dụng, dựa trên tính khả thi thay vì lý thuyết suông. — [🔊 Nghe](https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3) | [🔗 Học từ này](#word=pragmatic)
@@ -235,6 +236,16 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
     ↳ *Công việc phục chế bảo tàng đòi hỏi tay nghề thủ công cực kỳ tỉ mỉ.*
 - 💡 **Ghi chú & Mẹo nhớ:** Trạng từ là 'meticulously'. Rất thích hợp để miêu tả phong cách làm việc chuyên nghiệp.
 - 🏷️ **Tags:** `#IELTS` `#B2` `#Work` `#Productivity`
+
+### <a id="word-mindset"></a>mindset `/mindset/`
+- **Loại từ:** *noun* | **Cấp độ:** `B2`
+- **Định nghĩa tiếng Việt:** **tư duy.**
+- **English definition:** *A way of thinking; an attitude or opinion, especially a habitual one.*
+- **Đồng nghĩa:** mentality
+- **Ví dụ minh họa:**
+  - *"Earth Day is a way of propagating and celebrating the environmentalist mindset."*
+- 💡 **Ghi chú & Mẹo nhớ:** Thêm qua terminal word (Ctrl+G)
+- 🏷️ **Tags:** `#TerminalBuffer` `#Daily`
 
 ### <a id="word-paradigm-shift"></a>paradigm shift `/ˈpær.ə.daɪm ʃɪft/`
 - **Loại từ:** *noun* | **Cấp độ:** `C1`
