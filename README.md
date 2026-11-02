@@ -33,18 +33,30 @@
   - 🗂️ **Xuất thẻ Anki (TSV/CSV):** 1-click import toàn bộ kho từ vào ứng dụng Anki.
   - 💾 **Tải file JSON backup:** Lưu giữ toàn bộ dữ liệu từ vựng.
 
-### 3. 📥 Thêm Từ Dần Dần Vào GitHub (3 Cách Tiện Lợi)
+### 3. 📥 Thêm Từ Dần Dần Vào GitHub (4 Cách Tiện Lợi)
 Bạn có thể bổ sung từ mới dần dần vào repo theo các cách sau:
-- **Cách 1: Thêm trực tiếp trên giao diện Web (Có tra từ điển tự động):**
+- **Cách 1: Terminal TUI `word` Scratchpad (Giống WorldFinal) với phím tắt [Ctrl+G]:**
+  - Mở bất kỳ cửa sổ dòng lệnh nào và gõ lệnh:
+    ```bash
+    word
+    ```
+  - Màn hình đệm hiển thị: Bạn thoải mái gõ từng từ tiếng Anh bạn học được (mỗi dòng một từ, hoặc `word : nghĩa`).
+  - Khi đã gom đủ các từ trong ngày, bạn chỉ cần bấm **`Ctrl+G`**!
+  - Công cụ sẽ tự động:
+    1. Gửi toàn bộ từ qua bộ lọc API (Free Dictionary API + Translation API).
+    2. Chuẩn hóa phiên âm IPA, lấy link audio MP3 phát âm bản xứ, lọc câu ví dụ, từ đồng nghĩa.
+    3. Thêm vào `data/words.json` và cập nhật mục lục `VOCABULARY.md`.
+    4. Tự động `git commit` và `git push` lên kho GitHub của bạn!
+- **Cách 2: Thêm trực tiếp trên giao diện Web (Có tra từ điển tự động):**
   - Gõ từ tiếng Anh ➔ Bấm **"Tra tự động"** ➔ Tự điền phiên âm IPA, audio MP3, từ loại, định nghĩa tiếng Anh, câu ví dụ và từ đồng nghĩa.
   - Nhập nghĩa tiếng Việt ➔ Bấm **"Lưu từ vựng"**.
   - Có thể tải file `words.json` mới hoặc nhập GitHub Token để tự động commit lên GitHub từ trình duyệt!
-- **Cách 2: Sử dụng lệnh CLI (nhanh nhất cho lập trình viên):**
+- **Cách 3: Sử dụng lệnh CLI 1 chạm:**
   ```bash
-  npm run add "perseverance" "sự kiên trì, bền bỉ"
+  word "perseverance"
+  # hoặc: npm run add "perseverance" "sự kiên trì, bền bỉ"
   ```
-  Script sẽ tự động tra cứu từ điển, cập nhật `data/words.json`, `public/words.json` và tạo lại `VOCABULARY.md`!
-- **Cách 3: Sửa trực tiếp file `data/words.json` trên GitHub:**
+- **Cách 4: Sửa trực tiếp file `data/words.json` trên GitHub:**
   - Mở file `data/words.json` trên trình duyệt GitHub và bấm nút `Edit` (hoặc phím `.`).
   - Thêm từ mới theo mẫu JSON có sẵn rồi Commit. GitHub Actions sẽ tự động build và deploy phiên bản mới lên GitHub Pages trong ~30 giây!
 
