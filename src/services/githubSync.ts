@@ -11,6 +11,7 @@ const STORAGE_KEY = 'vocab_github_sync_config';
 
 export function getGitHubConfig(): GitHubSyncConfig | null {
   try {
+    if (typeof localStorage === 'undefined') return null;
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return null;
     return JSON.parse(raw);
@@ -20,11 +21,15 @@ export function getGitHubConfig(): GitHubSyncConfig | null {
 }
 
 export function saveGitHubConfig(config: GitHubSyncConfig): void {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(config));
+  if (typeof localStorage !== 'undefined') {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(config));
+  }
 }
 
 export function clearGitHubConfig(): void {
-  localStorage.removeItem(STORAGE_KEY);
+  if (typeof localStorage !== 'undefined') {
+    localStorage.removeItem(STORAGE_KEY);
+  }
 }
 
 /**
