@@ -63,7 +63,7 @@ export function useAudio() {
 
     utterance.onstart = () => {
       setIsPlaying(true);
-      if (wordId) setPlayingWordId(wordId);
+      setPlayingWordId(wordId || text);
     };
 
     utterance.onend = () => {
@@ -90,7 +90,7 @@ export function useAudio() {
 
         audio.onplay = () => {
           setIsPlaying(true);
-          if (wordId) setPlayingWordId(wordId);
+          setPlayingWordId(wordId || word);
         };
 
         audio.onended = () => {

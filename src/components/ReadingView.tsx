@@ -104,6 +104,16 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
     setShowExplanations(false);
   };
 
+  const getSummarySelectClass = (blankId: number, expectedAnswer: string) => {
+    if (!isSubmitted) {
+      return 'inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100 transition-colors';
+    }
+    const isCorrect = summaryAnswers[blankId] === expectedAnswer;
+    return isCorrect
+      ? 'inline-block mx-1 text-xs font-bold py-1 px-2 rounded border-2 border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 transition-colors font-extrabold'
+      : 'inline-block mx-1 text-xs font-bold py-1 px-2 rounded border-2 border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-950 dark:text-rose-300 transition-colors font-extrabold';
+  };
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 space-y-8 animate-fadeIn">
       {/* Header Banner */}
@@ -170,7 +180,7 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
 
         {/* Navigation Mode Pill Tabs */}
         <div className="mt-6 pt-6 border-t border-indigo-800/40 flex flex-wrap items-center justify-between gap-4">
-          <div className="flex items-center gap-2 p-1 bg-slate-900/60 rounded-xl border border-indigo-900/50">
+          <div className="flex flex-wrap sm:flex-nowrap items-center gap-2 p-1 bg-slate-900/60 rounded-xl border border-indigo-900/50 max-w-full overflow-x-auto">
             <button
               onClick={() => setActiveTab('all')}
               className={`px-3 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all ${
@@ -479,7 +489,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[5] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 5: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 5"
+                    className={getSummarySelectClass(5, 'J')}
                   >
                     <option value="">[ 5 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -495,7 +506,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[6] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 6: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 6"
+                    className={getSummarySelectClass(6, 'K')}
                   >
                     <option value="">[ 6 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -509,7 +521,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[7] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 7: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 7"
+                    className={getSummarySelectClass(7, 'C')}
                   >
                     <option value="">[ 7 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -524,7 +537,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[8] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 8: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 8"
+                    className={getSummarySelectClass(8, 'F')}
                   >
                     <option value="">[ 8 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -538,7 +552,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[9] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 9: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 9"
+                    className={getSummarySelectClass(9, 'D')}
                   >
                     <option value="">[ 9 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -553,7 +568,8 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                     value={summaryAnswers[10] || ''}
                     onChange={(e) => setSummaryAnswers({ ...summaryAnswers, 10: e.target.value })}
                     disabled={isSubmitted}
-                    className="inline-block mx-1 text-xs font-bold py-1 px-2 rounded border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-800 text-slate-800 dark:text-slate-100"
+                    aria-label="Câu 10"
+                    className={getSummarySelectClass(10, 'G')}
                   >
                     <option value="">[ 10 ]</option>
                     {SUMMARY_OPTIONS.map((opt) => (
@@ -587,7 +603,14 @@ export const ReadingView: React.FC<ReadingViewProps> = ({
                           ) : (
                             <XCircle className="w-3.5 h-3.5 text-rose-600" />
                           )}
-                          Câu [{b.id}]: Đáp án {b.answer} ({b.label})
+                          <span>
+                            Câu [{b.id}]: Đáp án {b.answer} ({b.label})
+                            {!isCorrect && (
+                              <span className="font-normal text-slate-500 dark:text-slate-400 ml-1.5">
+                                (Bạn chọn: {userAns ? `${userAns} - ${SUMMARY_OPTIONS.find((o) => o.code === userAns)?.text}` : 'Chưa chọn'})
+                              </span>
+                            )}
+                          </span>
                         </div>
                         <p className="text-slate-600 dark:text-slate-400 pl-5">💡 {b.explanation}</p>
                       </div>

@@ -41,7 +41,8 @@ export const FlashcardView: React.FC<FlashcardViewProps> = ({
     setShuffledIndices(activeWords.map((_, i) => i));
   }, [activeWords.length, onlyDue]);
 
-  const currentWord: WordEntry | undefined = activeWords[currentIndex];
+  const activeIndex = shuffledIndices[currentIndex] ?? currentIndex;
+  const currentWord: WordEntry | undefined = activeWords[activeIndex];
 
   const handleNext = useCallback(() => {
     setIsFlipped(false);
