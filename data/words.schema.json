@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "VocabVault Word List Schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "word", "phonetic", "partOfSpeech", "meaningVi", "meaningEn", "examples", "dateAdded"],
+    "properties": {
+      "id": { "type": "string" },
+      "word": { "type": "string" },
+      "phonetic": { "type": "string" },
+      "audio": { "type": "string" },
+      "partOfSpeech": {
+        "type": "string",
+        "enum": ["noun", "verb", "adjective", "adverb", "idiom", "phrasal verb", "preposition", "phrase", "other"]
+      },
+      "meaningVi": { "type": "string" },
+      "meaningEn": { "type": "string" },
+      "examples": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["en"],
+          "properties": {
+            "en": { "type": "string" },
+            "vi": { "type": "string" }
+          }
+        }
+      },
+      "synonyms": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "antonyms": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "collocations": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "tags": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "level": {
+        "type": "string",
+        "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
+      },
+      "notes": { "type": "string" },
+      "dateAdded": { "type": "string" },
+      "source": { "type": "string" }
+    }
+  }
+}

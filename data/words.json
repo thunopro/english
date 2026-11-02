@@ -1,0 +1,900 @@
+[
+  {
+    "id": "perseverance",
+    "word": "perseverance",
+    "phonetic": "/ˌpɜːsəˈvɪəɹəns/",
+    "partOfSpeech": "noun",
+    "meaningVi": "sự kiên trì, lòng kiên định không nản lòng trước gian khổ",
+    "meaningEn": "Continuing in a course of action without regard to discouragement, opposition or previous failure.",
+    "examples": [
+      {
+        "en": "This is an example sentence using the word \"perseverance\".",
+        "vi": ""
+      }
+    ],
+    "collocations": [],
+    "tags": [
+      "Learning"
+    ],
+    "level": "B2",
+    "notes": "",
+    "dateAdded": "2026-11-02"
+  },
+  {
+    "id": "serendipity",
+    "word": "serendipity",
+    "phonetic": "/ˌser.ənˈdɪp.ə.ti/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serendipity-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Sự tình cờ may mắn; khả năng tình cờ tìm thấy những điều thú vị hay có giá trị một cách bất ngờ.",
+    "meaningEn": "The occurrence and development of events by chance in a happy or beneficial way.",
+    "examples": [
+      {
+        "en": "Finding my dream job while browsing a random forum was pure serendipity.",
+        "vi": "Tìm thấy công việc mơ ước khi đang lướt một diễn đàn ngẫu nhiên hoàn toàn là một sự may mắn tình cờ."
+      },
+      {
+        "en": "A fortunate stroke of serendipity brought the two researchers together.",
+        "vi": "Một sự tình cờ may mắn đã kết nối hai nhà nghiên cứu lại với nhau."
+      }
+    ],
+    "synonyms": [
+      "fluke",
+      "happy accident",
+      "providence",
+      "stroke of luck"
+    ],
+    "antonyms": [
+      "misfortune",
+      "bad luck"
+    ],
+    "collocations": [
+      "pure serendipity",
+      "stroke of serendipity",
+      "happy serendipity"
+    ],
+    "tags": [
+      "IELTS",
+      "C2",
+      "Philosophy",
+      "Daily"
+    ],
+    "level": "C2",
+    "notes": "Xuất phát từ câu chuyện cổ tích Ba hoàng tử xứ Serendip của Horace Walpole.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "resilience",
+    "word": "resilience",
+    "phonetic": "/rɪˈzɪl.jəns/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/resilience-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Khả năng phục hồi, sự kiên cường vượt qua nghịch cảnh và khó khăn.",
+    "meaningEn": "The capacity to withstand or to recover quickly from difficulties; toughness.",
+    "examples": [
+      {
+        "en": "The community showed remarkable resilience after the devastating flood.",
+        "vi": "Cộng đồng đã thể hiện sự kiên cường đáng nể sau trận lũ lụt tàn khốc."
+      },
+      {
+        "en": "Developing mental resilience is essential for long-term entrepreneurial success.",
+        "vi": "Xây dựng sự kiên cường về mặt tâm lý là điều tối quan trọng để thành công lâu dài khi khởi nghiệp."
+      }
+    ],
+    "synonyms": [
+      "toughness",
+      "fortitude",
+      "perseverance",
+      "elasticity"
+    ],
+    "antonyms": [
+      "vulnerability",
+      "fragility",
+      "weakness"
+    ],
+    "collocations": [
+      "remarkable resilience",
+      "build resilience",
+      "emotional resilience"
+    ],
+    "tags": [
+      "IELTS",
+      "B2",
+      "Psychology",
+      "Work"
+    ],
+    "level": "B2",
+    "notes": "Có thể dùng tính từ tương ứng là 'resilient'.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "eloquent",
+    "word": "eloquent",
+    "phonetic": "/ˈel.ə.kwənt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eloquent-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Hùng biện, lưu loát, có tài ăn nói thuyết phục.",
+    "meaningEn": "Fluent or persuasive in speaking or writing; clearly expressing or indicating something.",
+    "examples": [
+      {
+        "en": "She delivered an eloquent defense of human rights at the summit.",
+        "vi": "Cô ấy đã đưa ra lời bảo vệ nhân quyền rất hùng biện và thuyết phục tại hội nghị thượng đỉnh."
+      },
+      {
+        "en": "His silence was more eloquent than any speech could be.",
+        "vi": "Sự im lặng của anh ấy còn có sức biểu cảm hơn bất kỳ lời nói nào."
+      }
+    ],
+    "synonyms": [
+      "articulate",
+      "persuasive",
+      "expressive",
+      "fluent"
+    ],
+    "antonyms": [
+      "inarticulate",
+      "hesitant",
+      "clumsy"
+    ],
+    "collocations": [
+      "eloquent speaker",
+      "eloquent speech",
+      "eloquent testimony"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Communication",
+      "Academic"
+    ],
+    "level": "C1",
+    "notes": "Danh từ là 'eloquence', trạng từ là 'eloquently'.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "ephemeral",
+    "word": "ephemeral",
+    "phonetic": "/ɪˈfem.ər.əl/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ephemeral-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Phù du, chóng tàn, tồn tại trong một khoảng thời gian rất ngắn.",
+    "meaningEn": "Lasting for a very short time; fleeting or transient.",
+    "examples": [
+      {
+        "en": "Fame in the modern social media era is often ephemeral.",
+        "vi": "Sự nổi tiếng trong thời đại mạng xã hội ngày nay thường rất phù du, chóng tàn."
+      },
+      {
+        "en": "Cherry blossoms are loved for their ephemeral, delicate beauty.",
+        "vi": "Hoa anh đào được yêu mến bởi vẻ đẹp mong manh và ngắn ngủi của chúng."
+      }
+    ],
+    "synonyms": [
+      "transient",
+      "fleeting",
+      "short-lived",
+      "momentary"
+    ],
+    "antonyms": [
+      "permanent",
+      "eternal",
+      "everlasting",
+      "enduring"
+    ],
+    "collocations": [
+      "ephemeral nature",
+      "ephemeral pleasure",
+      "ephemeral beauty"
+    ],
+    "tags": [
+      "IELTS",
+      "C2",
+      "Literature",
+      "Art"
+    ],
+    "level": "C2",
+    "notes": "Bắt nguồn từ tiếng Hy Lạp 'ephēmeros' (tồn tại chỉ trong một ngày).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "ubiquitous",
+    "word": "ubiquitous",
+    "phonetic": "/juːˈbɪk.wə.təs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ubiquitous-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Phổ biến ở khắp mọi nơi; nhan nhản; đâu đâu cũng thấy.",
+    "meaningEn": "Present, appearing, or found everywhere at the same time.",
+    "examples": [
+      {
+        "en": "Smartphones have become ubiquitous across all generations.",
+        "vi": "Điện thoại thông minh đã trở nên hiện diện khắp mọi nơi ở mọi thế hệ."
+      },
+      {
+        "en": "Coffee shops are ubiquitous in this bustling metropolis.",
+        "vi": "Các quán cà phê mọc lên nhan nhản khắp đô thị sầm uất này."
+      }
+    ],
+    "synonyms": [
+      "omnipresent",
+      "pervasive",
+      "universal",
+      "everywhere"
+    ],
+    "antonyms": [
+      "rare",
+      "scarce",
+      "uncommon"
+    ],
+    "collocations": [
+      "ubiquitous presence",
+      "become ubiquitous",
+      "ubiquitous technology"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Academic",
+      "Technology"
+    ],
+    "level": "C1",
+    "notes": "Danh từ tương ứng là 'ubiquity'. Cực kỳ hữu ích trong IELTS Writing Task 2.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "meticulous",
+    "word": "meticulous",
+    "phonetic": "/məˈtɪk.jə.ləs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meticulous-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Tỉ mỉ, cẩn thận, chăm chút từng chi tiết nhỏ.",
+    "meaningEn": "Showing great attention to detail; very careful and precise.",
+    "examples": [
+      {
+        "en": "He kept meticulous records of all project expenses and timelines.",
+        "vi": "Anh ấy đã ghi chép tỉ mỉ từng khoản chi tiêu và tiến độ của dự án."
+      },
+      {
+        "en": "The museum restoration required meticulous craftsmanship.",
+        "vi": "Công việc phục chế bảo tàng đòi hỏi tay nghề thủ công cực kỳ tỉ mỉ."
+      }
+    ],
+    "synonyms": [
+      "thorough",
+      "painstaking",
+      "scrupulous",
+      "diligent"
+    ],
+    "antonyms": [
+      "careless",
+      "sloppy",
+      "negligent"
+    ],
+    "collocations": [
+      "meticulous attention to detail",
+      "meticulous planning",
+      "meticulous research"
+    ],
+    "tags": [
+      "IELTS",
+      "B2",
+      "Work",
+      "Productivity"
+    ],
+    "level": "B2",
+    "notes": "Trạng từ là 'meticulously'. Rất thích hợp để miêu tả phong cách làm việc chuyên nghiệp.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "pragmatic",
+    "word": "pragmatic",
+    "phonetic": "/præɡˈmæt.ɪk/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Thực tế, thực dụng, dựa trên tính khả thi thay vì lý thuyết suông.",
+    "meaningEn": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+    "examples": [
+      {
+        "en": "We need to take a pragmatic approach toward solving the budget deficit.",
+        "vi": "Chúng ta cần áp dụng một cách tiếp cận thực tế để giải quyết thâm hụt ngân sách."
+      },
+      {
+        "en": "She made a pragmatic decision to delay expansion until revenue stabilized.",
+        "vi": "Cô ấy đã đưa ra quyết định thực tế là hoãn mở rộng cho đến khi doanh thu ổn định."
+      }
+    ],
+    "synonyms": [
+      "practical",
+      "sensible",
+      "down-to-earth",
+      "utilitarian"
+    ],
+    "antonyms": [
+      "idealistic",
+      "impractical",
+      "unrealistic"
+    ],
+    "collocations": [
+      "pragmatic approach",
+      "pragmatic solution",
+      "pragmatic view"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Business",
+      "Decision-making"
+    ],
+    "level": "C1",
+    "notes": "Triết học: Thuyết thực dụng (Pragmatism).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "procrastinate",
+    "word": "procrastinate",
+    "phonetic": "/prəˈkræs.tə.neɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/procrastinate-us.mp3",
+    "partOfSpeech": "verb",
+    "meaningVi": "Trì hoãn, chần chừ, lần lữa làm việc gì đó.",
+    "meaningEn": "To delay or postpone action; put off doing something.",
+    "examples": [
+      {
+        "en": "Most students tend to procrastinate until the night before the final exam.",
+        "vi": "Phần lớn sinh viên có xu hướng trì hoãn cho đến tận đêm trước kỳ thi cuối kỳ."
+      },
+      {
+        "en": "Stop procrastinating and finish writing your report today.",
+        "vi": "Đừng chần chừ nữa và hãy hoàn thành bài báo cáo của bạn ngay hôm nay."
+      }
+    ],
+    "synonyms": [
+      "delay",
+      "postpone",
+      "put off",
+      "dally"
+    ],
+    "antonyms": [
+      "expedite",
+      "hasten",
+      "act promptly"
+    ],
+    "collocations": [
+      "tendency to procrastinate",
+      "procrastinate on a task"
+    ],
+    "tags": [
+      "Daily",
+      "B2",
+      "Productivity",
+      "Habits"
+    ],
+    "level": "B2",
+    "notes": "Danh từ: 'procrastination' (sự trì hoãn), người trì hoãn: 'procrastinator'.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "paradigm-shift",
+    "word": "paradigm shift",
+    "phonetic": "/ˈpær.ə.daɪm ʃɪft/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/paradigm-shift-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Sự chuyển đổi căn bản trong nhận thức, phương pháp hoặc tư duy.",
+    "meaningEn": "A fundamental change in approach or underlying assumptions.",
+    "examples": [
+      {
+        "en": "The advent of generative AI represents a monumental paradigm shift in software development.",
+        "vi": "Sự ra đời của AI tạo sinh đại diện cho một bước chuyển đổi mô hình mang tính bước ngoặt trong phát triển phần mềm."
+      },
+      {
+        "en": "Remote work caused a paradigm shift in how companies measure employee productivity.",
+        "vi": "Làm việc từ xa đã tạo ra sự thay đổi tư duy căn bản trong cách các công ty đo lường hiệu suất làm việc."
+      }
+    ],
+    "synonyms": [
+      "fundamental change",
+      "revolution",
+      "sea change",
+      "breakthrough"
+    ],
+    "antonyms": [
+      "status quo",
+      "stagnation"
+    ],
+    "collocations": [
+      "monumental paradigm shift",
+      "represent a paradigm shift",
+      "undergo a paradigm shift"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Technology",
+      "Academic"
+    ],
+    "level": "C1",
+    "notes": "Khái niệm do nhà triết học khoa học Thomas Kuhn đưa ra trong cuốn 'The Structure of Scientific Revolutions'.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "empathy",
+    "word": "empathy",
+    "phonetic": "/ˈem.pə.θi/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/empathy-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Sự thấu cảm, khả năng hiểu và cảm nhận được cảm xúc của người khác.",
+    "meaningEn": "The ability to understand and share the feelings of another.",
+    "examples": [
+      {
+        "en": "Great leaders lead with empathy, listening deeply to their team's concerns.",
+        "vi": "Những nhà lãnh đạo vĩ đại luôn dẫn dắt bằng sự thấu cảm, lắng nghe sâu sắc tâm tư của đội ngũ."
+      },
+      {
+        "en": "Reading literature has been shown to foster empathy across cultural divides.",
+        "vi": "Đọc văn học đã được chứng minh là giúp nuôi dưỡng sự thấu cảm vượt qua các rào cản văn hóa."
+      }
+    ],
+    "synonyms": [
+      "compassion",
+      "understanding",
+      "sensitivity",
+      "fellow feeling"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "callousness"
+    ],
+    "collocations": [
+      "foster empathy",
+      "show empathy",
+      "lack of empathy"
+    ],
+    "tags": [
+      "B2",
+      "Psychology",
+      "Leadership",
+      "Daily"
+    ],
+    "level": "B2",
+    "notes": "Phân biệt với 'sympathy' (sự thương hại/đồng cảm từ xa), empathy là đặt mình vào vị trí của đối phương.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "lucid",
+    "word": "lucid",
+    "phonetic": "/ˈluː.sɪd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lucid-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Rõ ràng, minh bạch, dễ hiểu; (tâm trí) tỉnh táo, sáng suốt.",
+    "meaningEn": "Expressed clearly; easy to understand; showing the ability to think clearly.",
+    "examples": [
+      {
+        "en": "She provided a remarkably lucid explanation of quantum mechanics.",
+        "vi": "Cô ấy đã đưa ra một lời giải thích vô cùng sáng sủa, dễ hiểu về cơ học lượng tử."
+      },
+      {
+        "en": "During a lucid moment, the elderly patient recognized his grandchildren.",
+        "vi": "Trong một khoảnh khắc tỉnh táo, người bệnh cao tuổi đã nhận ra các cháu của mình."
+      }
+    ],
+    "synonyms": [
+      "clear",
+      "coherent",
+      "articulate",
+      "intelligible",
+      "sane"
+    ],
+    "antonyms": [
+      "confused",
+      "muddled",
+      "ambiguous",
+      "obscure"
+    ],
+    "collocations": [
+      "lucid explanation",
+      "lucid dream",
+      "lucid moment"
+    ],
+    "tags": [
+      "IELTS",
+      "B2",
+      "Science",
+      "Psychology"
+    ],
+    "level": "B2",
+    "notes": "'Lucid dream' = Giấc mơ tỉnh (người mơ nhận thức được mình đang mơ).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "counterintuitive",
+    "word": "counterintuitive",
+    "phonetic": "/ˌkaʊn.tər.ɪnˈtuː.ɪ.tɪv/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/counterintuitive-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Phản trực giác, đi ngược lại suy nghĩ thông thường nhưng lại đúng.",
+    "meaningEn": "Contrary to intuition or to common-sense expectation.",
+    "examples": [
+      {
+        "en": "It might seem counterintuitive, but slowing down can actually increase your productivity.",
+        "vi": "Có vẻ phản trực giác, nhưng việc đi chậm lại thực ra có thể tăng năng suất làm việc của bạn."
+      },
+      {
+        "en": "The physicist demonstrated a counterintuitive property of light particles.",
+        "vi": "Nhà vật lý đã chứng minh một đặc tính phản trực giác của các hạt ánh sáng."
+      }
+    ],
+    "synonyms": [
+      "paradoxical",
+      "unexpected",
+      "illogical-seeming"
+    ],
+    "antonyms": [
+      "intuitive",
+      "straightforward",
+      "obvious"
+    ],
+    "collocations": [
+      "seem counterintuitive",
+      "counterintuitive result",
+      "counterintuitive finding"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Science",
+      "Critical Thinking"
+    ],
+    "level": "C1",
+    "notes": "Cấu tạo từ tiền tố 'counter-' (chống lại, ngược lại) + 'intuitive' (thuộc về trực giác).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "candid",
+    "word": "candid",
+    "phonetic": "/ˈkæn.dɪd/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/candid-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Thẳng thắn, bộc trực, không che giấu; (nhiếp ảnh) ảnh chụp tự nhiên không tạo dáng.",
+    "meaningEn": "Truthful and straightforward; frank. (Of a photograph) taken informally, without the subject's knowledge.",
+    "examples": [
+      {
+        "en": "I appreciate your candid feedback on my draft presentation.",
+        "vi": "Tôi đánh giá cao những nhận xét thẳng thắn của bạn về bài thuyết trình nháp của tôi."
+      },
+      {
+        "en": "The documentary gave a candid look into the daily lives of arctic scientists.",
+        "vi": "Bộ phim tài liệu đã mang lại một góc nhìn chân thực, không tô vẽ về cuộc sống hàng ngày của các nhà khoa học bắc cực."
+      }
+    ],
+    "synonyms": [
+      "frank",
+      "honest",
+      "outspoken",
+      "unvarnished"
+    ],
+    "antonyms": [
+      "evasive",
+      "guarded",
+      "insincere"
+    ],
+    "collocations": [
+      "candid feedback",
+      "candid interview",
+      "candid shot"
+    ],
+    "tags": [
+      "B2",
+      "Communication",
+      "Photography"
+    ],
+    "level": "B2",
+    "notes": "Thường gặp trong 'candid camera' hoặc 'to be candid with you'.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "serene",
+    "word": "serene",
+    "phonetic": "/səˈriːn/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/serene-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Thanh bình, êm đềm, thanh thản, tĩnh lặng.",
+    "meaningEn": "Calm, peaceful, and untroubled; tranquil.",
+    "examples": [
+      {
+        "en": "The mountain lake was breathtakingly serene in the early morning fog.",
+        "vi": "Hồ nước trên núi đẹp đến ngỡ ngàng và thanh bình trong làn sương sớm mai."
+      },
+      {
+        "en": "Despite the emergency around her, she maintained a serene smile.",
+        "vi": "Bất chấp tình huống khẩn cấp xung quanh, cô ấy vẫn giữ một nụ cười thanh thản."
+      }
+    ],
+    "synonyms": [
+      "tranquil",
+      "peaceful",
+      "placid",
+      "calm",
+      "composed"
+    ],
+    "antonyms": [
+      "turbulent",
+      "chaotic",
+      "agitated"
+    ],
+    "collocations": [
+      "serene atmosphere",
+      "serene lake",
+      "serene expression"
+    ],
+    "tags": [
+      "B2",
+      "Nature",
+      "Emotion",
+      "Lifestyle"
+    ],
+    "level": "B2",
+    "notes": "Danh từ tương ứng là 'serenity' (sự thanh thản).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "altruism",
+    "word": "altruism",
+    "phonetic": "/ˈæl.tru.ɪ.zəm/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/altruism-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Lòng vị tha, chủ nghĩa vị tha; sự quan tâm vô tư đến lợi ích của người khác.",
+    "meaningEn": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+    "examples": [
+      {
+        "en": "Volunteers at the refugee camp demonstrated true altruism.",
+        "vi": "Các tình nguyện viên tại trại tị nạn đã thể hiện tinh thần vị tha đích thực."
+      },
+      {
+        "en": "Effective altruism aims to use evidence and reason to figure out how to benefit others as much as possible.",
+        "vi": "Chủ nghĩa vị tha hiệu quả hướng tới việc sử dụng bằng chứng và lý trí để giúp ích cho tha nhân nhiều nhất có thể."
+      }
+    ],
+    "synonyms": [
+      "selflessness",
+      "benevolence",
+      "philanthropy",
+      "charity"
+    ],
+    "antonyms": [
+      "selfishness",
+      "egoism",
+      "narcissism"
+    ],
+    "collocations": [
+      "act of altruism",
+      "effective altruism",
+      "pure altruism"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Philosophy",
+      "Ethics"
+    ],
+    "level": "C1",
+    "notes": "Tính từ: 'altruistic' (vị tha, bác ái).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "hindsight",
+    "word": "hindsight",
+    "phonetic": "/ˈhaɪnd.saɪt/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hindsight-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Sự nhận thức muộn màng; nhìn lại sự việc sau khi nó đã xảy ra mới thấy rõ.",
+    "meaningEn": "Understanding of a situation or event only after it has happened or developed.",
+    "examples": [
+      {
+        "en": "With hindsight, we should never have invested in that volatile market.",
+        "vi": "Nhìn lại mới thấy, đáng lẽ chúng ta không bao giờ nên đầu tư vào thị trường bấp bênh đó."
+      },
+      {
+        "en": "It is easy to criticize their strategy in hindsight.",
+        "vi": "Khi mọi chuyện đã xong xuôi rồi thì đứng ngoài chỉ trích chiến lược của họ là điều rất dễ."
+      }
+    ],
+    "synonyms": [
+      "retrospect",
+      "afterthought"
+    ],
+    "antonyms": [
+      "foresight",
+      "anticipation"
+    ],
+    "collocations": [
+      "in hindsight",
+      "with the benefit of hindsight",
+      "hindsight is 20/20"
+    ],
+    "tags": [
+      "Daily",
+      "B2",
+      "Idioms",
+      "Life"
+    ],
+    "level": "B2",
+    "notes": "Thành ngữ phổ biến: 'Hindsight is 20/20' (Sau khi mọi chuyện qua rồi thì ai nhìn lại cũng thấy sáng tỏ).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "tenacious",
+    "word": "tenacious",
+    "phonetic": "/təˈneɪ.ʃəs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tenacious-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Kiên trì, bền bỉ, ngoan cường, không chịu bỏ cuộc.",
+    "meaningEn": "Tending to keep a firm hold of something; clinging or adhering closely; persistent.",
+    "examples": [
+      {
+        "en": "Her tenacious efforts finally resulted in an international climate accord.",
+        "vi": "Những nỗ lực bền bỉ, kiên trì của cô ấy cuối cùng đã mang lại một hiệp định khí hậu quốc tế."
+      },
+      {
+        "en": "A tenacious detective never stops investigating until justice is served.",
+        "vi": "Một thám tử ngoan cường không bao giờ ngừng điều tra cho đến khi công lý được thực thi."
+      }
+    ],
+    "synonyms": [
+      "persistent",
+      "determined",
+      "resolute",
+      "dogged"
+    ],
+    "antonyms": [
+      "irresolute",
+      "yielding",
+      "wavering"
+    ],
+    "collocations": [
+      "tenacious grip",
+      "tenacious defense",
+      "tenacious personality"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Character",
+      "Success"
+    ],
+    "level": "C1",
+    "notes": "Danh từ: 'tenacity' (sự bền bỉ, lòng kiên trì).",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "ambiguous",
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡ.ju.əs/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambiguous-us.mp3",
+    "partOfSpeech": "adjective",
+    "meaningVi": "Mơ hồ, nhập nhằng, có thể hiểu theo nhiều nghĩa khác nhau.",
+    "meaningEn": "Open to more than one interpretation; not having one obvious meaning.",
+    "examples": [
+      {
+        "en": "The contract clause was intentionally ambiguous to give both parties flexibility.",
+        "vi": "Điều khoản hợp đồng đã được cố tình viết mơ hồ để tạo sự linh hoạt cho cả hai bên."
+      },
+      {
+        "en": "His ambiguous reply left everyone wondering what he actually meant.",
+        "vi": "Câu trả lời nước đôi của anh ta khiến mọi người đều băn khoăn không rõ anh ta thực sự có ý gì."
+      }
+    ],
+    "synonyms": [
+      "equivocal",
+      "vague",
+      "obscure",
+      "unclear"
+    ],
+    "antonyms": [
+      "unambiguous",
+      "clear-cut",
+      "explicit",
+      "lucid"
+    ],
+    "collocations": [
+      "ambiguous statement",
+      "ambiguous wording",
+      "highly ambiguous"
+    ],
+    "tags": [
+      "IELTS",
+      "B2",
+      "Communication",
+      "Academic"
+    ],
+    "level": "B2",
+    "notes": "Danh từ là 'ambiguity'. Rất hữu ích khi phân tích ngữ nghĩa hoặc văn bản luật.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "catalyst",
+    "word": "catalyst",
+    "phonetic": "/ˈkæt̬.əl.ɪst/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/catalyst-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Chất xúc tác; nhân tố thúc đẩy sự thay đổi hoặc kích hoạt một sự kiện lớn.",
+    "meaningEn": "A person or thing that precipitates an event or change; a substance that increases the rate of a chemical reaction without undergoing permanent change.",
+    "examples": [
+      {
+        "en": "The crisis acted as a catalyst for overdue institutional reforms.",
+        "vi": "Cuộc khủng hoảng đã đóng vai trò như một chất xúc tác cho những cải cách thể chế vốn đã quá hạn từ lâu."
+      },
+      {
+        "en": "She was the primary catalyst behind the company's digital transformation.",
+        "vi": "Cô ấy chính là chất xúc tác chủ chốt thúc đẩy quá trình chuyển đổi số của công ty."
+      }
+    ],
+    "synonyms": [
+      "stimulus",
+      "impetus",
+      "spark",
+      "trigger",
+      "incentive"
+    ],
+    "antonyms": [
+      "hindrance",
+      "impediment",
+      "deterrent"
+    ],
+    "collocations": [
+      "act as a catalyst",
+      "catalyst for change",
+      "catalyst for growth"
+    ],
+    "tags": [
+      "IELTS",
+      "C1",
+      "Science",
+      "Business"
+    ],
+    "level": "C1",
+    "notes": "Từ gốc Hóa học, nhưng dùng cực kỳ phổ biến theo nghĩa bóng trong kinh tế và xã hội.",
+    "dateAdded": "2026-11-01"
+  },
+  {
+    "id": "epiphany",
+    "word": "epiphany",
+    "phonetic": "/ɪˈpɪf.ən.i/",
+    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/epiphany-us.mp3",
+    "partOfSpeech": "noun",
+    "meaningVi": "Khoảnh khắc giác ngộ, bừng sáng; sự bỗng nhiên hiểu ra một chân lý quan trọng.",
+    "meaningEn": "A moment of sudden revelation or insight.",
+    "examples": [
+      {
+        "en": "While walking in the forest, he had an epiphany about the direction of his life.",
+        "vi": "Khi đang đi bộ trong rừng, anh ấy đã có một khoảnh khắc giác ngộ bừng sáng về hướng đi của cuộc đời mình."
+      },
+      {
+        "en": "Newton's encounter with the falling apple sparked his scientific epiphany.",
+        "vi": "Cuộc chạm trán của Newton với quả táo rơi đã khơi nguồn cho khoảnh khắc bừng sáng khoa học của ông."
+      }
+    ],
+    "synonyms": [
+      "revelation",
+      "realization",
+      "eureka moment",
+      "illumination"
+    ],
+    "antonyms": [
+      "confusion",
+      "blindness"
+    ],
+    "collocations": [
+      "have an epiphany",
+      "sudden epiphany",
+      "moment of epiphany"
+    ],
+    "tags": [
+      "IELTS",
+      "C2",
+      "Literature",
+      "Psychology"
+    ],
+    "level": "C2",
+    "notes": "Tương đương với khái niệm 'Eureka moment' hoặc 'Aha moment'.",
+    "dateAdded": "2026-11-01"
+  }
+]

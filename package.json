@@ -1,0 +1,46 @@
+{
+  "name": "english-vocab-vault",
+  "version": "1.0.0",
+  "description": "An interactive, open-source English vocabulary learner with authentic native audio pronunciation, deep linking, Spaced Repetition (SRS), flashcards, and GitHub-backed gradual word notes.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "add": "node scripts/add_word.mjs",
+    "validate": "node scripts/validate_words.mjs",
+    "export-md": "node scripts/export_markdown.mjs"
+  },
+  "keywords": [
+    "english",
+    "vocabulary",
+    "pronunciation",
+    "audio",
+    "spaced-repetition",
+    "flashcards",
+    "github-pages",
+    "learning"
+  ],
+  "author": "luongminhthu",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.66.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}
