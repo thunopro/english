@@ -6,30 +6,30 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 
 ## 🔗 Danh Sách Nhanh (Quick Text Links)
 
-- **[a predilection for doing sth](#word-predilection)** `/ˌpriː.dɪˈlek.ʃən/` (*noun*): thiên hướng, xu hướng yêu thích làm điều gì — *(TTS)* | [🔗 Học từ này](#word=predilection)
-- **[ample](#word-ample)** `/ˈæm.pəl/` (*adjective*): nhiều, thừa thãi, phong phú — *(TTS)* | [🔗 Học từ này](#word=ample)
-- **[catalyst](#word-catalyst)** `/ˈkæt.əl.ɪst/` (*noun*): chất xúc tác, nhân tố kích hoạt biến đổi — *(TTS)* | [🔗 Học từ này](#word=catalyst)
-- **[cavity](#word-cavity)** `/ˈkæv.ə.ti/` (*noun*): khoang rỗng, hốc bên trong — *(TTS)* | [🔗 Học từ này](#word=cavity)
-- **[cherished](#word-cherished)** `/ˈtʃer.ɪʃt/` (*adjective*): yêu quý, ấp ủ, được trân trọng — *(TTS)* | [🔗 Học từ này](#word=cherished)
-- **[complication](#word-complication)** `/ˌkɒm.plɪˈkeɪ.ʃən/` (*noun*): hệ quả tiêu cực, biến chứng, vấn đề phức tạp — *(TTS)* | [🔗 Học từ này](#word=complication)
-- **[concentric](#word-concentric)** `/kənˈsen.trɪk/` (*adjective*): đồng tâm (có cùng chung một tâm điểm) — *(TTS)* | [🔗 Học từ này](#word=concentric)
-- **[contaminant](#word-contaminant)** `/kənˈtæm.ɪ.nənt/` (*noun*): chất gây ô nhiễm, tạp chất độc hại — *(TTS)* | [🔗 Học từ này](#word=contaminant)
-- **[contamination](#word-contamination)** `/kənˌtæm.ɪˈneɪ.ʃən/` (*noun*): sự ô nhiễm, sự làm vấy bẩn — *(TTS)* | [🔗 Học từ này](#word=contamination)
-- **[glistening](#word-glistening)** `/ˈɡlɪs.ən.ɪŋ/` (*adjective*): sáng bóng, lấp lánh (= lustrous) — *(TTS)* | [🔗 Học từ này](#word=glistening)
-- **[imitation](#word-imitation)** `/ˌɪm.ɪˈteɪ.ʃən/` (*adjective*): giả tạo, đồ mô phỏng, nhân tạo — *(TTS)* | [🔗 Học từ này](#word=imitation)
-- **[implant](#word-implant)** `/ɪmˈplɑːnt/` (*verb*): cấy ghép, đưa vào bên trong cơ thể/vật thể — *(TTS)* | [🔗 Học từ này](#word=implant)
-- **[indiscriminate](#word-indiscriminate)** `/ˌɪn.dɪˈskrɪm.ɪ.nət/` (*adjective*): bừa bãi, cẩu thả, không suy tính trước — *(TTS)* | [🔗 Học từ này](#word=indiscriminate)
-- **[irritant](#word-irritant)** `/ˈɪr.ɪ.tənt/` (*noun*): vật gây kích ứng, nhân tố kích thích dị ứng — *(TTS)* | [🔗 Học từ này](#word=irritant)
-- **[irritate](#word-irritate)** `/ˈɪr.ɪ.teɪt/` (*verb*): khiến ai bực bội, gây kích ứng mô/da — *(TTS)* | [🔗 Học từ này](#word=irritate)
-- **[irritation](#word-irritation)** `/ˌɪr.ɪˈteɪ.ʃən/` (*noun*): sự kích ứng, cảm giác bực bội khó chịu — *(TTS)* | [🔗 Học từ này](#word=irritation)
-- **[lustrous](#word-lustrous)** `/ˈlʌs.trəs/` (*adjective*): óng ánh, rực rỡ, có độ bóng cao — *(TTS)* | [🔗 Học từ này](#word=lustrous)
-- **[misshapen](#word-misshapen)** `/mɪsˈʃeɪ.pənd/` (*adjective*): méo mó, dị dạng, không cân xứng — *(TTS)* | [🔗 Học từ này](#word=misshapen)
-- **[predominantly](#word-predominantly)** `/prɪˈdɒm.ɪ.nənt.li/` (*adverb*): chủ yếu, phần lớn, chiếm ưu thế — *(TTS)* | [🔗 Học từ này](#word=predominantly)
-- **[pristine](#word-pristine)** `/ˈprɪs.tiːn/` (*adjective*): nguyên thuỷ, tinh khôi, chưa bị xâm phạm — *(TTS)* | [🔗 Học từ này](#word=pristine)
-- **[secrete](#word-secrete)** `/sɪˈkriːt/` (*verb*): tiết ra (chất dịch, chất nhờn sinh học) — *(TTS)* | [🔗 Học từ này](#word=secrete)
-- **[to be fond of sth](#word-fond)** `/fɒnd/` (*phrase*): thích thú, yêu thích cái gì — *(TTS)* | [🔗 Học từ này](#word=fond)
-- **[to be supplied with](#word-supplied-with)** `/səˈplaɪd wɪð/` (*phrase*): được cung cấp cái gì (= to be provided with sth) — *(TTS)* | [🔗 Học từ này](#word=supplied-with)
-- **[treasure](#word-treasure)** `/ˈtreʒ.ər/` (*noun*): kho báu (N); trân quý, coi như bảo vật (V) — *(TTS)* | [🔗 Học từ này](#word=treasure)
+- **[a predilection for doing sth](#word-predilection)** `/ˌpriː.dɪˈlek.ʃən/` (*noun*): thiên hướng, xu hướng yêu thích làm điều gì — [🔊 Nghe](/audio/predilection.mp3) | [🔗 Học từ này](#word=predilection)
+- **[ample](#word-ample)** `/ˈæm.pəl/` (*adjective*): nhiều, thừa thãi, phong phú — [🔊 Nghe](/audio/ample.mp3) | [🔗 Học từ này](#word=ample)
+- **[catalyst](#word-catalyst)** `/ˈkæt.əl.ɪst/` (*noun*): chất xúc tác, nhân tố kích hoạt biến đổi — [🔊 Nghe](/audio/catalyst.mp3) | [🔗 Học từ này](#word=catalyst)
+- **[cavity](#word-cavity)** `/ˈkæv.ə.ti/` (*noun*): khoang rỗng, hốc bên trong — [🔊 Nghe](/audio/cavity.mp3) | [🔗 Học từ này](#word=cavity)
+- **[cherished](#word-cherished)** `/ˈtʃer.ɪʃt/` (*adjective*): yêu quý, ấp ủ, được trân trọng — [🔊 Nghe](/audio/cherished.mp3) | [🔗 Học từ này](#word=cherished)
+- **[complication](#word-complication)** `/ˌkɒm.plɪˈkeɪ.ʃən/` (*noun*): hệ quả tiêu cực, biến chứng, vấn đề phức tạp — [🔊 Nghe](/audio/complication.mp3) | [🔗 Học từ này](#word=complication)
+- **[concentric](#word-concentric)** `/kənˈsen.trɪk/` (*adjective*): đồng tâm (có cùng chung một tâm điểm) — [🔊 Nghe](/audio/concentric.mp3) | [🔗 Học từ này](#word=concentric)
+- **[contaminant](#word-contaminant)** `/kənˈtæm.ɪ.nənt/` (*noun*): chất gây ô nhiễm, tạp chất độc hại — [🔊 Nghe](/audio/contaminant.mp3) | [🔗 Học từ này](#word=contaminant)
+- **[contamination](#word-contamination)** `/kənˌtæm.ɪˈneɪ.ʃən/` (*noun*): sự ô nhiễm, sự làm vấy bẩn — [🔊 Nghe](/audio/contamination.mp3) | [🔗 Học từ này](#word=contamination)
+- **[glistening](#word-glistening)** `/ˈɡlɪs.ən.ɪŋ/` (*adjective*): sáng bóng, lấp lánh (= lustrous) — [🔊 Nghe](/audio/glistening.mp3) | [🔗 Học từ này](#word=glistening)
+- **[imitation](#word-imitation)** `/ˌɪm.ɪˈteɪ.ʃən/` (*adjective*): giả tạo, đồ mô phỏng, nhân tạo — [🔊 Nghe](/audio/imitation.mp3) | [🔗 Học từ này](#word=imitation)
+- **[implant](#word-implant)** `/ɪmˈplɑːnt/` (*verb*): cấy ghép, đưa vào bên trong cơ thể/vật thể — [🔊 Nghe](/audio/implant.mp3) | [🔗 Học từ này](#word=implant)
+- **[indiscriminate](#word-indiscriminate)** `/ˌɪn.dɪˈskrɪm.ɪ.nət/` (*adjective*): bừa bãi, cẩu thả, không suy tính trước — [🔊 Nghe](/audio/indiscriminate.mp3) | [🔗 Học từ này](#word=indiscriminate)
+- **[irritant](#word-irritant)** `/ˈɪr.ɪ.tənt/` (*noun*): vật gây kích ứng, nhân tố kích thích dị ứng — [🔊 Nghe](/audio/irritant.mp3) | [🔗 Học từ này](#word=irritant)
+- **[irritate](#word-irritate)** `/ˈɪr.ɪ.teɪt/` (*verb*): khiến ai bực bội, gây kích ứng mô/da — [🔊 Nghe](/audio/irritate.mp3) | [🔗 Học từ này](#word=irritate)
+- **[irritation](#word-irritation)** `/ˌɪr.ɪˈteɪ.ʃən/` (*noun*): sự kích ứng, cảm giác bực bội khó chịu — [🔊 Nghe](/audio/irritation.mp3) | [🔗 Học từ này](#word=irritation)
+- **[lustrous](#word-lustrous)** `/ˈlʌs.trəs/` (*adjective*): óng ánh, rực rỡ, có độ bóng cao — [🔊 Nghe](/audio/lustrous.mp3) | [🔗 Học từ này](#word=lustrous)
+- **[misshapen](#word-misshapen)** `/mɪsˈʃeɪ.pənd/` (*adjective*): méo mó, dị dạng, không cân xứng — [🔊 Nghe](/audio/misshapen.mp3) | [🔗 Học từ này](#word=misshapen)
+- **[predominantly](#word-predominantly)** `/prɪˈdɒm.ɪ.nənt.li/` (*adverb*): chủ yếu, phần lớn, chiếm ưu thế — [🔊 Nghe](/audio/predominantly.mp3) | [🔗 Học từ này](#word=predominantly)
+- **[pristine](#word-pristine)** `/ˈprɪs.tiːn/` (*adjective*): nguyên thuỷ, tinh khôi, chưa bị xâm phạm — [🔊 Nghe](/audio/pristine.mp3) | [🔗 Học từ này](#word=pristine)
+- **[secrete](#word-secrete)** `/sɪˈkriːt/` (*verb*): tiết ra (chất dịch, chất nhờn sinh học) — [🔊 Nghe](/audio/secrete.mp3) | [🔗 Học từ này](#word=secrete)
+- **[to be fond of sth](#word-fond)** `/fɒnd/` (*phrase*): thích thú, yêu thích cái gì — [🔊 Nghe](/audio/fond.mp3) | [🔗 Học từ này](#word=fond)
+- **[to be supplied with](#word-supplied-with)** `/səˈplaɪd wɪð/` (*phrase*): được cung cấp cái gì (= to be provided with sth) — [🔊 Nghe](/audio/supplied-with.mp3) | [🔗 Học từ này](#word=supplied-with)
+- **[treasure](#word-treasure)** `/ˈtreʒ.ər/` (*noun*): kho báu (N); trân quý, coi như bảo vật (V) — [🔊 Nghe](/audio/treasure.mp3) | [🔗 Học từ này](#word=treasure)
 
 ---
 
@@ -39,6 +39,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `C2`
 - **Định nghĩa tiếng Việt:** **thiên hướng, xu hướng yêu thích làm điều gì**
 - **English definition:** *A preference or special liking for something; a bias in favor of something.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/predilection.mp3)
 - **Collocations:** `have a predilection for`, `possess a predilection for`
 - **Đồng nghĩa:** preference, penchant, propensity, inclination
 - **Ví dụ minh họa:**
@@ -51,6 +52,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **nhiều, thừa thãi, phong phú**
 - **English definition:** *Enough or more than enough; plentiful and fully sufficient.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/ample.mp3)
 - **Collocations:** `ample evidence`, `ample time`, `ample opportunity`
 - **Đồng nghĩa:** plentiful, abundant, copious, sufficient
 - **Trái nghĩa:** scant, meager, insufficient
@@ -64,6 +66,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **chất xúc tác, nhân tố kích hoạt biến đổi**
 - **English definition:** *A substance that speeds up a chemical reaction without being consumed; a person or event that causes change.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/catalyst.mp3)
 - **Collocations:** `act as a catalyst`, `catalyst for change`, `primary catalyst`
 - **Đồng nghĩa:** spark, stimulus, incentive, activator
 - **Ví dụ minh họa:**
@@ -76,6 +79,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **khoang rỗng, hốc bên trong**
 - **English definition:** *An empty space within a solid object or body.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/cavity.mp3)
 - **Collocations:** `oral cavity`, `internal cavity`, `cavity wall`
 - **Đồng nghĩa:** chamber, hollow, void, opening
 - **Ví dụ minh họa:**
@@ -88,6 +92,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **yêu quý, ấp ủ, được trân trọng**
 - **English definition:** *Beloved, deeply valued, or held dear in someone's heart.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/cherished.mp3)
 - **Collocations:** `cherished belief`, `cherished memory`, `cherished dream`
 - **Đồng nghĩa:** beloved, treasured, prized, precious
 - **Ví dụ minh họa:**
@@ -100,6 +105,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **hệ quả tiêu cực, biến chứng, vấn đề phức tạp**
 - **English definition:** *A circumstance that complicates something; a secondary disease or condition aggravating a primary one.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/complication.mp3)
 - **Collocations:** `develop complications`, `medical complication`, `arise complications`
 - **Đồng nghĩa:** obstacle, difficulty, snag, repercussion
 - **Ví dụ minh họa:**
@@ -112,6 +118,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **đồng tâm (có cùng chung một tâm điểm)**
 - **English definition:** *Of circles, arcs, or other shapes that share the same center point.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/concentric.mp3)
 - **Collocations:** `concentric circles`, `concentric rings`, `concentric layers`
 - **Đồng nghĩa:** coaxial, homocentric
 - **Ví dụ minh họa:**
@@ -124,6 +131,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **chất gây ô nhiễm, tạp chất độc hại**
 - **English definition:** *A polluting or poisonous substance that makes something impure.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/contaminant.mp3)
 - **Collocations:** `airborne contaminant`, `toxic contaminant`, `remove contaminants`
 - **Đồng nghĩa:** pollutant, impurity, toxin, poison
 - **Ví dụ minh họa:**
@@ -136,6 +144,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **sự ô nhiễm, sự làm vấy bẩn**
 - **English definition:** *The action or state of making or being made impure by polluting or poisoning.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/contamination.mp3)
 - **Collocations:** `water contamination`, `environmental contamination`, `prevent contamination`
 - **Đồng nghĩa:** pollution, adulteration, defilement, taint
 - **Trái nghĩa:** purification, decontamination
@@ -149,6 +158,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **sáng bóng, lấp lánh (= lustrous)**
 - **English definition:** *Shining with a sparkling light, especially because of being wet or oily.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/glistening.mp3)
 - **Collocations:** `glistening surface`, `glistening pearls`, `glistening in the sun`
 - **Đồng nghĩa:** lustrous, shimmering, gleaming, scintillating
 - **Ví dụ minh họa:**
@@ -161,6 +171,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **giả tạo, đồ mô phỏng, nhân tạo**
 - **English definition:** *A thing made as a copy, simulated; not real or authentic.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/imitation.mp3)
 - **Collocations:** `imitation pearl`, `imitation leather`, `cheap imitation`
 - **Đồng nghĩa:** simulated, artificial, synthetic, replica
 - **Trái nghĩa:** genuine, authentic, natural
@@ -174,6 +185,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *verb* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **cấy ghép, đưa vào bên trong cơ thể/vật thể**
 - **English definition:** *To insert or fix firmly in a living tissue or structure; surgically place inside.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/implant.mp3)
 - **Collocations:** `surgically implanted`, `implant a device`, `cochlear implant`
 - **Đồng nghĩa:** insert, embed, graft, infix
 - **Ví dụ minh họa:**
@@ -186,6 +198,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C2`
 - **Định nghĩa tiếng Việt:** **bừa bãi, cẩu thả, không suy tính trước**
 - **English definition:** *Done at random or without careful judgment; indiscriminate actions.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/indiscriminate.mp3)
 - **Collocations:** `indiscriminate use`, `indiscriminate attack`, `indiscriminate slaughter`
 - **Đồng nghĩa:** reckless, undiscriminating, unselective, haphazard
 - **Trái nghĩa:** selective, judicious, discriminating
@@ -199,6 +212,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **vật gây kích ứng, nhân tố kích thích dị ứng**
 - **English definition:** *A substance or agent that causes irritation or discomfort.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/irritant.mp3)
 - **Collocations:** `respiratory irritant`, `chemical irritant`, `irritant-catalyst`
 - **Đồng nghĩa:** stimulant, foreign body, agitator
 - **Ví dụ minh họa:**
@@ -211,6 +225,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *verb* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **khiến ai bực bội, gây kích ứng mô/da**
 - **English definition:** *To make someone feel annoyed or angry; to cause inflammation or soreness in a body part.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/irritate.mp3)
 - **Collocations:** `irritate the skin`, `irritate the eye`, `become easily irritated`
 - **Đồng nghĩa:** annoy, inflame, vex, aggravate
 - **Ví dụ minh họa:**
@@ -223,6 +238,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **sự kích ứng, cảm giác bực bội khó chịu**
 - **English definition:** *The state of feeling annoyed; the state of being inflamed or painful.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/irritation.mp3)
 - **Collocations:** `skin irritation`, `cause irritation`, `show irritation`
 - **Đồng nghĩa:** annoyance, inflammation, discomfort, soreness
 - **Ví dụ minh họa:**
@@ -235,6 +251,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **óng ánh, rực rỡ, có độ bóng cao**
 - **English definition:** *Having luster; shining with a soft reflected light.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/lustrous.mp3)
 - **Collocations:** `lustrous black pearl`, `lustrous shine`, `lustrous finish`
 - **Đồng nghĩa:** glossy, radiant, glowing, luminous
 - **Ví dụ minh họa:**
@@ -247,6 +264,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **méo mó, dị dạng, không cân xứng**
 - **English definition:** *Deformed, not having the normal or natural shape.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/misshapen.mp3)
 - **Collocations:** `misshapen pearl`, `misshapen face`, `grow misshapen`
 - **Đồng nghĩa:** deformed, distorted, asymmetrical, malformed
 - **Trái nghĩa:** shapely, symmetrical, flawless
@@ -260,6 +278,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adverb* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **chủ yếu, phần lớn, chiếm ưu thế**
 - **English definition:** *Mainly; for the most part.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/predominantly.mp3)
 - **Collocations:** `predominantly female`, `predominantly rural`, `be predominantly based`
 - **Đồng nghĩa:** principally, mainly, chiefly, primarily
 - **Ví dụ minh họa:**
@@ -272,6 +291,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *adjective* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **nguyên thuỷ, tinh khôi, chưa bị xâm phạm**
 - **English definition:** *In its original condition; unspoiled, completely clean and fresh.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/pristine.mp3)
 - **Collocations:** `pristine condition`, `pristine environment`, `pristine beaches`
 - **Đồng nghĩa:** unspoiled, immaculate, untouched, flawless
 - **Trái nghĩa:** polluted, contaminated, spoiled
@@ -285,6 +305,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *verb* | **Cấp độ:** `C1`
 - **Định nghĩa tiếng Việt:** **tiết ra (chất dịch, chất nhờn sinh học)**
 - **English definition:** *To produce and discharge a substance, especially by a gland or cell.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/secrete.mp3)
 - **Collocations:** `secrete fluid`, `secrete hormones`, `secrete saliva`
 - **Đồng nghĩa:** exude, discharge, produce, emit
 - **Ví dụ minh họa:**
@@ -297,6 +318,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *phrase* | **Cấp độ:** `B2`
 - **Định nghĩa tiếng Việt:** **thích thú, yêu thích cái gì**
 - **English definition:** *Having an affection or liking for someone or something.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/fond.mp3)
 - **Collocations:** `be fond of doing something`, `fond memories`, `grow fond of`
 - **Đồng nghĩa:** keen on, attached to, partial to
 - **Ví dụ minh họa:**
@@ -309,6 +331,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *phrase* | **Cấp độ:** `B1`
 - **Định nghĩa tiếng Việt:** **được cung cấp cái gì (= to be provided with sth)**
 - **English definition:** *Provided or furnished with what is needed or wanted.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/supplied-with.mp3)
 - **Collocations:** `adequately supplied with`, `regularly supplied with`
 - **Đồng nghĩa:** be provided with, be furnished with, be equipped with
 - **Ví dụ minh họa:**
@@ -321,6 +344,7 @@ Mục lục này cho phép bạn truy cập nhanh link text của tất cả cá
 - **Loại từ:** *noun* | **Cấp độ:** `B1`
 - **Định nghĩa tiếng Việt:** **kho báu (N); trân quý, coi như bảo vật (V)**
 - **English definition:** *A quantity of precious metals, gems, or valuable objects; to cherish or prize highly.*
+- **Phát âm chuẩn (Audio Link):** [Bấm nghe trực tiếp MP3](/audio/treasure.mp3)
 - **Collocations:** `national treasure`, `buried treasure`, `treasure a memory`
 - **Đồng nghĩa:** cherish, prize, value, gem
 - **Ví dụ minh họa:**

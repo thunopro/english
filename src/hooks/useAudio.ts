@@ -82,43 +82,44 @@ export function useAudio() {
   const play = useCallback((word: string, audioUrl?: string, wordId?: string) => {
     stop();
 
-    if (audioUrl) {
-      try {
-        const audio = new Audio(audioUrl);
-        audio.playbackRate = playbackRate;
-        currentAudioRef.current = audio;
+    // Determine target audio URL: direct audioUrl or serverless /api/tts endpoint
+    const resolvedUrl =
+      audioUrl ||
+      `/api/tts?text=${encodeURIComponent(word)}&lang=${preferredAccent}`;
 
-        audio.onplay = () => {
-          setIsPlaying(true);
-          setPlayingWordId(wordId || word);
-        };
+    try {
+      const audio = new Audio(resolvedUrl);
+      audio.playbackRate = playbackRate;
+      currentAudioRef.current = audio;
 
-        audio.onended = () => {
-          setIsPlaying(false);
-          setPlayingWordId(null);
-          currentAudioRef.current = null;
-        };
+      audio.onplay = () => {
+        setIsPlaying(true);
+        setPlayingWordId(wordId || word);
+      };
 
-        audio.onerror = () => {
-          console.warn(`Audio URL failed to play (${audioUrl}), falling back to SpeechSynthesis.`);
-          currentAudioRef.current = null;
-          playTTS(word, wordId);
-        };
+      audio.onended = () => {
+        setIsPlaying(false);
+        setPlayingWordId(null);
+        currentAudioRef.current = null;
+      };
 
-        const playPromise = audio.play();
-        if (playPromise !== undefined) {
-          playPromise.catch((_err) => {
-            // Autoplay restriction or network error -> fallback to TTS
-            playTTS(word, wordId);
-          });
-        }
-      } catch {
+      audio.onerror = () => {
+        console.warn(`Audio failed to play (${resolvedUrl}), falling back to SpeechSynthesis.`);
+        currentAudioRef.current = null;
         playTTS(word, wordId);
+      };
+
+      const playPromise = audio.play();
+      if (playPromise !== undefined) {
+        playPromise.catch((_err) => {
+          // Fallback to speech synthesis if audio play fails
+          playTTS(word, wordId);
+        });
       }
-    } else {
+    } catch {
       playTTS(word, wordId);
     }
-  }, [playbackRate, playTTS, stop]);
+  }, [playbackRate, preferredAccent, playTTS, stop]);
 
   return {
     isPlaying,

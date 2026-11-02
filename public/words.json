@@ -12,13 +12,27 @@
         "vi": "Người Ai Cập cổ đại đặc biệt yêu thích những viên ngọc trai của họ."
       }
     ],
-    "synonyms": ["keen on", "attached to", "partial to"],
-    "collocations": ["be fond of doing something", "fond memories", "grow fond of"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Collocation"],
+    "synonyms": [
+      "keen on",
+      "attached to",
+      "partial to"
+    ],
+    "collocations": [
+      "be fond of doing something",
+      "fond memories",
+      "grow fond of"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Collocation"
+    ],
     "level": "B2",
     "notes": "Trích Đoạn A bài đọc Pearls.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/fond.mp3"
   },
   {
     "id": "treasure",
@@ -33,13 +47,27 @@
         "vi": "Nhiều thủ lĩnh Ai Cập trân quý ngọc trai đến mức họ thường được chôn cất cùng bộ sưu tập ngọc trai yêu quý."
       }
     ],
-    "synonyms": ["cherish", "prize", "value", "gem"],
-    "collocations": ["national treasure", "buried treasure", "treasure a memory"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "cherish",
+      "prize",
+      "value",
+      "gem"
+    ],
+    "collocations": [
+      "national treasure",
+      "buried treasure",
+      "treasure a memory"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "B1",
     "notes": "Vừa là danh từ (kho báu), vừa là động từ (trân quý).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/treasure.mp3"
   },
   {
     "id": "cherished",
@@ -54,13 +82,27 @@
         "vi": "Họ được chôn cất cùng bộ sưu tập ngọc trai được yêu quý hết mực."
       }
     ],
-    "synonyms": ["beloved", "treasured", "prized", "precious"],
-    "collocations": ["cherished belief", "cherished memory", "cherished dream"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "beloved",
+      "treasured",
+      "prized",
+      "precious"
+    ],
+    "collocations": [
+      "cherished belief",
+      "cherished memory",
+      "cherished dream"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "B2",
     "notes": "Xuất phát từ động từ 'cherish' (yêu thương, trân trọng).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/cherished.mp3"
   },
   {
     "id": "ample",
@@ -75,14 +117,33 @@
         "vi": "Lịch sử lâu dài được ghi chép của Trung Quốc cũng cung cấp nhiều bằng chứng về tầm quan trọng của ngọc trai."
       }
     ],
-    "synonyms": ["plentiful", "abundant", "copious", "sufficient"],
-    "antonyms": ["scant", "meager", "insufficient"],
-    "collocations": ["ample evidence", "ample time", "ample opportunity"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "synonyms": [
+      "plentiful",
+      "abundant",
+      "copious",
+      "sufficient"
+    ],
+    "antonyms": [
+      "scant",
+      "meager",
+      "insufficient"
+    ],
+    "collocations": [
+      "ample evidence",
+      "ample time",
+      "ample opportunity"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Academic"
+    ],
     "level": "C1",
     "notes": "Từ học thuật thường dùng trong IELTS Writing & Reading (ample evidence/time).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/ample.mp3"
   },
   {
     "id": "implant",
@@ -97,13 +158,28 @@
         "vi": "Vật gây kích ứng là một hạt hoặc mảnh vỏ được cấy ghép phẫu thuật gọi là xà cừ."
       }
     ],
-    "synonyms": ["insert", "embed", "graft", "infix"],
-    "collocations": ["surgically implanted", "implant a device", "cochlear implant"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Medical/Biology"],
+    "synonyms": [
+      "insert",
+      "embed",
+      "graft",
+      "infix"
+    ],
+    "collocations": [
+      "surgically implanted",
+      "implant a device",
+      "cochlear implant"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Medical/Biology"
+    ],
     "level": "B2",
     "notes": "Đoạn B bài đọc Pearls mô tả quá trình tạo ngọc trai nhân tạo.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/implant.mp3"
   },
   {
     "id": "catalyst",
@@ -118,13 +194,28 @@
         "vi": "Những mảnh vỏ này có giá trị đáng kể với vai trò là chất xúc tác kích ứng cho ngọc trai chất lượng."
       }
     ],
-    "synonyms": ["spark", "stimulus", "incentive", "activator"],
-    "collocations": ["act as a catalyst", "catalyst for change", "primary catalyst"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "synonyms": [
+      "spark",
+      "stimulus",
+      "incentive",
+      "activator"
+    ],
+    "collocations": [
+      "act as a catalyst",
+      "catalyst for change",
+      "primary catalyst"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Academic"
+    ],
     "level": "C1",
     "notes": "Thường gặp trong các bài luận về kinh tế, xã hội và khoa học.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/catalyst.mp3"
   },
   {
     "id": "imitation",
@@ -139,14 +230,32 @@
         "vi": "Hòn đảo Mallorca ở Tây Ban Nha nổi tiếng với ngành công nghiệp ngọc trai giả."
       }
     ],
-    "synonyms": ["simulated", "artificial", "synthetic", "replica"],
-    "antonyms": ["genuine", "authentic", "natural"],
-    "collocations": ["imitation pearl", "imitation leather", "cheap imitation"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "simulated",
+      "artificial",
+      "synthetic",
+      "replica"
+    ],
+    "antonyms": [
+      "genuine",
+      "authentic",
+      "natural"
+    ],
+    "collocations": [
+      "imitation pearl",
+      "imitation leather",
+      "cheap imitation"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "B2",
     "notes": "Đoạn B bài đọc: Mallorca nổi tiếng về ngọc trai mô phỏng / ngọc trai nhân tạo.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/imitation.mp3"
   },
   {
     "id": "irritate",
@@ -161,13 +270,28 @@
         "vi": "Một hạt cát lọt vào bên trong con hàu và gây kích ứng các mô mỏng manh của nó."
       }
     ],
-    "synonyms": ["annoy", "inflame", "vex", "aggravate"],
-    "collocations": ["irritate the skin", "irritate the eye", "become easily irritated"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "synonyms": [
+      "annoy",
+      "inflame",
+      "vex",
+      "aggravate"
+    ],
+    "collocations": [
+      "irritate the skin",
+      "irritate the eye",
+      "become easily irritated"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Word Family"
+    ],
     "level": "B2",
     "notes": "Gia đình từ: irritate (V) -> irritation (N) -> irritant (N).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/irritate.mp3"
   },
   {
     "id": "irritation",
@@ -182,13 +306,28 @@
         "vi": "Việc tiết chất lỏng là cơ chế phòng vệ của thân mềm để làm dịu sự kích ứng."
       }
     ],
-    "synonyms": ["annoyance", "inflammation", "discomfort", "soreness"],
-    "collocations": ["skin irritation", "cause irritation", "show irritation"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "synonyms": [
+      "annoyance",
+      "inflammation",
+      "discomfort",
+      "soreness"
+    ],
+    "collocations": [
+      "skin irritation",
+      "cause irritation",
+      "show irritation"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Word Family"
+    ],
     "level": "B2",
     "notes": "Danh từ chỉ trạng thái hoặc cảm giác khó chịu/viêm nhiễm.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/irritation.mp3"
   },
   {
     "id": "irritant",
@@ -203,13 +342,27 @@
         "vi": "Ngọc trai tự nhiên hình thành khi một vật gây kích ứng, chẳng hạn hạt cát, chui vào trong con hàu."
       }
     ],
-    "synonyms": ["stimulant", "foreign body", "agitator"],
-    "collocations": ["respiratory irritant", "chemical irritant", "irritant-catalyst"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Word Family"],
+    "synonyms": [
+      "stimulant",
+      "foreign body",
+      "agitator"
+    ],
+    "collocations": [
+      "respiratory irritant",
+      "chemical irritant",
+      "irritant-catalyst"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Word Family"
+    ],
     "level": "C1",
     "notes": "Chỉ chính vật thể / hóa chất gây ra hiện tượng kích ứng.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/irritant.mp3"
   },
   {
     "id": "contamination",
@@ -224,14 +377,32 @@
         "vi": "Sự ô nhiễm nguồn nước ven biển đã làm gián đoạn quá trình sinh sản tự nhiên của hàu ngọc trai."
       }
     ],
-    "synonyms": ["pollution", "adulteration", "defilement", "taint"],
-    "antonyms": ["purification", "decontamination"],
-    "collocations": ["water contamination", "environmental contamination", "prevent contamination"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Environment"],
+    "synonyms": [
+      "pollution",
+      "adulteration",
+      "defilement",
+      "taint"
+    ],
+    "antonyms": [
+      "purification",
+      "decontamination"
+    ],
+    "collocations": [
+      "water contamination",
+      "environmental contamination",
+      "prevent contamination"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Environment"
+    ],
     "level": "C1",
     "notes": "Cặp từ: Contamination (sự ô nhiễm) và Contaminant (chất gây ô nhiễm).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/contamination.mp3"
   },
   {
     "id": "contaminant",
@@ -246,13 +417,28 @@
         "vi": "Các vụ tràn dầu đóng vai trò là chất gây ô nhiễm nghiêm trọng tại vùng nước nguyên sơ của Vịnh Ba Tư."
       }
     ],
-    "synonyms": ["pollutant", "impurity", "toxin", "poison"],
-    "collocations": ["airborne contaminant", "toxic contaminant", "remove contaminants"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Environment"],
+    "synonyms": [
+      "pollutant",
+      "impurity",
+      "toxin",
+      "poison"
+    ],
+    "collocations": [
+      "airborne contaminant",
+      "toxic contaminant",
+      "remove contaminants"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Environment"
+    ],
     "level": "C1",
     "notes": "Từ danh từ chỉ tác nhân gây ô nhiễm (pollutant).",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/contaminant.mp3"
   },
   {
     "id": "misshapen",
@@ -267,14 +453,32 @@
         "vi": "Thông thường, dị vật có thể bị đào thải, hoặc viên ngọc trai sẽ bị méo mó nghiêm trọng."
       }
     ],
-    "synonyms": ["deformed", "distorted", "asymmetrical", "malformed"],
-    "antonyms": ["shapely", "symmetrical", "flawless"],
-    "collocations": ["misshapen pearl", "misshapen face", "grow misshapen"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "deformed",
+      "distorted",
+      "asymmetrical",
+      "malformed"
+    ],
+    "antonyms": [
+      "shapely",
+      "symmetrical",
+      "flawless"
+    ],
+    "collocations": [
+      "misshapen pearl",
+      "misshapen face",
+      "grow misshapen"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "C1",
     "notes": "Đoạn C bài đọc: miêu tả những viên ngọc không đạt chuẩn hình khối cầu đối xứng.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/misshapen.mp3"
   },
   {
     "id": "complication",
@@ -289,13 +493,27 @@
         "vi": "Con hàu có thể chỉ đơn giản là chết vì bệnh tật hoặc vô số biến chứng phức tạp khác."
       }
     ],
-    "synonyms": ["obstacle", "difficulty", "snag", "repercussion"],
-    "collocations": ["develop complications", "medical complication", "arise complications"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "obstacle",
+      "difficulty",
+      "snag",
+      "repercussion"
+    ],
+    "collocations": [
+      "develop complications",
+      "medical complication",
+      "arise complications"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "B2",
     "notes": "Trong y tế hoặc tự nhiên chỉ những hệ quả phát sinh ngoài ý muốn.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/complication.mp3"
   },
   {
     "id": "predilection",
@@ -310,13 +528,27 @@
         "vi": "Loại trai phổ biến ở khu vực này dường như có thiên hướng sản sinh ra những viên ngọc trai tương đối lớn."
       }
     ],
-    "synonyms": ["preference", "penchant", "propensity", "inclination"],
-    "collocations": ["have a predilection for", "possess a predilection for"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "C2 Vocabulary"],
+    "synonyms": [
+      "preference",
+      "penchant",
+      "propensity",
+      "inclination"
+    ],
+    "collocations": [
+      "have a predilection for",
+      "possess a predilection for"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "C2 Vocabulary"
+    ],
     "level": "C2",
     "notes": "Từ vựng nâng cao Band 8.0+ xuất hiện trong Đoạn D.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/predilection.mp3"
   },
   {
     "id": "supplied-with",
@@ -331,13 +563,26 @@
         "vi": "Nguồn nước dọc bờ biển được cung cấp các chất dinh dưỡng phong phú từ đáy đại dương."
       }
     ],
-    "synonyms": ["be provided with", "be furnished with", "be equipped with"],
-    "collocations": ["adequately supplied with", "regularly supplied with"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Collocation"],
+    "synonyms": [
+      "be provided with",
+      "be furnished with",
+      "be equipped with"
+    ],
+    "collocations": [
+      "adequately supplied with",
+      "regularly supplied with"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Collocation"
+    ],
     "level": "B1",
     "notes": "Đoạn D: giải thích nguyên nhân ngọc trai Nam Úc có kích thước to.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/supplied-with.mp3"
   },
   {
     "id": "concentric",
@@ -352,13 +597,26 @@
         "vi": "Kết hợp với các vòng tròn đồng tâm của chất hữu cơ, viên ngọc nhiều khả năng là ngọc trai nuôi nước ngọt."
       }
     ],
-    "synonyms": ["coaxial", "homocentric"],
-    "collocations": ["concentric circles", "concentric rings", "concentric layers"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Scientific"],
+    "synonyms": [
+      "coaxial",
+      "homocentric"
+    ],
+    "collocations": [
+      "concentric circles",
+      "concentric rings",
+      "concentric layers"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Scientific"
+    ],
     "level": "C1",
     "notes": "Đoạn E: Cách nhận diện ngọc tự nhiên và nhân tạo qua tia X-ray.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/concentric.mp3"
   },
   {
     "id": "indiscriminate",
@@ -373,14 +631,33 @@
         "vi": "Tình trạng ô nhiễm nước do dầu tràn và nạn đánh bắt quá mức bừa bãi đã phá hủy vùng nước nguyên sơ."
       }
     ],
-    "synonyms": ["reckless", "undiscriminating", "unselective", "haphazard"],
-    "antonyms": ["selective", "judicious", "discriminating"],
-    "collocations": ["indiscriminate use", "indiscriminate attack", "indiscriminate slaughter"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "synonyms": [
+      "reckless",
+      "undiscriminating",
+      "unselective",
+      "haphazard"
+    ],
+    "antonyms": [
+      "selective",
+      "judicious",
+      "discriminating"
+    ],
+    "collocations": [
+      "indiscriminate use",
+      "indiscriminate attack",
+      "indiscriminate slaughter"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Academic"
+    ],
     "level": "C2",
     "notes": "Đoạn F: lý do nguồn ngọc tự nhiên ở Vịnh Ba Tư sụp đổ vào những năm 1930.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/indiscriminate.mp3"
   },
   {
     "id": "pristine",
@@ -395,14 +672,33 @@
         "vi": "Họ cơ bản đã hủy hoại vùng nước nguyên sơ của Vùng Vịnh từng một thời sản sinh ra ngọc quý."
       }
     ],
-    "synonyms": ["unspoiled", "immaculate", "untouched", "flawless"],
-    "antonyms": ["polluted", "contaminated", "spoiled"],
-    "collocations": ["pristine condition", "pristine environment", "pristine beaches"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "synonyms": [
+      "unspoiled",
+      "immaculate",
+      "untouched",
+      "flawless"
+    ],
+    "antonyms": [
+      "polluted",
+      "contaminated",
+      "spoiled"
+    ],
+    "collocations": [
+      "pristine condition",
+      "pristine environment",
+      "pristine beaches"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Academic"
+    ],
     "level": "C1",
     "notes": "Từ miêu tả môi trường tự nhiên rất được chuộng trong IELTS Speaking & Writing.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/pristine.mp3"
   },
   {
     "id": "glistening",
@@ -417,13 +713,28 @@
         "vi": "Đất nước Nhật Bản sản xuất những viên ngọc trai nuôi sáng bóng lấp lánh bậc nhất."
       }
     ],
-    "synonyms": ["lustrous", "shimmering", "gleaming", "scintillating"],
-    "collocations": ["glistening surface", "glistening pearls", "glistening in the sun"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Synonym"],
+    "synonyms": [
+      "lustrous",
+      "shimmering",
+      "gleaming",
+      "scintillating"
+    ],
+    "collocations": [
+      "glistening surface",
+      "glistening pearls",
+      "glistening in the sun"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Synonym"
+    ],
     "level": "B2",
     "notes": "Từ đồng nghĩa với 'lustrous' xuất hiện trong câu hỏi tóm tắt số 8.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/glistening.mp3"
   },
   {
     "id": "lustrous",
@@ -438,13 +749,27 @@
         "vi": "Hết lớp này đến lớp khác chất bao phủ này lắng đọng cho đến khi tạo thành viên ngọc óng ánh."
       }
     ],
-    "synonyms": ["glossy", "radiant", "glowing", "luminous"],
-    "collocations": ["lustrous black pearl", "lustrous shine", "lustrous finish"],
-    "tags": ["Reading 01", "Pearls", "IELTS"],
+    "synonyms": [
+      "glossy",
+      "radiant",
+      "glowing",
+      "luminous"
+    ],
+    "collocations": [
+      "lustrous black pearl",
+      "lustrous shine",
+      "lustrous finish"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS"
+    ],
     "level": "C1",
     "notes": "Đoạn B & G: đặc tính quan trọng nhất quyết định giá trị của ngọc trai.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/lustrous.mp3"
   },
   {
     "id": "secrete",
@@ -459,13 +784,28 @@
         "vi": "Như một cơ chế phòng vệ, loài thân mềm tiết ra chất dịch để bao bọc dị vật."
       }
     ],
-    "synonyms": ["exude", "discharge", "produce", "emit"],
-    "collocations": ["secrete fluid", "secrete hormones", "secrete saliva"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Biology"],
+    "synonyms": [
+      "exude",
+      "discharge",
+      "produce",
+      "emit"
+    ],
+    "collocations": [
+      "secrete fluid",
+      "secrete hormones",
+      "secrete saliva"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Biology"
+    ],
     "level": "C1",
     "notes": "Đoạn B: Cơ chế sinh học tạo nên xà cừ và ngọc trai.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/secrete.mp3"
   },
   {
     "id": "cavity",
@@ -480,13 +820,28 @@
         "vi": "Những đốm đen nhỏ bên trong báo hiệu một khoang rỗng có thể nhìn thấy dưới ảnh chụp X-quang."
       }
     ],
-    "synonyms": ["chamber", "hollow", "void", "opening"],
-    "collocations": ["oral cavity", "internal cavity", "cavity wall"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Anatomy/Science"],
+    "synonyms": [
+      "chamber",
+      "hollow",
+      "void",
+      "opening"
+    ],
+    "collocations": [
+      "oral cavity",
+      "internal cavity",
+      "cavity wall"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Anatomy/Science"
+    ],
     "level": "B2",
     "notes": "Đoạn E: Cấu trúc hạt ngọc tự nhiên có hốc trống hữu cơ.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/cavity.mp3"
   },
   {
     "id": "predominantly",
@@ -501,12 +856,27 @@
         "vi": "Ngày nay, ngọc trai chủ yếu đến từ Nhật Bản, Úc, Indonesia và Trung Quốc."
       }
     ],
-    "synonyms": ["principally", "mainly", "chiefly", "primarily"],
-    "collocations": ["predominantly female", "predominantly rural", "be predominantly based"],
-    "tags": ["Reading 01", "Pearls", "IELTS", "Academic"],
+    "synonyms": [
+      "principally",
+      "mainly",
+      "chiefly",
+      "primarily"
+    ],
+    "collocations": [
+      "predominantly female",
+      "predominantly rural",
+      "be predominantly based"
+    ],
+    "tags": [
+      "Reading 01",
+      "Pearls",
+      "IELTS",
+      "Academic"
+    ],
     "level": "C1",
     "notes": "Đoạn G: Phân bố địa lý thị trường ngọc trai hiện đại.",
     "dateAdded": "2026-11-02",
-    "source": "Reading 01: Pearls"
+    "source": "Reading 01: Pearls",
+    "audio": "/audio/predominantly.mp3"
   }
 ]
